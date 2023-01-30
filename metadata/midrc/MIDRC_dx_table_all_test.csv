@@ -1,0 +1,521 @@
+file_path,race,covid19_positive,sex,age,zip_code
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.513440524020223084217117509976148297116.jpeg,White,Yes,Male,56,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47571273024927201129618807137928050082.jpeg,Black or African American,Yes,Male,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.929677744968985511364761713398.jpeg,White,No,Male,24,CO
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46518030096875650077116589959877953164.jpeg,White,Yes,Male,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.563429290570999534215706177992064608681.jpeg,Black or African American,No,Male,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.576326165876253308212777310892716281227.jpeg,White,Yes,Male,46,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.640688293620483316856393612672.jpeg,White,No,Female,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53423703104469527283679680036911743387.jpeg,White,Yes,Male,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.101225155579416566521836778433.jpeg,Asian,No,Male,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47258730009543485175327714968568076420.jpeg,Black or African American,Yes,Female,68,VA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.537529892291289065111982568634680182925.jpeg,Black or African American,Yes,Female,68,VA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.509453070116764992612099347174862569345.jpeg,Black or African American,Yes,Female,68,VA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54835989529244366382393932403877909690.jpeg,Black or African American,No,Female,38,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47962572301647815914289446505393201080.jpeg,Black or African American,No,Female,38,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54379522342381395691565148585728488634.jpeg,Black or African American,No,Female,38,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.482822429000837966514845148032604850613.jpeg,White,Yes,Female,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55265401128601987214630900786356878224.jpeg,White,No,Male,1,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466061362929001226312340216246676315063.jpeg,Black or African American,No,Male,42,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54489452422311111374689149254109009064.jpeg,White,No,Female,56,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52513825361545323905526433610004402851.jpeg,White,Yes,Male,53,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56411937452896196414003281139603913131.jpeg,White,Yes,Male,77,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.123606016106154438707740205026.jpeg,White,No,Female,34,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.303914230670926815236278405916.jpeg,White,No,Male,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.553916783435531420512746053895157396899.jpeg,White,Yes,Female,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.508292974534313306511644740193905760424.jpeg,Black or African American,Yes,Male,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5730595217403119563867355718863539132.jpeg,White,No,Male,81,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51786041999504329145650184779469204130.jpeg,White,No,Male,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.499867540603457764412134662557132406433.jpeg,White,Yes,Male,82,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51638620228139046254600792856621748363.jpeg,White,No,Female,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.102062870285278128966106247294.jpeg,Asian,No,Female,74,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49788066771745118285314782291665393827.jpeg,White,No,Male,46,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46753416980532072512146787144644956071.jpeg,Black or African American,Yes,Female,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.311096611924695541839297663471.jpeg,Black or African American,No,Male,77,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_302810.jpeg,Black or African American,Yes,Male,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.490189243966446928116512272637260575661.jpeg,Black or African American,Yes,Female,47,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.559480317259123609514247222644727180459.jpeg,White,No,Female,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.545999129448612701814735138755949927583.jpeg,Black or African American,Yes,Female,36,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54523604570154740069935381539164153995.jpeg,Black or African American,Yes,Female,36,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.561919656739238903912631542465655725698.jpeg,White,Yes,Female,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.260523235103765912041577374363.jpeg,Asian,No,Female,30,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49662066392578262986767459218933522316.jpeg,Black or African American,Yes,Female,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.481076294527342202213571690207107564193.jpeg,White,No,Female,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_26711.jpeg,White,No,Female,56,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.551150322771836275815168346746502175421.jpeg,White,No,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49703928797344575833502130382371520185.jpeg,White,No,Male,77,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.291744423701477132314519854138.jpeg,White,No,Male,68,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.547212953246026151314231158963060165004.jpeg,White,No,Female,78,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.295167427225878469310318657007.jpeg,White,No,Female,65,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.479843491497543235616373381286957512589.jpeg,White,No,Female,72,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53053846166177800457582063260311439283.jpeg,Black or African American,Yes,Female,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.510546803340171443610845876967574043815.jpeg,Black or African American,Yes,Female,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_302933.jpeg,Black or African American,No,Male,65,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.471316968547975992015871367357968852655.jpeg,Black or African American,Yes,Female,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56518919960152474995331621450276171159.jpeg,White,Yes,Female,55,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.569005581863871957917212445387085488565.jpeg,White,Yes,Female,48,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.502462319841573702618132349785550199711.jpeg,Black or African American,No,Female,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.305498580220440092637523578030.jpeg,White,No,Male,71,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.284167676687447232525086018368.jpeg,Asian,No,Male,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.536319075892551049914497059964.jpeg,American Indian or Alaska Native,No,Female,21,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.526198352000284101913359438165578921.jpeg,White,Yes,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.522481749188186028618426010542079708566.jpeg,White,No,Female,2,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5266810704560092855547463753323631502.jpeg,White,No,Female,2,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55393153297041029455548084950563411617.jpeg,Black or African American,No,Male,41,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.313826128879999681500728470079.jpeg,White,No,Female,49,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.287294014736963817385935379559.jpeg,White,No,Male,78,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54429330816925636816134471124780463532.jpeg,White,No,Male,38,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.483605185179684056918181900906963892393.jpeg,Black or African American,No,Male,63,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.505915920116761488817491620051349106602.jpeg,Black or African American,Yes,Male,72,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.563559073702701133714406320894499564183.jpeg,White,No,Female,61,FL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47622758681078093127716667497052908472.jpeg,Black or African American,No,Male,65,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.112577128496952033952059156244.jpeg,White,No,Female,63,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.473206733962116129913466642292591885753.jpeg,White,No,Female,56,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49455486883743788055504311758097080250.jpeg,White,No,Female,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.568649210129461494214501269299878801313.jpeg,Black or African American,No,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.273862504120294643000536311572.jpeg,Asian,No,Female,76,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47862831740729534215437542512701690042.jpeg,White,No,Male,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.213242098214937290048017514061.jpeg,White,No,Female,29,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.154673573548659775004764158231.jpeg,Asian,No,Female,59,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.106627140602380662237532785110.jpeg,Other,Yes,Male,34,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_301095.jpeg,White,No,Female,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.307992386335156880650988162092.jpeg,Black or African American,No,Male,85,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.131779021331089053487739922157.jpeg,Asian,No,Male,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49954602552196717296582551549389132691.jpeg,White,No,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_148302.jpeg,Asian,No,Male,87,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.199512213300051796476340351648.jpeg,White,No,Female,71,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.536081613787587596013065278501592852911.jpeg,White,No,Male,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.329886261870364044050179830730.jpeg,American Indian or Alaska Native,No,Female,59,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_87095.jpeg,White,No,Female,81,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.470989374520675022510176064831745544331.jpeg,Black or African American,Yes,Female,23,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52898209889667681076237170090536343987.jpeg,White,No,Female,63,TX
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.569891804936761128515732557983637323418.jpeg,Black or African American,Yes,Female,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.476896595195661875212959004173693234099.jpeg,Black or African American,Yes,Female,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54127748169623004743567436734852711061.jpeg,Black or African American,Yes,Female,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51743679817778707085510625098389437863.jpeg,Black or African American,No,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5344618815008656692167320244337670533.jpeg,Black or African American,Yes,Female,83,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4718129905733620347129475311982859394.jpeg,White,No,Male,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.55791.0.jpeg,White,Yes,Male,29,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.55789.0.jpeg,White,Yes,Male,29,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.55785.0.jpeg,White,Yes,Male,29,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.1101.0.jpeg,White,Yes,Male,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50279096414855589253504314572424491952.jpeg,White,Yes,Male,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47087442987385416441645110563537903804.jpeg,Black or African American,Yes,Male,39,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.540785895551257951613670845258908356522.jpeg,White,Yes,Male,40,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.196047856645143352349055371491.jpeg,White,No,Male,75,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.512332733706764088914680015181950751923.jpeg,Black or African American,No,Male,43,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.479273911868965319813035738795945106107.jpeg,Black or African American,No,Male,43,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.560494926167803071814665821077763938456.jpeg,White,No,Female,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.367023438279297701057511014423.jpeg,Asian,No,Male,46,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47049570824404239642688412758146404287.jpeg,White,No,Male,14,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.571780532842760768214570764651071355562.jpeg,White,No,Female,71,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.464886120382524404012674015582945496249.jpeg,White,Yes,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.297433970467731747344992365297.jpeg,White,No,Male,75,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.300490849488698862075356107497.jpeg,White,No,Female,71,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.250574276799945207065185526716.jpeg,Asian,No,Male,68,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51671420191479059538646459908262513296.jpeg,Black or African American,Yes,Female,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48464388777548231811165710090785668248.jpeg,Black or African American,No,Female,49,TX
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57240575668735708518335583198614871727.jpeg,White,Yes,Female,37,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50311159837467348933526217107583190423.jpeg,White,Yes,Female,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.235297843419117070692857463496.jpeg,White,No,Male,64,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52467894728943166213229869077838053054.jpeg,White,No,Male,1,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.416052605392440421487640584240.jpeg,Black or African American,No,Male,61,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.522838972047777166118375609931416945034.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.155994885875950219240410128610.jpeg,Black or African American,No,Male,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.475104719561218109216613761270591098299.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.503510096060423333217964891129682420621.jpeg,American Indian or Alaska Native,Yes,Male,60,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.486377570217741872816781964720220715921.jpeg,White,Yes,Male,69,KS
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49783939317691145854234581947627969417.jpeg,White,No,Female,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56428682597230045213785866588677046463.jpeg,Black or African American,Yes,Female,47,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.242499569373143082086081438548.jpeg,White,No,Male,86,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5188490220779282805518387562493074856.jpeg,Black or African American,Yes,Female,31,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.112722257521072883493270386101.jpeg,White,No,Male,79,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.311138313120561194195750070891.jpeg,Asian,No,Female,77,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.216136372406877585121019206570.jpeg,White,No,Male,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.468674486386796425014804066113933428923.jpeg,Black or African American,Yes,Female,60,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47355263690117174312883293703099691664.jpeg,Black or African American,Yes,Female,60,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49484462330854344786549112002142330043.jpeg,Black or African American,Yes,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48269947245134236505204615561139874178.jpeg,White,No,Male,2,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.515673463833616299113578437183506382003.jpeg,White,Yes,Female,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.134771934297407586063195570634.jpeg,White,No,Male,37,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55373217920238142086176346824460282559.jpeg,Black or African American,Yes,Female,49,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49786830329319457015590903182275280305.jpeg,White,Yes,Female,77,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.535683146834525406712455573786188395914.jpeg,White,Yes,Female,13,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.537071924312096088215081306867052782253.jpeg,White,Yes,Female,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46617478437551160383690349571954293901.jpeg,White,Yes,Female,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52999396431466184987687395569065276049.jpeg,White,No,Male,80,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.265847935924238674319383893468.jpeg,Other,No,Female,67,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.141581004038859123079461800685.jpeg,White,No,Female,63,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.214864637296357345325985609037.jpeg,White,No,Male,63,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_291811.jpeg,Asian,No,Female,77,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.503866286696144644915434948116507150735.jpeg,Black or African American,Yes,Male,86,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.907728070176840398265052178173.jpeg,Asian,No,Male,30,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.526292822693659334912887480972398675343.jpeg,Black or African American,Yes,Female,43,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.340254724063600949339618847053.jpeg,White,No,Female,41,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53650721546816579545593203666166398866.jpeg,Black or African American,No,Male,2,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.234615603626331045173260220872.jpeg,Black or African American,No,Female,21,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52011622173443665104121593883584615332.jpeg,White,Yes,Male,37,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47711308222411032387678777934997839788.jpeg,White,No,Male,60,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57550918692798399265323088475433367183.jpeg,Black or African American,No,Female,49,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.494921131385031454615905201799882818976.jpeg,White,No,Male,51,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52398535126404389488519320925476414372.jpeg,White,No,Female,71,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54830754928762628715428813440136761788.jpeg,Black or African American,No,Female,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4786615722420791186335204217180444594.jpeg,Black or African American,No,Male,55,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53075352474379463117139637615856382369.jpeg,Black or African American,No,Female,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.140217414166447180425070209661.jpeg,Black or African American,No,Female,21,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.497948933374753765017554564053079808679.jpeg,White,Yes,Female,63,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.500464820645795900610437157456390798778.jpeg,Black or African American,Yes,Female,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56376831230902184965037328531594648713.jpeg,White,Yes,Female,22,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.740959044354521370085550399524.jpeg,White,No,Female,82,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.554614979773871558810127703286538171285.jpeg,Black or African American,No,Female,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.483083187299825736813311190659083315856.jpeg,Black or African American,Yes,Female,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56296203308947390229981801471290824099.jpeg,Black or African American,Yes,Female,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.495508455215487870814224203399458437011.jpeg,Black or African American,Yes,Female,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.512856600297747894612308993872471079066.jpeg,Black or African American,Yes,Female,36,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57399239048697026862721371441659024022.jpeg,White,No,Male,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.560468665759533489510277022288800281771.jpeg,White,No,Male,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57558175535563512733023536287666223275.jpeg,White,Yes,Female,72,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46625020164524440044153953667616894647.jpeg,White,No,Male,86,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5205626809875643544157223163112441790.jpeg,Black or African American,No,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53218260754255574174902520932126881154.jpeg,Black or African American,Yes,Female,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.517074366574667696615655943651517693848.jpeg,Black or African American,Yes,Female,61,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50090150142442754748741201990520953481.jpeg,Black or African American,Yes,Female,61,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47214957478349702633846503313541314734.jpeg,White,Yes,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.491273398305933287116711145297848832170.jpeg,Black or African American,Yes,Male,42,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.541278175040823776213191107750093971635.jpeg,White,No,Female,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47485466776687383097370431336705811867.jpeg,White,No,Female,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.556271437187453846214472158578112659858.jpeg,White,No,Male,27,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.246359291938638015479123240608.jpeg,Black or African American,No,Male,28,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.629747306664390056998855080700.jpeg,White,No,Male,37,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4955361431529910497723865100483002289.jpeg,White,Yes,Female,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_302960.jpeg,White,No,Male,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_302956.jpeg,White,No,Male,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47652415740749536262007961314415788432.jpeg,White,Yes,Male,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.290474321100452057982237252295.jpeg,White,No,Male,66,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5667821268893649035277748190030503866.jpeg,White,No,Male,66,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.520579867769520594515870245465563990685.jpeg,White,No,Male,60,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.204862520455217521988186355790.jpeg,White,No,Male,29,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_150599.jpeg,White,No,Female,77,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56821378102636245446655579642820428931.jpeg,White,No,Female,72,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.276791597041189636783247568400.jpeg,Other,No,Male,72,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.554328091174716337911580726850919363234.jpeg,White,No,Male,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.464318729516685617717687740346754001820.jpeg,Black or African American,No,Male,73,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.576231692740695747612177184304921639588.jpeg,Black or African American,No,Male,73,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_297616.jpeg,White,No,Female,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.553410576545425080315787595187182404270.jpeg,Black or African American,Yes,Female,50,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618399864692.45015.0.jpeg,Black or African American,Yes,Male,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.142947446108512880987484653253.jpeg,White,No,Female,63,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54737986908120882318849090621790838167.jpeg,Black or African American,Yes,Female,70,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_4518.jpeg,White,No,Female,67,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.538284439402409557313655884485445931137.jpeg,White,Yes,Female,53,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.136065166517462983272827591798.jpeg,White,No,Male,64,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.480982736941987131114447528997812438968.jpeg,Black or African American,No,Female,69,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51897121527877022436484950662285073598.jpeg,White,Yes,Male,31,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.489322833383108257211756527085526907268.jpeg,White,No,Male,86,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.160619360784986572913540917737.jpeg,Other,No,Female,74,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53581909442637012127601538098803183263.jpeg,Black or African American,Yes,Female,25,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.463320424928941889517947521467747851187.jpeg,White,Yes,Female,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.226754357066104464229094946353.jpeg,White,No,Female,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.607482356008708142042218877447.jpeg,Asian,Yes,Female,75,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48730277002191170588765783698386502335.jpeg,White,No,Male,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.502990311333140608912408472323672228509.jpeg,White,Yes,Male,81,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.172551392474630641894796531561.jpeg,Black or African American,No,Male,59,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618953007798.3268.0.jpeg,White,Yes,Male,18,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57606897676872436718411565479787924633.jpeg,Black or African American,No,Female,57,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51254743995920562608812218396871716992.jpeg,Black or African American,No,Female,57,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.199761262298073846537972099613.jpeg,Black or African American,No,Male,61,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52424060611738719975961445251588560813.jpeg,White,Yes,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.115341579490703044774874326182.jpeg,Asian,Yes,Male,66,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.461607427664671287110554616223164976785.jpeg,Black or African American,Yes,Female,77,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.338490794113403551387276081265.jpeg,White,No,Female,36,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47015634486167633375486314092386426511.jpeg,White,No,Male,38,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57641780415919474178622076313564289920.jpeg,White,No,Female,72,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.519435603600404780110391142024464557478.jpeg,Black or African American,Yes,Female,18,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53931045200607732093314264921346524580.jpeg,Black or African American,Yes,Female,18,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.293598262151054999336033467057.jpeg,Black or African American,No,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466284347067769622418048840622887263661.jpeg,Black or African American,Yes,Female,30,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.520974079091319966010698655160812785343.jpeg,White,Yes,Female,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.123587304083264854448772133458.jpeg,White,No,Male,34,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.204754040594300779204681043443.jpeg,White,No,Female,34,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50893225255849974226572657018281688242.jpeg,White,Yes,Female,84,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48175780508554002339466459551650267051.jpeg,White,No,Female,24,IN
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.502869832322846956814657144278154872993.jpeg,Black or African American,Yes,Male,42,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.306078241327824126649152235413.jpeg,Asian,No,Female,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49042801533704082459270539604790166197.jpeg,Black or African American,Yes,Female,39,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.850354011472564870861993624703.jpeg,White,Yes,Female,83,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52392406266916899116546206797672657583.jpeg,Black or African American,No,Female,20,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55537479786818771988980076928881922751.jpeg,Black or African American,Yes,Male,80,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.570396222158477598610614784155138925496.jpeg,Black or African American,Yes,Male,80,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5084382939558663300809435996999650734.jpeg,White,Yes,Female,15,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.230235307456304717500920657175.jpeg,Other,No,Female,86,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.498631232511069197817709861066113302683.jpeg,Black or African American,Yes,Female,43,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.738360906444702794492517488939.jpeg,White,No,Male,67,MN
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.114876658300447049128115689731.jpeg,Asian,No,Female,85,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.474162196953547485111466471386272938657.jpeg,White,No,Male,78,TX
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53534956885302218629813059012568781740.jpeg,Black or African American,Yes,Female,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57155686015365780931261769660337338284.jpeg,Black or African American,Yes,Female,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.148078428469837442024360967765.jpeg,Black or African American,No,Female,75,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50674331438640873798808825771056770719.jpeg,Black or African American,Yes,Female,65,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50451370811567814185080929856919890306.jpeg,Black or African American,No,Male,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50601175934823071557856098836521258930.jpeg,White,Yes,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47015225808155086238069308266110946224.jpeg,White,Yes,Male,49,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55856056109697459368044788070140134070.jpeg,White,No,Female,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.491482164439131748615985236416059367071.jpeg,White,No,Female,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.491538626147972324514109383815118862264.jpeg,White,No,Male,81,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.521871796894295170610239012708201334447.jpeg,White,No,Female,4,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.568054195682690839616059356705219084456.jpeg,White,No,Female,4,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.891046823383661889432439151663.jpeg,White,No,Female,38,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51736185338735022935269357544777021571.jpeg,White,No,Male,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49783896777291088363219817702953722293.jpeg,White,No,Male,53,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.478283283738479212312303516462365015465.jpeg,Black or African American,Yes,Female,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.290569723389286539315010428385.jpeg,White,No,Male,39,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.570495027823821271218117825245480909696.jpeg,Black or African American,No,Male,63,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.550072997118742732911572718876654886059.jpeg,Black or African American,Yes,Male,49,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5381629139941611225643942791689350043.jpeg,White,Yes,Male,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.542060178987799101012684620604993003965.jpeg,White,Yes,Female,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.324340897376848768045019612971.jpeg,Asian,No,Male,52,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.749172024897728886492711032640.jpeg,Asian,No,Female,86,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57222705798953109941849047874078472874.jpeg,White,Yes,Male,31,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.263444504837570919294527179949.jpeg,Asian,Yes,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46583167185920633503097135087082082464.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5164424267390944116899447200335476150.jpeg,White,Yes,Female,78,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.589443859130978310216362143855.jpeg,Asian,Yes,Male,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466379937857352280217746569846009666441.jpeg,White,No,Female,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48589399041123637315042121072094253995.jpeg,White,No,Female,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.486599754317658830210373054994878025104.jpeg,White,No,Female,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4995671888053393673459983451181667479.jpeg,White,No,Male,83,NM
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.527585318733792270618322817602377954945.jpeg,Asian,Yes,Male,16,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57243298534863177009571468064492017557.jpeg,Black or African American,No,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.158037394374501156231041590731.jpeg,White,No,Male,57,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56523215794740657792694791271001980070.jpeg,Black or African American,Yes,Female,77,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.258750648135743782541879236837.jpeg,Black or African American,No,Male,34,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55469947538384501332422054007581325953.jpeg,Black or African American,Yes,Female,58,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.463660588421636079618067693705437055397.jpeg,White,No,Male,68,PA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_134086.jpeg,White,Yes,Male,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_134085.jpeg,White,Yes,Male,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.230488612432243625842108380264.jpeg,Asian,No,Female,65,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.539119996395091491911302059295169317308.jpeg,Black or African American,Yes,Female,48,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52419612570695000198396516757703719864.jpeg,Black or African American,No,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4875030406210456181800805200590912938.jpeg,Black or African American,Yes,Female,59,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46583923111975709551335008654807626427.jpeg,Black or African American,Yes,Female,59,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466235438747064731716285613096596329878.jpeg,Black or African American,No,Female,25,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.465980796870942940615069589141145707194.jpeg,Black or African American,No,Female,25,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.465216871953761182517340329994706578578.jpeg,Black or African American,No,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.547972064179132851010543391414863334067.jpeg,Black or African American,No,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.116540223937817525235215635384.jpeg,Black or African American,No,Female,21,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.112064251010277408649214324523.jpeg,White,No,Female,56,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.150626709615291321105750344926.jpeg,White,No,Female,30,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.311021509632585378513782425304.jpeg,Black or African American,Yes,Female,36,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.535874513562315579213327750023991902895.jpeg,White,Yes,Female,84,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54602746129273002928722681215516132764.jpeg,White,Yes,Male,23,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.621646601569589192656566689409.jpeg,Asian,No,Female,73,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.169049477284709337865625813870.jpeg,Black or African American,Yes,Female,49,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.781835746047599029798847852979.jpeg,Black or African American,No,Male,43,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57368503289678694215700769053152686499.jpeg,Black or African American,Yes,Female,87,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50516960494821469235046278081397898426.jpeg,White,Yes,Female,66,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4908772041173083367743411581100760761.jpeg,Black or African American,Yes,Male,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50573242842649939639627583024509350019.jpeg,Black or African American,Yes,Male,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.157251083442208452215002512912.jpeg,Asian,Yes,Male,72,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.468826992584593065815285244299069650050.jpeg,White,No,Female,21,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.172872946555781594379904285257.jpeg,White,No,Female,20,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50537896447616520854386699795847322262.jpeg,White,Yes,Male,55,IN
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.161774529734337080423600964223.jpeg,Asian,Yes,Female,82,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.217241016000306690061721609918.jpeg,White,Yes,Male,70,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.19897.0.jpeg,White,Yes,Male,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.251923505334558390155871502360.jpeg,White,No,Male,65,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.189687609367032781664035237547.jpeg,White,No,Female,70,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.463900927037590856514882032215609990810.jpeg,White,Yes,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.325492957665437297820599629718.jpeg,White,No,Female,74,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_297614.jpeg,White,No,Female,51,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.522442707526946028611393123058075345326.jpeg,Black or African American,No,Female,17,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48167820996957034475125439737584279172.jpeg,White,No,Female,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46249932272002339277681670798968175527.jpeg,White,Yes,Male,59,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.271081085078563995189867458314.jpeg,White,No,Male,56,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54423027274878190227642930362654429116.jpeg,Black or African American,Yes,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.276762630102832970441177004640.jpeg,Asian,Yes,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.481418309420155899516915354180960403889.jpeg,Black or African American,Yes,Male,52,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.532359305008242868114190460248845710783.jpeg,Black or African American,Yes,Female,47,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.25981.0.jpeg,Black or African American,Yes,Female,8,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.25990.0.jpeg,Black or African American,Yes,Female,8,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618866294295.25987.0.jpeg,Black or African American,Yes,Female,8,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_141106.jpeg,White,No,Male,23,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.477339214184216091715576025269392355762.jpeg,Black or African American,No,Female,62,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.532969546595371012417870001434465693069.jpeg,White,No,Male,56,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54634750822747602668606640363309019559.jpeg,Black or African American,Yes,Female,66,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_49161.jpeg,Asian,No,Male,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.317607924865489728351193402197.jpeg,Asian,No,Female,72,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.497704497422760608816179473148151943830.jpeg,Black or African American,No,Female,46,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.102150822339426580309418692940.jpeg,White,No,Male,75,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.575512615744821837615264356148845659829.jpeg,Black or African American,Yes,Female,50,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.323405823830048592861311237545.jpeg,White,No,Male,86,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49131038478300913406487642729285685936.jpeg,Black or African American,Yes,Male,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5580719700475179618209381186859063190.jpeg,Black or African American,Yes,Male,34,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.484912975284789040211825754615041192331.jpeg,White,No,Female,83,TX
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.476294199686955370010537327674505454488.jpeg,White,No,Male,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.5191052198237285227867621944731033236.jpeg,Black or African American,Yes,Female,55,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.534474699184810048611911108099556941503.jpeg,Black or African American,No,Male,5,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46653203963871167989257737534030023353.jpeg,Black or African American,No,Male,5,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.171224964547055689097425067441.jpeg,Asian,No,Female,48,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.147257869457790195900760823575.jpeg,Asian,No,Female,57,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47056217612560739223479671133040592305.jpeg,Black or African American,Yes,Female,42,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.195128061307608647270116148833.jpeg,Black or African American,No,Female,61,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46783554635182940864655554962645857683.jpeg,Black or African American,Yes,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48524466024675301167573395576466281659.jpeg,Black or African American,No,Female,71,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.518353058149700753616440386485372374971.jpeg,Black or African American,No,Female,71,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.465448233341909247416211573346382318229.jpeg,White,Yes,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50098785679987234022170591817291621299.jpeg,Black or African American,No,Male,84,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.515004628609080012314243155503014345102.jpeg,Black or African American,Yes,Male,50,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53483736259539172282764632123420081586.jpeg,White,No,Male,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55841386650905445671639384115868719237.jpeg,White,Yes,Female,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.527912171117509028313662224519316829314.jpeg,White,Yes,Female,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.463012696712491159413091261716360762279.jpeg,White,Yes,Female,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51991628340332090532503101784834061987.jpeg,Black or African American,Yes,Female,54,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.503260836668793530210870235998600850571.jpeg,Black or African American,Yes,Female,51,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.502389047298934442510886207175660588463.jpeg,White,Yes,Female,46,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.279503018888932753821473028374.jpeg,White,No,Female,38,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.527674947626460136914082407654260975521.jpeg,Black or African American,Yes,Female,43,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.188642258958296306862422457641.jpeg,White,No,Female,50,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52916203622137988697740680585433227168.jpeg,Black or African American,No,Male,61,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.877109996530013360681758147218.jpeg,Asian,No,Female,38,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.572975721090521541415127038634794204034.jpeg,White,Yes,Male,63,IN
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56234848573089306442497479397564201895.jpeg,White,No,Male,27,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.498378492927409154912627600229865797783.jpeg,White,No,Female,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.536101336956555873517430216690221532302.jpeg,White,No,Female,69,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.570319905401550215616611704695367187362.jpeg,Black or African American,No,Male,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.553559293714978114418145938270120271806.jpeg,Black or African American,No,Female,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51845198845609939474702893169056739258.jpeg,White,No,Male,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53641547812269487001713360366723825851.jpeg,Black or African American,No,Female,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.559740931752268022414600018189775693453.jpeg,Black or African American,Yes,Female,23,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.166485258185088621409832886848.jpeg,White,No,Male,56,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50352412600001009174094480165153310381.jpeg,White,No,Male,83,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54631231719466768276169587672839610531.jpeg,White,No,Male,63,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_303064.jpeg,Asian,No,Male,39,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49451504241181866285078695108234713730.jpeg,White,Yes,Male,68,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46451248097179071045082719441077051062.jpeg,White,Yes,Male,55,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.208156591445601781551762165318.jpeg,Asian,No,Male,30,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_71865.jpeg,Asian,Yes,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_235215.jpeg,Asian,Yes,Male,87,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55080935672323179279897268696016889737.jpeg,Black or African American,Yes,Female,79,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.193190769263500239092436641814.jpeg,White,No,Male,59,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.128862953152166265315859498696.jpeg,Black or African American,Yes,Female,33,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57631319607080892993200745986989855929.jpeg,White,Yes,Male,44,IN
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55651357626418124187304881184840305593.jpeg,White,No,Male,79,TX
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.47472897882401410215074459420999876793.jpeg,Black or African American,No,Male,8,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.558668691170864836812179457476170774661.jpeg,Black or African American,No,Male,47,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.523875392215305768316770140753409968518.jpeg,Black or African American,No,Male,47,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466921313531708793811479417850512119481.jpeg,White,Yes,Male,77,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_302968.jpeg,Black or African American,No,Female,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.57405720581580628297015315851061693826.jpeg,White,No,Male,41,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49862819773710637996994176687182509742.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.548653504165603017613803334216293645197.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.556703001764069066711079499747745419199.jpeg,White,Yes,Male,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.473700713827736145816015622034100328870.jpeg,Black or African American,Yes,Female,61,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.537497304052849385314011842098517748869.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51084194244533360554024532710467217281.jpeg,White,No,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56191263054769486995279711658463574194.jpeg,White,No,Male,27,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51361845947467767962123255337941429933.jpeg,Black or African American,Yes,Male,29,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51202804620921204194867939130382004141.jpeg,Black or African American,No,Female,57,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56106108310985413011904676038773756854.jpeg,Black or African American,No,Female,57,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_55139.jpeg,White,No,Female,35,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51538576955506139465835226133383812539.jpeg,White,Yes,Male,80,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54650254313990318903700960161011903651.jpeg,White,Yes,Female,77,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.567069027693268678913856117835994399653.jpeg,Black or African American,No,Female,50,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.549442875836697050615161211335125820085.jpeg,White,Yes,Male,11,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.626746740647699479719460333000.jpeg,Asian,No,Male,73,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.593573630431024304935718121728.jpeg,White,No,Male,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_71868.jpeg,Asian,Yes,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52240010434795638336899021612013399429.jpeg,White,Yes,Female,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.1247991691.71736179.1616155726490.5102.0.jpeg,White,Yes,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.857792370066573822500966946698.jpeg,Black or African American,No,Female,31,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.512331282645366133415623754359339101067.jpeg,White,Yes,Male,72,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.309805973087200066698338289229.jpeg,White,No,Male,67,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.270334038712628270076303948847.jpeg,White,No,Male,67,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50894854605463469824762268477070526137.jpeg,White,No,Female,67,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.220170775662243201779700447009.jpeg,Black or African American,No,Female,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.572332279246432020710965140097547833765.jpeg,Black or African American,Yes,Female,48,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.526547978674065049618218747781551889596.jpeg,Black or African American,Yes,Male,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48380560309064115335487190838967077773.jpeg,Black or African American,Yes,Male,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.548926755162350335717653898147214541981.jpeg,Black or African American,Yes,Male,54,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.249630852933658481981489244646.jpeg,White,No,Male,76,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.492526260187098329017674750955105417122.jpeg,Black or African American,Yes,Male,51,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.195829807498946031582425816400.jpeg,Asian,No,Male,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56595802560817886554665006855726907520.jpeg,Black or African American,Yes,Male,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.169366717727178476813448365337.jpeg,Black or African American,No,Female,54,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.556351326097213131314202650259747245984.jpeg,Black or African American,No,Female,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.542470930893738512916764096003076347521.jpeg,Black or African American,No,Female,28,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.505654836674111890417804852066363697298.jpeg,White,Yes,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.512549043095764241312512557063291233155.jpeg,White,Yes,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46814049125982621319038732304530972812.jpeg,White,No,Male,35,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53887026955773411131119112334282511265.jpeg,White,Yes,Female,49,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.171057398574464247983888514247.jpeg,White,No,Male,48,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.536729457780705597218363857656616717979.jpeg,White,No,Male,55,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.561404417344645844312475323609084488098.jpeg,White,No,Male,55,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.471942656698901704010850413744684126899.jpeg,Black or African American,No,Male,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.466522772835648424012038543995951592120.jpeg,Black or African American,Yes,Female,63,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.1247991691.71736179.1616155726490.5131.0.jpeg,White,Yes,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.192096116701772723115254701766.jpeg,Asian,No,Female,88,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.755276807036324722438656767911.jpeg,White,No,Male,64,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.119960562550296279652799291486.jpeg,White,No,Female,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.520981110047114679712337475352557740161.jpeg,White,No,Male,60,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.506299239439238376516475463827826223285.jpeg,Black or African American,No,Male,67,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.561602482396290063960998164013.jpeg,White,No,Female,71,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.49141458535991843747902243086664254141.jpeg,Black or African American,Yes,Female,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.146190593884488878060998971115.jpeg,Asian,No,Male,65,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54163921573200250579324918038737353402.jpeg,White,Yes,Female,89,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.50389708957145134453882757146978717576.jpeg,Black or African American,No,Male,64,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.56532660900162504096560910528716824731.jpeg,Black or African American,Yes,Male,68,VA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.55688282854448329903525495845740302511.jpeg,Black or African American,Yes,Male,68,VA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.588212225960613290527063910079.jpeg,White,No,Female,81,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.121662839477385014773472481660.jpeg,White,No,Male,46,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.3.6.1.4.1.5962.99.1.3492129840.282517718.1618399864692.40893.0.jpeg,Black or African American,Yes,Male,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.574099140960436842310357657115311999675.jpeg,Black or African American,No,Male,45,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.544509628806341578210225701402545261720.jpeg,White,Yes,Male,18,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54387062117496373829863727642679274420.jpeg,Black or African American,Yes,Female,67,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.523766797682132365415396264521999929739.jpeg,Black or African American,Yes,Male,38,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.523641526890752952610687109780276014232.jpeg,Black or African American,Yes,Female,30,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.4658621812759812887321614536674287495.jpeg,Black or African American,Yes,Female,64,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52428895547667057116466231861755450019.jpeg,Black or African American,Yes,Female,64,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.497347492375587651416688951941033365433.jpeg,Black or African American,Yes,Female,64,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.51135280778975675648892282214019064991.jpeg,Black or African American,Yes,Female,64,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.867563282610519712499652857215.jpeg,White,No,Male,22,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.497201739746800998312247412531395949982.jpeg,White,Yes,Female,57,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.487852916320920090012060077711622944433.jpeg,Black or African American,Yes,Male,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.242627064570044940447094834434.jpeg,Other,No,Female,64,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.625800073992145878944170241893.jpeg,Asian,Yes,Male,79,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.295971371702805246336923143704.jpeg,White,No,Male,38,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.321857858095737884938763575252.jpeg,Asian,No,Female,74,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54316319105585888887744913304331778700.jpeg,White,Yes,Female,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.54212900042275953236174737846967983017.jpeg,Black or African American,Yes,Male,63,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.256708322884160498000309885903.jpeg,Asian,No,Female,80,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.529626599541713460612502863030170740657.jpeg,White,No,Female,46,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.489980976260539429764455310079.jpeg,Asian,Yes,Male,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.529228090059051351016243312592610875068.jpeg,White,Yes,Male,14,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.525638535603853036813813315790443552692.jpeg,White,Yes,Male,73,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.628771406806815532904704906531.jpeg,Asian,No,Male,88,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.548610588299801154912544286392201400453.jpeg,White,Yes,Female,50,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.196077606586725360906065508391.jpeg,White,No,Male,67,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.819184157251056582979300012614.jpeg,Asian,No,Male,35,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.539635791871249627213195139067984131773.jpeg,White,Yes,Female,62,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.544086713061454285614015341380502911398.jpeg,White,No,Female,76,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.480101039945977954010180331530543382945.jpeg,White,No,Female,76,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.585687101557672474223398067431.jpeg,Asian,No,Female,77,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.553089229772376241216003459446063198397.jpeg,White,No,Female,44,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_56268.jpeg,Other,No,Female,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.52376505699263885683977163358749388179.jpeg,White,Yes,Female,61,IL
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.513305473225500713015905714830898234264.jpeg,White,Yes,Female,74,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.328365641672490498920834117401.jpeg,Asian,No,Female,29,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.291755503342878770083647239054.jpeg,White,No,Male,52,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.48674784098315043872928519170346311319.jpeg,Black or African American,No,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.551244120270858878810639222545301711779.jpeg,Black or African American,No,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.53664194030071234379644663406748818109.jpeg,Black or African American,No,Female,52,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.481032810108273379715190433232005343379.jpeg,Black or African American,No,Female,3,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_137567.jpeg,Asian,Yes,Male,64,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.117295870329342077290908790979.jpeg,White,No,Male,69,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.515501652749792255212999656404165647804.jpeg,White,No,Male,75,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/File_71871.jpeg,Asian,Yes,Female,62,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.46754331252211190978691800155241801874.jpeg,White,Yes,Male,56,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.527473392801728353818388302372214244780.jpeg,Black or African American,Yes,Female,47,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/2.16.840.1.114274.1818.503180922949076695514136935637544122266.jpeg,White,No,Male,51,NC
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.101404025520121271155649864173.jpeg,Black or African American,Yes,Female,58,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.333766148124963016454911668577.jpeg,Asian,Yes,Male,47,CA
+/shared/rsaas/enyij2/midrc/data_subset/dx/clean_all/1.2.826.0.1.3680043.10.474.419639.445050884313159183072174772411.jpeg,White,No,Female,75,CA

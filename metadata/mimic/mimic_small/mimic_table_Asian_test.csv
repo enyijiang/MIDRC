@@ -1,0 +1,1601 @@
+,img_path,admission_type,gender,age,positive
+0,/shared/rsaas/enyij2/mimic/p14989554_s50109118_7a66c258-6e95905c-c2672032-da52fe49-0c87fcea.jpg,EW EMER.,M,48,Yes
+1,/shared/rsaas/enyij2/mimic/p16265665_s57883838_b0ebdda4-107672ef-c1c13f2a-06f15758-73a4a80f.jpg,OBSERVATION ADMIT,F,74,No
+2,/shared/rsaas/enyij2/mimic/p11047238_s52396508_f89eac91-d55296ab-65dee91a-873b32b0-9d693abd.jpg,EW EMER.,F,74,Yes
+3,/shared/rsaas/enyij2/mimic/p17449903_s50407322_1a2c677a-78101cf0-44e45b0f-3101fbb4-160a167c.jpg,EU OBSERVATION,F,82,No
+4,/shared/rsaas/enyij2/mimic/p17768098_s53987155_c6793a0e-82f041d3-3369c091-ab0bb3ae-260d5288.jpg,ELECTIVE,M,72,Yes
+5,/shared/rsaas/enyij2/mimic/p19724101_s58258016_a05f0a08-4115d39e-5943ae49-46bd8e74-c61a4d31.jpg,EU OBSERVATION,F,22,No
+6,/shared/rsaas/enyij2/mimic/p17281732_s59443617_753deaed-4392e18a-2c617ee7-c02fe061-f5571fbc.jpg,EW EMER.,M,31,Yes
+7,/shared/rsaas/enyij2/mimic/p12818469_s59648844_b263910e-5088b43d-c07f855a-d7ef45c4-d1fb3e5b.jpg,EU OBSERVATION,F,27,Yes
+8,/shared/rsaas/enyij2/mimic/p16701608_s50900363_cf4a7d58-29120e83-f5fad98f-3a441f4a-8616b2c1.jpg,EW EMER.,F,91,Yes
+9,/shared/rsaas/enyij2/mimic/p17761938_s55108963_50292cd3-8098dbcd-df0f0a44-c25aefe0-912569e2.jpg,DIRECT OBSERVATION,F,63,Yes
+10,/shared/rsaas/enyij2/mimic/p11738688_s58164797_3aaf7901-9981fcb0-de0cae1b-42c42552-0e9b71ed.jpg,DIRECT OBSERVATION,M,50,Yes
+11,/shared/rsaas/enyij2/mimic/p16239694_s58966636_3c7e3326-372e4881-68cca836-03015eef-58af7e5f.jpg,EW EMER.,F,57,Yes
+12,/shared/rsaas/enyij2/mimic/p13420842_s51037294_15b7811c-a0053edd-c0ff1955-ea6e3f87-a726e6f6.jpg,EU OBSERVATION,M,85,Yes
+13,/shared/rsaas/enyij2/mimic/p12202573_s54284218_385515af-3b173e9b-5ae91432-046aba0d-d80c2adc.jpg,EW EMER.,M,22,No
+14,/shared/rsaas/enyij2/mimic/p10052926_s51951563_4f2a4316-3b0d9fe3-9caae003-08294e0b-1f954946.jpg,EW EMER.,M,59,No
+15,/shared/rsaas/enyij2/mimic/p15875150_s59562791_3aa7edcc-c43f97e9-5575ff35-caed5891-a8638bca.jpg,DIRECT OBSERVATION,M,54,No
+16,/shared/rsaas/enyij2/mimic/p18866898_s52963690_075abcd0-0c532c76-547df9a3-a1274824-167cc23d.jpg,OBSERVATION ADMIT,F,56,No
+17,/shared/rsaas/enyij2/mimic/p18998238_s53219324_45ec376b-29468b14-49c319d8-eff046f5-8cb8df52.jpg,EW EMER.,F,68,No
+18,/shared/rsaas/enyij2/mimic/p11157059_s57696086_f8c31d3b-1b268077-aff5189f-367e6345-67a0dce6.jpg,EW EMER.,M,29,No
+19,/shared/rsaas/enyij2/mimic/p12141177_s54323045_4e2e0441-e38d2aff-4517ec3a-61ef0bc0-8d9b427b.jpg,EU OBSERVATION,F,53,No
+20,/shared/rsaas/enyij2/mimic/p13005295_s54865413_6a09f5fa-b797d82a-7536cb48-cd04e278-4f895f8e.jpg,EU OBSERVATION,M,33,Yes
+21,/shared/rsaas/enyij2/mimic/p17710775_s56765684_24a42dba-1a8aca39-2b40031b-56135e45-24f853be.jpg,DIRECT OBSERVATION,M,38,No
+22,/shared/rsaas/enyij2/mimic/p12807579_s51146984_bbce8d6e-2fc6e774-7517f7c5-b441bf2e-72986309.jpg,EU OBSERVATION,F,58,No
+23,/shared/rsaas/enyij2/mimic/p11314150_s53383158_f35c874e-03b315d8-464687a9-40acf15f-2a7c04de.jpg,EU OBSERVATION,M,44,No
+24,/shared/rsaas/enyij2/mimic/p16548560_s56295254_57ac1ce0-b09c0bd9-37dd29c5-d8ae5987-387d700e.jpg,EW EMER.,M,69,No
+25,/shared/rsaas/enyij2/mimic/p15188685_s58122636_41ae63aa-81ec8a61-aeff0f5f-006d1d3f-02a1da17.jpg,EW EMER.,M,62,Yes
+26,/shared/rsaas/enyij2/mimic/p14120635_s50366812_e73e4c67-bc80acd4-c0e58583-d4ab6ccb-43a4c177.jpg,DIRECT EMER.,M,57,Yes
+27,/shared/rsaas/enyij2/mimic/p11570626_s53559360_3eb02265-f090dc0a-6d09d5d8-fc46ffd0-5fea7f6e.jpg,EW EMER.,F,74,Yes
+28,/shared/rsaas/enyij2/mimic/p17493890_s59967914_2064e983-2c43c5a5-8cd192dc-b85a0a74-1388ab53.jpg,EU OBSERVATION,M,31,No
+29,/shared/rsaas/enyij2/mimic/p11580826_s51984435_4661df0f-c5760e65-6d957f9a-5cd78a96-abcff279.jpg,OBSERVATION ADMIT,M,62,No
+30,/shared/rsaas/enyij2/mimic/p11009622_s51445899_849627f1-78067389-0a1ce650-5cc173a2-ed12a9c1.jpg,EW EMER.,F,74,Yes
+31,/shared/rsaas/enyij2/mimic/p11530308_s53190871_b7126d4b-283bd8a2-e2dc175d-53868889-c3041866.jpg,SURGICAL SAME DAY ADMISSION,F,56,Yes
+32,/shared/rsaas/enyij2/mimic/p17894020_s50518672_c50fa182-ea5ad512-c4c0b0aa-5d518ddb-edec074d.jpg,URGENT,F,78,No
+33,/shared/rsaas/enyij2/mimic/p14439892_s59582025_5ed8c5cf-39ca4ab5-4d6ba53b-6aa2a719-c48be600.jpg,OBSERVATION ADMIT,M,52,Yes
+34,/shared/rsaas/enyij2/mimic/p18799590_s57525111_7f6600ab-5e0946c9-be4be599-d69d6b8c-9f1e50d0.jpg,EW EMER.,F,85,No
+35,/shared/rsaas/enyij2/mimic/p12971141_s51417229_4f66cf11-87f2a9d2-3fe638eb-fd3973d9-6f40d661.jpg,EU OBSERVATION,F,84,Yes
+36,/shared/rsaas/enyij2/mimic/p17203614_s51111588_90b22c03-31b9f9b6-bb7b5056-a51e4dad-b5182779.jpg,EW EMER.,M,85,Yes
+37,/shared/rsaas/enyij2/mimic/p14067176_s52615731_5df53993-512bcddd-b978595a-631c0deb-c1ce47a5.jpg,EW EMER.,M,58,Yes
+38,/shared/rsaas/enyij2/mimic/p11681010_s51458150_2feb1f23-a89269d7-5d59bd69-d575bf0e-be92d750.jpg,EW EMER.,M,83,Yes
+39,/shared/rsaas/enyij2/mimic/p14842342_s59711296_70498cbc-3eac4da7-55c3a5b2-440b78f6-3cfb6b3e.jpg,URGENT,F,26,No
+40,/shared/rsaas/enyij2/mimic/p18120578_s59036255_3ad01021-52784685-09d5dac1-b82bbe05-60f0349c.jpg,OBSERVATION ADMIT,F,79,No
+41,/shared/rsaas/enyij2/mimic/p10248522_s54094354_3905556f-1f1a2d6b-76f9e1d6-8824f2b2-4e732ad9.jpg,EW EMER.,F,65,No
+42,/shared/rsaas/enyij2/mimic/p13158876_s54377442_6e1d4607-67f7c469-aea41917-b612bcdc-77700673.jpg,SURGICAL SAME DAY ADMISSION,F,67,Yes
+43,/shared/rsaas/enyij2/mimic/p11975614_s57339776_46801f03-16b8c544-4d6e5c01-79dfcd14-e8acfae8.jpg,OBSERVATION ADMIT,M,30,No
+44,/shared/rsaas/enyij2/mimic/p12452180_s56288211_ff5a8db5-b25f04cc-be6f1860-87dc13bb-b9298cf3.jpg,OBSERVATION ADMIT,M,69,Yes
+45,/shared/rsaas/enyij2/mimic/p17080143_s58642106_5d3602ea-c72f72d5-d69844a9-46f08845-a6ced4d4.jpg,EW EMER.,F,61,Yes
+46,/shared/rsaas/enyij2/mimic/p14411399_s58965214_76894c06-9b106f65-523a128a-fdd91ad0-eae47691.jpg,EW EMER.,F,66,Yes
+47,/shared/rsaas/enyij2/mimic/p17768098_s52652894_37f1fd0b-fc3e71aa-a29c5f56-d6b87ef5-0d6f64c2.jpg,ELECTIVE,M,72,Yes
+48,/shared/rsaas/enyij2/mimic/p10095570_s59429006_a584ef36-a8d33b45-59d500a4-bc45d4e2-e1dbd443.jpg,EW EMER.,M,63,No
+49,/shared/rsaas/enyij2/mimic/p11978476_s59127988_b4893402-f53ece6e-d53e4598-be3cb271-3bb52dfc.jpg,OBSERVATION ADMIT,F,81,No
+50,/shared/rsaas/enyij2/mimic/p10659469_s53293979_ad6680f4-194e8b25-614109b3-9ce7f57c-2cebb04d.jpg,EU OBSERVATION,M,26,Yes
+51,/shared/rsaas/enyij2/mimic/p12747817_s51185447_280c30c8-27b20419-29a12fbd-0236aebf-113ac030.jpg,EW EMER.,M,86,Yes
+52,/shared/rsaas/enyij2/mimic/p18877929_s56067900_727f8101-2439d857-dabfe30e-57523344-b1637b52.jpg,EW EMER.,M,56,No
+53,/shared/rsaas/enyij2/mimic/p16085653_s57570653_a70c129d-4dfe6665-9b5a9b1d-498454d2-221df7fa.jpg,EW EMER.,M,67,Yes
+54,/shared/rsaas/enyij2/mimic/p14351746_s54278870_aa616ea5-cd79de41-14f45031-b14dfdbb-8a87e2e0.jpg,EW EMER.,M,52,No
+55,/shared/rsaas/enyij2/mimic/p16995942_s51910056_5bf37003-eab1048d-d6d9a968-eb53752e-dcf68d9c.jpg,EW EMER.,F,76,No
+56,/shared/rsaas/enyij2/mimic/p11489167_s51930515_bc84e23f-c710b54d-47963b0d-4f44712e-3662c6af.jpg,SURGICAL SAME DAY ADMISSION,F,55,Yes
+57,/shared/rsaas/enyij2/mimic/p14120635_s57851930_f4f67177-e1e1dedd-5abc4da6-84f9848a-def9f4f0.jpg,DIRECT EMER.,M,57,Yes
+58,/shared/rsaas/enyij2/mimic/p11681010_s58887953_0018b669-28338193-bf26ec2b-47f8dc61-4dfc78a6.jpg,EW EMER.,M,83,Yes
+59,/shared/rsaas/enyij2/mimic/p16515878_s54837874_a34dfb0b-e0504c12-f9ed2e59-10963867-d1e15978.jpg,OBSERVATION ADMIT,M,44,Yes
+60,/shared/rsaas/enyij2/mimic/p16783577_s51127387_c03e716d-b9543c62-89158f8c-b6bacfbb-a8b197be.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+61,/shared/rsaas/enyij2/mimic/p16751749_s57505283_4ac477ad-67469958-ec8c37e7-547c1f59-9a0137e7.jpg,EW EMER.,M,74,Yes
+62,/shared/rsaas/enyij2/mimic/p17884138_s58366610_dc81cb76-879696e4-6c06b0f1-59327290-ee1eba7f.jpg,EW EMER.,M,60,Yes
+63,/shared/rsaas/enyij2/mimic/p14636923_s55033071_6da3b69a-18e4f948-e3b0aa8a-8b7a864e-116f3b98.jpg,EU OBSERVATION,M,76,Yes
+64,/shared/rsaas/enyij2/mimic/p12826076_s58159701_14daa082-30695b9c-640d3778-fe495bc1-9d51c4bf.jpg,EW EMER.,F,62,Yes
+65,/shared/rsaas/enyij2/mimic/p12452180_s56895611_d63881ab-ff670e8c-1d9d9f2a-eaeec922-09bb3d10.jpg,OBSERVATION ADMIT,M,69,Yes
+66,/shared/rsaas/enyij2/mimic/p10309494_s55971804_18b3b77c-82a2c934-c987f058-1642af81-cb7f5374.jpg,DIRECT EMER.,M,82,Yes
+67,/shared/rsaas/enyij2/mimic/p15387290_s51103254_726bc529-49b4b133-b219969f-7c1529fc-4b001050.jpg,SURGICAL SAME DAY ADMISSION,M,64,Yes
+68,/shared/rsaas/enyij2/mimic/p17438670_s56629137_95e5bdad-45ddd2cf-1d3c83a5-c72c039e-a93f9c03.jpg,EU OBSERVATION,F,78,Yes
+69,/shared/rsaas/enyij2/mimic/p19773650_s57976419_7b0c23e2-1e241a15-d1764ae5-6b279166-d26c29f2.jpg,EU OBSERVATION,M,19,No
+70,/shared/rsaas/enyij2/mimic/p12441371_s57923830_6ac5bebe-f2430048-24681481-0fa9ed42-89b2815c.jpg,EW EMER.,M,72,Yes
+71,/shared/rsaas/enyij2/mimic/p16334734_s55248379_b0c73a33-ce403884-e0e34968-08da27a8-9ef2eab8.jpg,URGENT,F,77,Yes
+72,/shared/rsaas/enyij2/mimic/p10070614_s52627603_28f4ed6c-fd3928d5-9f23f433-6d627e3d-5746fa6f.jpg,AMBULATORY OBSERVATION,M,61,Yes
+73,/shared/rsaas/enyij2/mimic/p15600427_s53509925_92c80a2f-0190f0f1-20bd8fc6-d84af9a6-49031a5f.jpg,EU OBSERVATION,F,42,No
+74,/shared/rsaas/enyij2/mimic/p18784631_s50822744_c4c6283a-48c18909-dbe63f00-4eace611-bc8fce03.jpg,EU OBSERVATION,F,42,No
+75,/shared/rsaas/enyij2/mimic/p14984395_s55807017_0e3da788-68f6c546-0ce21ce1-e573f37d-ef749b00.jpg,DIRECT EMER.,F,77,Yes
+76,/shared/rsaas/enyij2/mimic/p16476559_s59639165_16e82ce2-ce81a58e-b4bcaca8-6e4b16d4-6c3edcac.jpg,EW EMER.,M,58,Yes
+77,/shared/rsaas/enyij2/mimic/p11840994_s50855779_ed88bbe3-7facf162-29ebff07-885b55c9-f9c144d4.jpg,URGENT,F,34,No
+78,/shared/rsaas/enyij2/mimic/p12285052_s58602324_005ab9a7-db0d2a70-eed319bc-1e0a3d80-866b2511.jpg,EW EMER.,F,81,No
+79,/shared/rsaas/enyij2/mimic/p17633349_s58993560_ec2497f6-a0967e48-ca4ab1e1-13474bd4-600fc0e7.jpg,EU OBSERVATION,M,85,No
+80,/shared/rsaas/enyij2/mimic/p15621306_s57231580_aa1e71ae-d8b91481-daa59954-51947274-c6f74062.jpg,EW EMER.,M,73,No
+81,/shared/rsaas/enyij2/mimic/p16931776_s58103295_4e29933a-cda4546b-b8d328f5-65982b8f-ee08015c.jpg,EU OBSERVATION,M,51,Yes
+82,/shared/rsaas/enyij2/mimic/p10906758_s55961610_292fc93f-8814f26e-83797d18-50f0e608-fca57b3b.jpg,EU OBSERVATION,M,60,No
+83,/shared/rsaas/enyij2/mimic/p17937834_s50870196_b7f06c88-b17f128d-97cd25ba-7a9f772b-9d778604.jpg,EW EMER.,M,34,Yes
+84,/shared/rsaas/enyij2/mimic/p19724101_s59385243_eb94042f-6bbf59d8-2d63ba0f-ee7b7089-2edcf084.jpg,EU OBSERVATION,F,22,No
+85,/shared/rsaas/enyij2/mimic/p15853302_s56394761_9d701157-2807b54d-2efb5129-6841e9e6-6b4ccd41.jpg,EU OBSERVATION,M,64,No
+86,/shared/rsaas/enyij2/mimic/p14438883_s55887962_543b1366-b5564517-e475ddde-76ae17ca-dd8320d9.jpg,EW EMER.,M,62,No
+87,/shared/rsaas/enyij2/mimic/p16995942_s56114555_c27f9af4-ee1009d3-7162ee11-a437d6e9-37fa59a4.jpg,EW EMER.,F,76,No
+88,/shared/rsaas/enyij2/mimic/p11593376_s55945879_84e3265a-dc46b812-4c9c3bf7-3f20a862-a2a40474.jpg,URGENT,M,48,No
+89,/shared/rsaas/enyij2/mimic/p10659469_s53421424_1a32c62f-f1182be9-ac4dfd74-bc976212-26cebac5.jpg,EU OBSERVATION,M,26,Yes
+90,/shared/rsaas/enyij2/mimic/p10659469_s56115587_989f97c9-6975cdfe-37a595cb-8cd94e7e-65fa1635.jpg,EU OBSERVATION,M,26,Yes
+91,/shared/rsaas/enyij2/mimic/p13071437_s50817787_d9255a75-6fc88a7f-50fadca1-143a4572-31466218.jpg,EW EMER.,M,48,Yes
+92,/shared/rsaas/enyij2/mimic/p12428492_s55124749_df03b564-c5b56140-ef25e4e6-7187374c-502f8b03.jpg,EW EMER.,M,70,No
+93,/shared/rsaas/enyij2/mimic/p14538144_s54930135_c95e0d4f-21bfb8eb-850e5b47-ad591faa-ff14d396.jpg,DIRECT EMER.,F,56,Yes
+94,/shared/rsaas/enyij2/mimic/p10597833_s56712719_57a8baa6-6fa39305-2393115d-bfa20ad1-4fe909c4.jpg,EW EMER.,F,68,Yes
+95,/shared/rsaas/enyij2/mimic/p11115447_s56091817_43d80e93-c6d2937d-d1eb2992-0861678e-17236e36.jpg,EW EMER.,M,91,No
+96,/shared/rsaas/enyij2/mimic/p17894020_s52525613_e27dd455-0a5de23b-3d0aef4c-a41f68d1-c1649b85.jpg,URGENT,F,78,No
+97,/shared/rsaas/enyij2/mimic/p17470410_s52266062_26999c4a-4e3535a3-8115ef56-17f6cfd8-2e81f5d8.jpg,EU OBSERVATION,F,63,No
+98,/shared/rsaas/enyij2/mimic/p10985664_s58134439_dc03632e-668f5bdf-caf692d3-f9051190-db5f4f73.jpg,OBSERVATION ADMIT,F,83,Yes
+99,/shared/rsaas/enyij2/mimic/p15150922_s55846813_760d248d-bb001198-66a7f5ab-3365f49a-4cfad537.jpg,AMBULATORY OBSERVATION,M,57,No
+100,/shared/rsaas/enyij2/mimic/p16783577_s50730772_6b341223-1b0e77aa-8e0351ea-4a56f60c-d5957634.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+101,/shared/rsaas/enyij2/mimic/p15959372_s56560515_6a7ddaf9-a7442c5a-191cc3cb-26fd8cb1-02b24e89.jpg,AMBULATORY OBSERVATION,F,38,No
+102,/shared/rsaas/enyij2/mimic/p18619672_s55152029_696a7413-9343a3f1-4d2a119b-8b6bbf79-599b2c4c.jpg,OBSERVATION ADMIT,F,33,No
+103,/shared/rsaas/enyij2/mimic/p14251286_s55992169_b0e56d04-b7c49796-3f7d0290-c7a76019-62b630cc.jpg,SURGICAL SAME DAY ADMISSION,F,66,Yes
+104,/shared/rsaas/enyij2/mimic/p13343224_s54446996_98b5cf63-e1fe4645-a92637e2-a3ca4cb3-e88ad0ef.jpg,OBSERVATION ADMIT,M,55,Yes
+105,/shared/rsaas/enyij2/mimic/p12452180_s59804567_3542b619-25d4f8d3-3da970ab-6c452058-76e983b1.jpg,OBSERVATION ADMIT,M,69,Yes
+106,/shared/rsaas/enyij2/mimic/p13697731_s51718057_b97b6884-cd097a39-7847cd65-735243a4-1b985fc0.jpg,EW EMER.,M,21,Yes
+107,/shared/rsaas/enyij2/mimic/p17080143_s59775664_2148e1e5-45fda922-d43b22ab-a0113912-ced01c63.jpg,EW EMER.,F,61,Yes
+108,/shared/rsaas/enyij2/mimic/p14544923_s59530723_26ef2da2-ef13ffc3-c7bdb5f9-6ce87eb0-5b56e7e7.jpg,OBSERVATION ADMIT,M,72,Yes
+109,/shared/rsaas/enyij2/mimic/p11192090_s56797148_873b1b9e-8d04fa41-ffbc9f83-68658f59-8bc696c3.jpg,SURGICAL SAME DAY ADMISSION,M,58,Yes
+110,/shared/rsaas/enyij2/mimic/p11091273_s53548494_d5b66d28-e6aa0b73-747f58e6-212d0585-e69c1277.jpg,EU OBSERVATION,M,91,No
+111,/shared/rsaas/enyij2/mimic/p11918176_s54104318_b35da0ca-a9dc16ea-d761276e-48520363-625ee1e7.jpg,DIRECT OBSERVATION,F,60,No
+112,/shared/rsaas/enyij2/mimic/p14381389_s54580403_f7cbd272-32bc2134-33c447f1-b1618fa6-85c92d9b.jpg,EW EMER.,F,79,Yes
+113,/shared/rsaas/enyij2/mimic/p14195109_s58221893_d925fcc1-cea7fd9c-c39b6cd1-960c23f3-2f23ae49.jpg,EW EMER.,F,70,Yes
+114,/shared/rsaas/enyij2/mimic/p11681010_s50859541_82df3360-3728e0d4-ecd0c2df-55614dea-a7fda23a.jpg,EW EMER.,M,83,Yes
+115,/shared/rsaas/enyij2/mimic/p16065484_s53754887_d1420c38-749f0196-a7a6b234-b453050c-aae32b6e.jpg,EW EMER.,M,57,Yes
+116,/shared/rsaas/enyij2/mimic/p13135682_s53104094_34aa5773-8ba46813-8adfce26-ad6d44ee-f1e86112.jpg,EU OBSERVATION,M,76,Yes
+117,/shared/rsaas/enyij2/mimic/p18384973_s57710554_ff881850-5a1297f9-773d842f-76273433-dda26a6e.jpg,EW EMER.,M,57,No
+118,/shared/rsaas/enyij2/mimic/p14440633_s56606907_be41217d-201e5924-c2c751de-b7c2e08d-455ea6ac.jpg,OBSERVATION ADMIT,F,28,Yes
+119,/shared/rsaas/enyij2/mimic/p15188685_s53726351_7d9baef9-529ae5a5-647538b2-a2313951-3c1f42ef.jpg,EW EMER.,M,62,No
+120,/shared/rsaas/enyij2/mimic/p10965697_s51095949_a1072339-d1fe3a01-149f489b-9a08c49b-f2fee79e.jpg,EW EMER.,F,67,Yes
+121,/shared/rsaas/enyij2/mimic/p13188070_s53801250_6855a2fd-c561c8b9-33b561ea-66513c6a-054c6666.jpg,EU OBSERVATION,M,51,No
+122,/shared/rsaas/enyij2/mimic/p14670441_s57088129_e4f0ed32-7090fc5b-db2e6a0e-3bbbcef5-c221f390.jpg,EW EMER.,M,71,Yes
+123,/shared/rsaas/enyij2/mimic/p17007571_s59469247_d5bd7486-c02fa7a8-4599e6d3-dfab8eeb-c97858e3.jpg,SURGICAL SAME DAY ADMISSION,M,72,No
+124,/shared/rsaas/enyij2/mimic/p14998376_s58052608_532266c7-7fa247c7-a02b74ba-98276d96-f70bc796.jpg,EW EMER.,F,38,Yes
+125,/shared/rsaas/enyij2/mimic/p13173895_s53907336_a6a13036-0dac5783-bd4b93d2-9da76ecc-cd004d1c.jpg,EW EMER.,F,75,Yes
+126,/shared/rsaas/enyij2/mimic/p19079545_s51501129_687ecf18-2688dbfd-92a6d1d4-c53a33c4-feeeefaa.jpg,EU OBSERVATION,F,59,No
+127,/shared/rsaas/enyij2/mimic/p16786878_s59121781_f609b5bb-acc1af11-dcf1218c-ee1534d1-cd0f2b9c.jpg,EU OBSERVATION,F,72,No
+128,/shared/rsaas/enyij2/mimic/p11063824_s53734820_cb4354a9-358e9a0a-a0baa924-ecea2ec6-e6bf1df1.jpg,EW EMER.,M,91,Yes
+129,/shared/rsaas/enyij2/mimic/p17776423_s50156812_aa4be7bc-f165f2dc-19e3c5cf-24a27131-7139bec5.jpg,URGENT,F,28,No
+130,/shared/rsaas/enyij2/mimic/p18299362_s58104683_0bf9c22e-4af58f55-80384e80-e1c3f0a0-41cb140b.jpg,DIRECT EMER.,M,70,No
+131,/shared/rsaas/enyij2/mimic/p15271013_s57464385_5f4c0e4b-70ae2cb3-d6cd8931-34921cfe-f089a73b.jpg,URGENT,F,34,No
+132,/shared/rsaas/enyij2/mimic/p11495809_s52705409_0295a5c7-982330bd-2203b511-4d052b0f-a43a5e17.jpg,URGENT,M,79,Yes
+133,/shared/rsaas/enyij2/mimic/p18462562_s57982824_ccd54bb3-4df96d95-d66098d2-839a34e2-4e6727bf.jpg,ELECTIVE,F,58,No
+134,/shared/rsaas/enyij2/mimic/p19406374_s55414712_a9f0620b-6e256cbd-a7f66357-2fe78c8a-49caac26.jpg,EU OBSERVATION,M,18,No
+135,/shared/rsaas/enyij2/mimic/p13342512_s55847894_e6c66884-82022a7f-240eb6b9-901ea39c-4d422a4d.jpg,EW EMER.,M,63,Yes
+136,/shared/rsaas/enyij2/mimic/p14395025_s58931909_41784fb1-459981d2-49389b07-761a12b3-e2cf1095.jpg,EW EMER.,M,85,Yes
+137,/shared/rsaas/enyij2/mimic/p12921473_s52027207_c286d401-854853ba-d2dd5cc7-4767e3ad-05ce951e.jpg,EW EMER.,M,59,Yes
+138,/shared/rsaas/enyij2/mimic/p14151932_s57101194_5a07536a-1f270441-c2c2c379-95579922-dc92991e.jpg,EW EMER.,M,81,Yes
+139,/shared/rsaas/enyij2/mimic/p12613218_s57624489_33a569d3-8e5eca5d-58015b0f-b33f6843-e3845e92.jpg,URGENT,F,25,No
+140,/shared/rsaas/enyij2/mimic/p11766586_s51933837_ae4a9d43-9cdc752c-6faf8925-71237e7f-4b78dc7e.jpg,EU OBSERVATION,M,45,Yes
+141,/shared/rsaas/enyij2/mimic/p11842879_s59364834_3946fac5-62cc2917-fc46b985-e2db6d70-07aeb5bf.jpg,EW EMER.,F,19,Yes
+142,/shared/rsaas/enyij2/mimic/p17183632_s52643400_9623b48c-3536b424-c8f7b576-071e61e6-41ada7d8.jpg,EW EMER.,M,57,Yes
+143,/shared/rsaas/enyij2/mimic/p18651341_s56326535_6711f818-0bd52504-5fb72f18-d95ab61c-a0687ede.jpg,DIRECT EMER.,M,62,No
+144,/shared/rsaas/enyij2/mimic/p14194664_s51741254_61651e70-0496f181-80556b50-26ba7dfe-f3d71109.jpg,EW EMER.,M,84,No
+145,/shared/rsaas/enyij2/mimic/p10938464_s59939076_25ea2d93-42dd1a0d-03570a59-e75a2657-54b26c13.jpg,DIRECT EMER.,M,65,Yes
+146,/shared/rsaas/enyij2/mimic/p15730484_s58210211_74ec1684-aa4f0b4e-abf668f4-5d070cbf-455d32b5.jpg,ELECTIVE,M,87,Yes
+147,/shared/rsaas/enyij2/mimic/p16783577_s56185803_51715b2d-7c5025dc-d97bae55-7fddfa06-3c071a77.jpg,SURGICAL SAME DAY ADMISSION,M,66,No
+148,/shared/rsaas/enyij2/mimic/p11409722_s53429549_61248234-3a93ee7b-34317909-094ec9fe-fc447bb8.jpg,AMBULATORY OBSERVATION,F,70,Yes
+149,/shared/rsaas/enyij2/mimic/p17147211_s58244501_39117d21-306f5f75-4a8d235e-73fe0348-ef20c0ef.jpg,OBSERVATION ADMIT,F,62,Yes
+150,/shared/rsaas/enyij2/mimic/p11984415_s56839664_d0e28457-547b161b-d4bbf3b3-e4bf32a8-5f98ba5d.jpg,EW EMER.,M,41,No
+151,/shared/rsaas/enyij2/mimic/p14199097_s58611960_6641bdf1-a194c777-0878bac8-d9d7e225-bc6a4919.jpg,DIRECT OBSERVATION,M,86,No
+152,/shared/rsaas/enyij2/mimic/p10667797_s51258143_e6940312-d481579c-3efa2f1e-7530ebaa-c12cc44d.jpg,EW EMER.,F,26,No
+153,/shared/rsaas/enyij2/mimic/p11717234_s59893138_fda83b38-4703f480-37faa238-681b21c2-ed09c093.jpg,DIRECT EMER.,M,88,Yes
+154,/shared/rsaas/enyij2/mimic/p15752845_s53039720_11b75c83-aef97fb7-804b6888-9b4cdd97-757a83e6.jpg,EU OBSERVATION,M,58,Yes
+155,/shared/rsaas/enyij2/mimic/p17080143_s59739084_0de15fb7-2b213845-d0c32128-65326da8-66c7011c.jpg,EW EMER.,F,61,Yes
+156,/shared/rsaas/enyij2/mimic/p10667797_s56473840_71b66af0-3edb4cf7-8ab507be-16c8e67a-fec830f0.jpg,EW EMER.,F,26,Yes
+157,/shared/rsaas/enyij2/mimic/p16039185_s52945223_cbbcbcc4-ff2313fd-ff3a628c-3bec4da4-dbdba1f9.jpg,DIRECT OBSERVATION,F,80,Yes
+158,/shared/rsaas/enyij2/mimic/p18120578_s59036255_cf8b8afb-ea04ce0f-da3988b8-902a623e-c4523db3.jpg,OBSERVATION ADMIT,F,79,No
+159,/shared/rsaas/enyij2/mimic/p12480689_s52231919_a79828c5-4e8b702b-8173e248-6fe48fae-1f91b810.jpg,EW EMER.,F,48,Yes
+160,/shared/rsaas/enyij2/mimic/p15875150_s50204031_d0865114-2a2968ab-85661009-745d0f2a-6df3fbe3.jpg,DIRECT OBSERVATION,M,54,No
+161,/shared/rsaas/enyij2/mimic/p14664248_s58088957_692d3536-bd6d7849-e18ba65a-d241d110-4b480b52.jpg,EW EMER.,M,62,No
+162,/shared/rsaas/enyij2/mimic/p13771452_s58044681_c7a7878c-7a2d5c6e-47fa8a3c-67e41fb8-24d79bde.jpg,EW EMER.,M,57,Yes
+163,/shared/rsaas/enyij2/mimic/p16909232_s57230448_4f04e503-55a7aede-7fc799ef-762ef34a-2fef3d50.jpg,EW EMER.,F,82,Yes
+164,/shared/rsaas/enyij2/mimic/p12549896_s53984664_ce07da3e-0433397d-157bcb10-c3189b4b-f23b2cb5.jpg,EW EMER.,M,46,No
+165,/shared/rsaas/enyij2/mimic/p18853927_s56194963_7281059b-7e6cceae-2350cfad-33498a58-fb1d70f1.jpg,EW EMER.,M,74,No
+166,/shared/rsaas/enyij2/mimic/p10610628_s56718616_4455268e-381fc91a-b04d8ebf-0854c692-901fcd9e.jpg,EW EMER.,M,91,No
+167,/shared/rsaas/enyij2/mimic/p10938464_s53353801_ea0815f0-807ae179-3c21c426-dd154bb5-024bf951.jpg,DIRECT EMER.,M,65,No
+168,/shared/rsaas/enyij2/mimic/p10906758_s53107341_d7edd0fa-12492666-5e8a0258-aaca0c1a-d477ad85.jpg,EU OBSERVATION,M,60,No
+169,/shared/rsaas/enyij2/mimic/p16811310_s59410841_c61bee2b-b0d7833a-242e88ee-6c77b248-8f3e857d.jpg,OBSERVATION ADMIT,F,82,Yes
+170,/shared/rsaas/enyij2/mimic/p16816455_s58767618_b9bce3aa-579962a9-e9131d23-51f005c8-b8ce9756.jpg,EW EMER.,F,84,Yes
+171,/shared/rsaas/enyij2/mimic/p17400716_s59571494_ecc557b7-2a740644-7f5237ef-adc2234f-c3bdaa6c.jpg,EU OBSERVATION,F,77,Yes
+172,/shared/rsaas/enyij2/mimic/p16582727_s54390330_410819b2-858e3f44-baa83bd4-76d03f77-b1a6a49a.jpg,EW EMER.,M,74,Yes
+173,/shared/rsaas/enyij2/mimic/p14120635_s55723351_afc1b208-d24b5393-4aa2c9ab-11f2a418-51ff4b27.jpg,DIRECT EMER.,M,57,Yes
+174,/shared/rsaas/enyij2/mimic/p18196526_s58477961_9a06b743-3f2f9f30-c5437280-53db8a59-b3fdfe9d.jpg,EU OBSERVATION,M,69,No
+175,/shared/rsaas/enyij2/mimic/p14194332_s58300339_d453eedc-f7f3ebac-58b3d342-b90cf325-67b07527.jpg,EU OBSERVATION,M,78,No
+176,/shared/rsaas/enyij2/mimic/p17212419_s59575798_bdd7e661-bee0eb46-6c2805fa-f507939e-54e4b598.jpg,EW EMER.,M,74,Yes
+177,/shared/rsaas/enyij2/mimic/p15725633_s53654213_24c7a78c-a6a2cb16-8d861d04-df3efc9b-6112e4ab.jpg,DIRECT EMER.,M,78,Yes
+178,/shared/rsaas/enyij2/mimic/p14693507_s50182730_4c2dc3da-769cd006-377d55e9-009da7df-f08d3e79.jpg,EW EMER.,M,78,No
+179,/shared/rsaas/enyij2/mimic/p12746444_s56627039_aae9d1d6-dcd4cd9d-2a3fa5f1-302b92ab-b119dc8c.jpg,OBSERVATION ADMIT,M,57,Yes
+180,/shared/rsaas/enyij2/mimic/p17633349_s54440781_6c1818bf-93bf4932-4ff647c0-5c12b9d8-38925860.jpg,EU OBSERVATION,M,85,Yes
+181,/shared/rsaas/enyij2/mimic/p11887177_s55160662_adbbb9ee-288fc5ee-e9d8359a-905e52c0-9fd2a6a8.jpg,DIRECT EMER.,M,79,No
+182,/shared/rsaas/enyij2/mimic/p16566006_s52222511_b40449a8-744e82b5-e6c15bc2-22b1a587-d615eede.jpg,EW EMER.,M,75,Yes
+183,/shared/rsaas/enyij2/mimic/p17370807_s57388879_72a0b567-b92eaca5-001b9975-478177da-d33c0702.jpg,OBSERVATION ADMIT,M,51,Yes
+184,/shared/rsaas/enyij2/mimic/p14847272_s58598289_73f33b26-2fbe668c-6b8a5ee3-87baf154-fa9bd03d.jpg,EW EMER.,M,68,Yes
+185,/shared/rsaas/enyij2/mimic/p14517807_s50393802_2c649a39-8d60fec3-a450e6a5-12df7f78-293adfb2.jpg,EW EMER.,M,55,No
+186,/shared/rsaas/enyij2/mimic/p17708076_s59327879_4343dad6-dc9eb82b-7fa1fd15-ec1696b4-c3bc95b9.jpg,EW EMER.,F,73,No
+187,/shared/rsaas/enyij2/mimic/p16783577_s52177868_d387f313-90d4f8ee-5b6db5f7-6363fded-816e4b95.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+188,/shared/rsaas/enyij2/mimic/p16354235_s51261497_59af3e4c-06227fd2-0d39769e-d4bd7176-f318e680.jpg,AMBULATORY OBSERVATION,M,74,Yes
+189,/shared/rsaas/enyij2/mimic/p16856367_s56549519_69d7ba62-57246964-a05ad67f-edbb3e68-31792f0e.jpg,EU OBSERVATION,F,70,No
+190,/shared/rsaas/enyij2/mimic/p12669967_s54719855_0ab72f0d-51143a9a-26a3c216-bb1865dc-72fd6885.jpg,SURGICAL SAME DAY ADMISSION,F,70,Yes
+191,/shared/rsaas/enyij2/mimic/p12261945_s53010175_4fb52c9e-4d75b70c-5d4d69e4-8e28ae0c-8979e521.jpg,ELECTIVE,F,77,Yes
+192,/shared/rsaas/enyij2/mimic/p15689523_s57868783_abfdff44-3b2c06b3-c8f7456e-c95b4060-e7727cda.jpg,URGENT,M,66,Yes
+193,/shared/rsaas/enyij2/mimic/p13364910_s56146259_f6cdee80-a8abafa9-5eb1b22d-27c1ec05-c96277bb.jpg,EW EMER.,F,63,Yes
+194,/shared/rsaas/enyij2/mimic/p12137322_s54407166_1426b4d1-8f150f67-ed97c44c-9416fa7b-a4b8d862.jpg,EW EMER.,F,61,No
+195,/shared/rsaas/enyij2/mimic/p17719678_s54000502_c00978ff-04815a19-cfcac7c1-4bac631d-9cf1e36c.jpg,URGENT,F,19,Yes
+196,/shared/rsaas/enyij2/mimic/p18085253_s51110242_fbec3865-b10bfdbc-7c8212ad-a62f05dd-20fa9a9c.jpg,EW EMER.,M,55,No
+197,/shared/rsaas/enyij2/mimic/p16590876_s52910281_5144e86a-6e5d9295-080d565c-9cf81fd5-d844c65b.jpg,EU OBSERVATION,F,91,Yes
+198,/shared/rsaas/enyij2/mimic/p11917817_s53911134_e814e28f-521e4bd7-86e499c1-657d3963-4cadd878.jpg,AMBULATORY OBSERVATION,M,60,No
+199,/shared/rsaas/enyij2/mimic/p13509311_s50726464_238e111f-7fe44a31-1aece418-b2efa817-e7c1fb64.jpg,EW EMER.,M,62,Yes
+200,/shared/rsaas/enyij2/mimic/p10541652_s56401127_94bb7387-f4a03358-4be4771f-89fdd052-dec767ea.jpg,EU OBSERVATION,M,80,Yes
+201,/shared/rsaas/enyij2/mimic/p11245751_s58664563_1978331b-95713760-c5a75356-f30e115b-7dd0aec4.jpg,EU OBSERVATION,M,72,Yes
+202,/shared/rsaas/enyij2/mimic/p10667797_s53341920_4d66b505-353fbf42-084907c7-a2b10964-1a78486d.jpg,EW EMER.,F,26,Yes
+203,/shared/rsaas/enyij2/mimic/p10713800_s52968452_1d5bc38c-ea9b4a4d-4c77db1b-7a2d2e8c-5d7afa0b.jpg,DIRECT EMER.,F,25,No
+204,/shared/rsaas/enyij2/mimic/p11594083_s50051107_0cbd5cfd-eb2db630-1e495860-97d483da-cd55105e.jpg,EU OBSERVATION,F,27,No
+205,/shared/rsaas/enyij2/mimic/p15871582_s57322563_d71bfe9f-a53640fa-7abcd97a-7cd531dd-9e661cb5.jpg,EU OBSERVATION,F,81,No
+206,/shared/rsaas/enyij2/mimic/p15871582_s57322563_53ebcc9c-303e4159-a1a616b6-f0e2e66f-b99f97b6.jpg,EU OBSERVATION,F,81,No
+207,/shared/rsaas/enyij2/mimic/p10573563_s52266674_8c5df8b8-4a3a4319-c8e0ee47-64e61fba-f339bca0.jpg,EU OBSERVATION,F,80,Yes
+208,/shared/rsaas/enyij2/mimic/p18784631_s56846186_fd282ceb-9d3bcc5e-2ecdb1ab-1981e095-1f2e141e.jpg,EU OBSERVATION,F,42,No
+209,/shared/rsaas/enyij2/mimic/p17602334_s53764618_66ad2fd1-1703d27b-d321738d-82919107-f6c71316.jpg,OBSERVATION ADMIT,M,85,No
+210,/shared/rsaas/enyij2/mimic/p15871582_s54152211_d6e6d776-7377f5ad-151a45c6-998a58ee-4cf849f2.jpg,EU OBSERVATION,F,81,Yes
+211,/shared/rsaas/enyij2/mimic/p15905684_s51812099_126537f1-aed80e6d-bba04cfd-4240e29d-5bbbe2e9.jpg,EW EMER.,M,73,No
+212,/shared/rsaas/enyij2/mimic/p19511287_s58757592_58f7b29f-c3034875-53fecf86-4da495f6-9562f114.jpg,SURGICAL SAME DAY ADMISSION,M,77,No
+213,/shared/rsaas/enyij2/mimic/p14637324_s52548659_4c21dee7-3d3e3766-d2f5ef5f-24f139ff-1f4091b2.jpg,EW EMER.,F,58,Yes
+214,/shared/rsaas/enyij2/mimic/p17182534_s58693611_8fb0918c-53288b1d-9d76cf30-18a9ffb6-512348d9.jpg,DIRECT OBSERVATION,M,77,Yes
+215,/shared/rsaas/enyij2/mimic/p17281190_s53018222_966f8b67-36980fc8-ccdc105e-d6a14ed8-de13dbc4.jpg,OBSERVATION ADMIT,M,72,Yes
+216,/shared/rsaas/enyij2/mimic/p19689858_s50280183_747053a9-f227e2b5-559ba8a9-b741d48d-727494c4.jpg,EW EMER.,M,53,No
+217,/shared/rsaas/enyij2/mimic/p19565952_s53745856_fe92edfa-d280f4de-94ba1415-6bdaf46b-6bbf1990.jpg,EU OBSERVATION,M,52,No
+218,/shared/rsaas/enyij2/mimic/p19855167_s56967817_cd587a8a-5e45cea5-62553904-5c1ccc99-982f82b5.jpg,SURGICAL SAME DAY ADMISSION,M,73,No
+219,/shared/rsaas/enyij2/mimic/p13697731_s58222195_8a6e08c7-7557cadd-a5393578-02238059-4e7655d7.jpg,EW EMER.,M,21,Yes
+220,/shared/rsaas/enyij2/mimic/p19208040_s56763347_4c40b08c-7774470e-910895ec-29aa9188-1ae85630.jpg,EU OBSERVATION,F,53,No
+221,/shared/rsaas/enyij2/mimic/p17201789_s52931516_71dd945f-f54b7a89-680b559d-d11dfe2b-1ac07beb.jpg,EW EMER.,F,62,Yes
+222,/shared/rsaas/enyij2/mimic/p10896786_s56193669_9f0f71e6-0cb80e41-eb96ba25-92e28901-05038441.jpg,ELECTIVE,M,67,No
+223,/shared/rsaas/enyij2/mimic/p14439892_s52124135_3a3973fa-4207ebbe-aa6d385b-de6dc6e4-c4aaf57e.jpg,OBSERVATION ADMIT,M,52,No
+224,/shared/rsaas/enyij2/mimic/p19249048_s55461055_45ff56c1-65ce8bec-fcc8b5e5-a13dd87d-c72abe78.jpg,EU OBSERVATION,M,78,No
+225,/shared/rsaas/enyij2/mimic/p12543455_s55232733_413470d7-9e15c9d2-58132473-ec1a446e-67f73e30.jpg,EW EMER.,M,34,Yes
+226,/shared/rsaas/enyij2/mimic/p12452180_s56895611_0661f810-53651576-f85ef00b-4093bcf4-e8ed536c.jpg,OBSERVATION ADMIT,M,69,Yes
+227,/shared/rsaas/enyij2/mimic/p18969510_s59405307_4a2afc98-f1124ac3-1ba2fed6-871034eb-f008b7bb.jpg,EW EMER.,F,68,No
+228,/shared/rsaas/enyij2/mimic/p11245751_s53462517_0e634e1a-0b9b5138-6b4656cf-d3e38dce-91192126.jpg,EU OBSERVATION,M,72,No
+229,/shared/rsaas/enyij2/mimic/p10432862_s51891483_0d28a215-5938c04a-e905e500-5444641b-2979a8ff.jpg,EW EMER.,M,51,Yes
+230,/shared/rsaas/enyij2/mimic/p14544923_s52733010_c8ee5c07-d3066415-3895288a-43ca599d-e1a293be.jpg,OBSERVATION ADMIT,M,72,No
+231,/shared/rsaas/enyij2/mimic/p10641869_s52354066_a79d5177-b28c6c1a-a2bb13a0-46907bcc-19930e80.jpg,OBSERVATION ADMIT,M,48,Yes
+232,/shared/rsaas/enyij2/mimic/p16566006_s59203467_4640c17f-a66dcd8e-cef91653-4fedac58-0287842e.jpg,EW EMER.,M,75,No
+233,/shared/rsaas/enyij2/mimic/p10667797_s54268648_d0f1166c-4b670177-bf0606e5-98aae69f-5d6a6805.jpg,EW EMER.,F,26,No
+234,/shared/rsaas/enyij2/mimic/p15828685_s59911344_2f871614-d562575a-672607fe-41f3d2a6-96ab2609.jpg,EU OBSERVATION,F,70,No
+235,/shared/rsaas/enyij2/mimic/p12148322_s58273456_02628183-77c2ffd8-f2d2a705-0bcce479-883cdb21.jpg,EW EMER.,F,75,Yes
+236,/shared/rsaas/enyij2/mimic/p14704955_s57908404_28e89126-7f5fc227-3dee41a3-bb5a234d-5516d248.jpg,SURGICAL SAME DAY ADMISSION,F,65,No
+237,/shared/rsaas/enyij2/mimic/p11881290_s51943834_38011d29-cb1fdb32-60f67e08-e7ac1891-a3042e8d.jpg,EU OBSERVATION,M,70,No
+238,/shared/rsaas/enyij2/mimic/p12207593_s50804027_aee293dd-b025b73b-bdc68a7f-80568659-939fcf4b.jpg,EW EMER.,M,43,No
+239,/shared/rsaas/enyij2/mimic/p14517807_s58400503_5e2fab9f-6ef5377c-eed13f1a-985fc99a-bfa62b6d.jpg,EW EMER.,M,55,No
+240,/shared/rsaas/enyij2/mimic/p15875150_s54174746_2e4accef-8a314bf0-73ded372-f48807d8-e793b752.jpg,DIRECT OBSERVATION,M,54,No
+241,/shared/rsaas/enyij2/mimic/p18060267_s59997294_f8c8bd4c-82a50dd3-075b7b36-31bd144f-753fac0b.jpg,EW EMER.,F,53,No
+242,/shared/rsaas/enyij2/mimic/p12162091_s57477726_24fb8b73-5d29ff66-7f648805-ac300091-bf94750a.jpg,EU OBSERVATION,F,31,No
+243,/shared/rsaas/enyij2/mimic/p10293407_s57020903_e0f3dfad-0a1c39ae-c2aac6dc-ec96d296-ce58d132.jpg,EW EMER.,F,61,Yes
+244,/shared/rsaas/enyij2/mimic/p13961572_s58081410_546ddf07-c248847a-e7637f1c-a5d547f0-5b026fd2.jpg,EU OBSERVATION,F,54,No
+245,/shared/rsaas/enyij2/mimic/p19252123_s54589038_a00410d6-2fc66cfa-a0991ffe-dc1f9e23-f7e1636e.jpg,EU OBSERVATION,F,50,No
+246,/shared/rsaas/enyij2/mimic/p15457916_s54187674_3d5b0f44-969a34fe-bc6e2c85-7fdcc150-f26616df.jpg,EW EMER.,M,82,Yes
+247,/shared/rsaas/enyij2/mimic/p14984395_s53528599_a45aca3e-d0d0a3f3-de5fe747-85e50830-2f338772.jpg,DIRECT EMER.,F,77,Yes
+248,/shared/rsaas/enyij2/mimic/p13115959_s54887990_82ac3915-acbb279f-7738bbd5-d4933835-ca392930.jpg,OBSERVATION ADMIT,F,91,No
+249,/shared/rsaas/enyij2/mimic/p13059605_s50720184_4c4a2d14-34259ae0-4ab35cae-59545a03-09b46ada.jpg,EU OBSERVATION,M,51,No
+250,/shared/rsaas/enyij2/mimic/p17535738_s51877735_3eba6b64-13c00b4a-21e56168-ca607288-5f268770.jpg,EU OBSERVATION,M,73,Yes
+251,/shared/rsaas/enyij2/mimic/p10049341_s52059571_8576a6e0-62a7cbe3-8ba14dda-63a1c7bd-575b2e02.jpg,EU OBSERVATION,F,55,No
+252,/shared/rsaas/enyij2/mimic/p19157903_s55024274_f79f46d3-74a520f1-3039fa3d-eef50e3d-a5ad3e59.jpg,EW EMER.,M,72,No
+253,/shared/rsaas/enyij2/mimic/p17468080_s58408902_87a09c2f-35b34bca-41beb213-2367f726-c65de3cc.jpg,EW EMER.,F,67,No
+254,/shared/rsaas/enyij2/mimic/p17449903_s57325133_41405d24-93cf7880-7b04164f-8903d4fd-0bc9eed3.jpg,EU OBSERVATION,F,82,Yes
+255,/shared/rsaas/enyij2/mimic/p18060267_s59997294_55bfbc23-e8500f7b-92bb402e-3c800980-c5b7993d.jpg,EW EMER.,F,53,No
+256,/shared/rsaas/enyij2/mimic/p15116068_s59897126_d3485185-6cd78112-32e2dc61-baaf72f4-cf742bbe.jpg,OBSERVATION ADMIT,F,74,No
+257,/shared/rsaas/enyij2/mimic/p12404412_s54480972_fe54a77c-f814afc7-f1fdde22-a79f5fd2-08313269.jpg,EW EMER.,F,58,Yes
+258,/shared/rsaas/enyij2/mimic/p19542877_s53523954_f1bf01ce-e4e45cd6-ea31213a-6578d800-0080c22c.jpg,EU OBSERVATION,F,80,No
+259,/shared/rsaas/enyij2/mimic/p16893573_s53143672_6d990fa4-72c3dd7e-b5e02613-f84afe11-054ba409.jpg,EW EMER.,F,76,Yes
+260,/shared/rsaas/enyij2/mimic/p17914007_s58175110_14637c82-16d93ab5-49673c06-0546b8b8-0d32ea51.jpg,DIRECT EMER.,M,82,Yes
+261,/shared/rsaas/enyij2/mimic/p14624686_s59901995_eb24d37e-93054c69-2f210407-ca79a61b-aa43ef8e.jpg,EW EMER.,M,63,No
+262,/shared/rsaas/enyij2/mimic/p10667797_s59827313_8bf1e82f-f842623a-5afaf2c4-64aee940-cdd50990.jpg,EW EMER.,F,26,Yes
+263,/shared/rsaas/enyij2/mimic/p14121603_s51247831_92ed106c-16744d8d-8be653de-959efcf0-1df01adc.jpg,URGENT,M,26,No
+264,/shared/rsaas/enyij2/mimic/p13592605_s53283376_fc15782c-b89ac66a-c49cfc4c-ac9882a4-a7bdcaef.jpg,EW EMER.,M,70,Yes
+265,/shared/rsaas/enyij2/mimic/p14674930_s59663109_9cf043f7-9c37c142-9d06c6b2-9a4ab589-c56b23ac.jpg,EW EMER.,M,49,No
+266,/shared/rsaas/enyij2/mimic/p14439892_s59582025_47160ab9-aa86c07f-93099a26-d5a28514-de6086a5.jpg,OBSERVATION ADMIT,M,52,Yes
+267,/shared/rsaas/enyij2/mimic/p14120635_s52681239_fac3e495-f398d178-695b8693-c19b94da-a93b5d1b.jpg,DIRECT EMER.,M,57,Yes
+268,/shared/rsaas/enyij2/mimic/p16893573_s51691298_27549115-3f9f1195-8b69d98a-95589021-9c205471.jpg,EW EMER.,F,76,No
+269,/shared/rsaas/enyij2/mimic/p15477675_s56214530_4347971c-25211add-18ffbc73-0f44da92-449156c9.jpg,DIRECT EMER.,F,61,No
+270,/shared/rsaas/enyij2/mimic/p12477344_s54846150_a3ab9f74-630cfad1-37e91b85-d5a23657-3e057a82.jpg,OBSERVATION ADMIT,F,74,No
+271,/shared/rsaas/enyij2/mimic/p17182534_s59238057_7718ae79-e4dfaec8-0419d7ff-008bd27f-c2f21e30.jpg,DIRECT OBSERVATION,M,77,Yes
+272,/shared/rsaas/enyij2/mimic/p16908500_s54003801_fcd41ed6-96b776b5-af77e757-566e69ae-042e666d.jpg,OBSERVATION ADMIT,F,26,No
+273,/shared/rsaas/enyij2/mimic/p11566126_s58578956_8186014a-6ac5e33c-181d92f2-fc7134f9-0f70ce92.jpg,EW EMER.,F,82,No
+274,/shared/rsaas/enyij2/mimic/p10065767_s53585720_badefd10-ec2d142c-2f1c178f-482322ad-40bb0389.jpg,EW EMER.,M,67,No
+275,/shared/rsaas/enyij2/mimic/p19050535_s57633031_19fa90f4-6605605a-0823ca83-ce6a4d00-fa304c21.jpg,ELECTIVE,M,70,No
+276,/shared/rsaas/enyij2/mimic/p17645254_s56536238_e19809c8-055981d9-4eb2baea-0a6e2b17-a171f5ac.jpg,EU OBSERVATION,F,28,No
+277,/shared/rsaas/enyij2/mimic/p15689523_s54890245_02649071-62e0f029-408fe8ca-4b0fc849-36cc1e49.jpg,URGENT,M,66,No
+278,/shared/rsaas/enyij2/mimic/p14347948_s50370223_30290c0e-95e6e14c-bf39630a-e32ace7a-6d3f26f3.jpg,EW EMER.,F,62,Yes
+279,/shared/rsaas/enyij2/mimic/p15392744_s59303325_5eb2a239-00035a85-b4adc0b3-26499e3e-dfe3c797.jpg,EU OBSERVATION,M,72,Yes
+280,/shared/rsaas/enyij2/mimic/p12921473_s55355797_e05cafef-aaa35f34-0deacc40-1b05beed-65c804ce.jpg,EW EMER.,M,59,Yes
+281,/shared/rsaas/enyij2/mimic/p15366358_s54112727_541afe0f-03e2ef93-c4c5e363-f5cc5168-2bc526f6.jpg,OBSERVATION ADMIT,M,59,No
+282,/shared/rsaas/enyij2/mimic/p16067111_s51507489_292e0a4e-50d6c2bf-8e8d631f-0c939470-3007ca3d.jpg,URGENT,F,22,No
+283,/shared/rsaas/enyij2/mimic/p17337034_s59122987_12bb71af-8367a8ce-bde27134-08ce6349-e86dbd34.jpg,SURGICAL SAME DAY ADMISSION,M,70,Yes
+284,/shared/rsaas/enyij2/mimic/p14517807_s56493170_89946f7c-4a833748-49595e40-72822a71-ae687d94.jpg,EW EMER.,M,55,Yes
+285,/shared/rsaas/enyij2/mimic/p18784631_s53137791_2da53773-013bffce-28e88ee0-30dc82ef-d586c784.jpg,EU OBSERVATION,F,42,No
+286,/shared/rsaas/enyij2/mimic/p13007002_s56330782_b5245dec-6f8d665a-8855589b-ab239f62-0051aa0f.jpg,EU OBSERVATION,F,34,No
+287,/shared/rsaas/enyij2/mimic/p17843033_s52820260_a1ffea63-01437f3e-8933199c-d6ab5cd3-02c9dded.jpg,EW EMER.,M,82,Yes
+288,/shared/rsaas/enyij2/mimic/p15585673_s51266128_9b254189-c6f81f25-aac56999-954cca9a-1d2dcd81.jpg,EW EMER.,F,73,No
+289,/shared/rsaas/enyij2/mimic/p13007002_s56710788_c0b085b2-8e1fa035-a6b2f59c-3fc6fcdc-1c869791.jpg,EU OBSERVATION,F,34,No
+290,/shared/rsaas/enyij2/mimic/p18784631_s53852540_43b448f9-d34a2130-d035c602-849fe0f3-64f15242.jpg,EU OBSERVATION,F,42,No
+291,/shared/rsaas/enyij2/mimic/p12285052_s51076914_06113252-33c7bda3-49ee5aff-0c01ab49-49640c01.jpg,EW EMER.,F,81,Yes
+292,/shared/rsaas/enyij2/mimic/p14538144_s55323327_c2bcaabf-d14272b1-32db971f-8a224454-7a9cf2f2.jpg,DIRECT EMER.,F,56,Yes
+293,/shared/rsaas/enyij2/mimic/p12898436_s50937268_30c8418d-8cfc246e-158a71e7-18b8b29b-749f4913.jpg,EW EMER.,F,81,No
+294,/shared/rsaas/enyij2/mimic/p15689523_s55249516_97f79f2d-3b7a105b-8b633e49-362a02c6-8e25f887.jpg,URGENT,M,66,Yes
+295,/shared/rsaas/enyij2/mimic/p14176548_s59485723_5988c667-b2054644-d5d1d0dc-65a95aad-a0c41efc.jpg,EU OBSERVATION,F,61,No
+296,/shared/rsaas/enyij2/mimic/p12519991_s54195477_23cb4a39-ff744ccf-da9e5061-e1d9fa3b-14212b53.jpg,DIRECT EMER.,M,71,Yes
+297,/shared/rsaas/enyij2/mimic/p12095092_s58450530_f3b9e843-9edb361d-dd5336ae-b8672918-e77caf94.jpg,EW EMER.,M,65,Yes
+298,/shared/rsaas/enyij2/mimic/p11273619_s57672765_06c863c4-5b49950f-b245c03f-b18d8d57-7f0e5f38.jpg,EU OBSERVATION,F,45,No
+299,/shared/rsaas/enyij2/mimic/p17372176_s58978174_cf1d5473-f22fc579-89f02d86-f76ec428-91216938.jpg,URGENT,M,24,No
+300,/shared/rsaas/enyij2/mimic/p13890200_s51651438_eeb81ac4-8c52df3e-73bcd52d-59185407-9a8c7416.jpg,EW EMER.,M,62,Yes
+301,/shared/rsaas/enyij2/mimic/p11786902_s59539140_c238bbdc-5505c820-504c0dca-866a28f3-537ed59b.jpg,EU OBSERVATION,F,76,No
+302,/shared/rsaas/enyij2/mimic/p13129811_s54680135_2d3dd444-8ac4a354-30250e3e-db22e03b-609f1a31.jpg,OBSERVATION ADMIT,M,84,Yes
+303,/shared/rsaas/enyij2/mimic/p15520378_s54831739_70284073-59fdc5ba-72384d4f-202acb38-26d7c475.jpg,EW EMER.,M,64,No
+304,/shared/rsaas/enyij2/mimic/p11977245_s59619392_085c24ff-a19020d7-f7b5fb3c-4de4db3d-9e3779e3.jpg,OBSERVATION ADMIT,M,66,No
+305,/shared/rsaas/enyij2/mimic/p11198012_s57536779_95453fc9-c53aac5a-751d4ba4-990a1152-3a313739.jpg,EW EMER.,M,49,Yes
+306,/shared/rsaas/enyij2/mimic/p15689523_s59549321_8e49ed3b-a3ddb5f2-37cf5493-cba24006-705e4e9a.jpg,URGENT,M,66,No
+307,/shared/rsaas/enyij2/mimic/p10541652_s55280048_3a3b7957-9e7f01f4-a194fafc-141df72b-d2d03e6b.jpg,EU OBSERVATION,M,80,Yes
+308,/shared/rsaas/enyij2/mimic/p13343224_s55584428_499304ec-19271d6f-b9b44c89-1a8f8cf1-81dabc67.jpg,OBSERVATION ADMIT,M,55,No
+309,/shared/rsaas/enyij2/mimic/p15904606_s52784457_3925c488-a33f0e7f-3832af9d-e01a70c5-bb24fb07.jpg,EW EMER.,F,86,Yes
+310,/shared/rsaas/enyij2/mimic/p19246656_s55128727_832d07c6-a7e4e7c1-a657f4eb-3960519c-d68783dd.jpg,URGENT,F,36,No
+311,/shared/rsaas/enyij2/mimic/p16582727_s59072691_b4546e35-188f3847-faa12829-90d7aee3-014736e2.jpg,EW EMER.,M,74,Yes
+312,/shared/rsaas/enyij2/mimic/p16340641_s52046385_8bb8a5fb-d3da8163-d3458221-99e63dfb-5dcc2e53.jpg,EU OBSERVATION,M,50,No
+313,/shared/rsaas/enyij2/mimic/p16257001_s58586378_aa86d86d-36cf35f9-ad15eea6-7a647e25-ddf5f218.jpg,EW EMER.,M,56,No
+314,/shared/rsaas/enyij2/mimic/p17178884_s56569910_4ef6f422-e5aac5c9-dc497200-46e5860b-20c02a95.jpg,URGENT,F,56,Yes
+315,/shared/rsaas/enyij2/mimic/p15265089_s52148129_82b9f61b-0085c6bc-ba9afb35-c8c95bd1-4e9bdfb3.jpg,EU OBSERVATION,M,40,No
+316,/shared/rsaas/enyij2/mimic/p17795701_s56594544_41fa4f4a-9227618f-a4ad3562-404adc42-fbe76b77.jpg,SURGICAL SAME DAY ADMISSION,M,45,No
+317,/shared/rsaas/enyij2/mimic/p18721922_s55659453_1eecbf4e-7ecbf5c8-f0bf016d-c1a1b411-d6ca3c1d.jpg,EW EMER.,M,65,No
+318,/shared/rsaas/enyij2/mimic/p19765525_s51260526_dfe0bba4-cd5ac190-3a961919-e4575397-19f5f115.jpg,EW EMER.,M,39,No
+319,/shared/rsaas/enyij2/mimic/p14517807_s52065499_f7a1c9f5-bb25bba2-05bbe7c0-c05b0db2-b5df25a8.jpg,EW EMER.,M,55,No
+320,/shared/rsaas/enyij2/mimic/p11736804_s50559089_6a268c5d-a698a6ac-00cc5016-de8eff0e-b9569c90.jpg,URGENT,F,38,Yes
+321,/shared/rsaas/enyij2/mimic/p18431965_s53481230_70d7c13a-042c002b-e7ca3d36-4683aaa0-03f4e20f.jpg,EW EMER.,M,88,No
+322,/shared/rsaas/enyij2/mimic/p15689523_s55249516_ef427296-acc2fd09-66a3114c-9bafb4ad-74e3ee4a.jpg,URGENT,M,66,Yes
+323,/shared/rsaas/enyij2/mimic/p14947701_s58489980_c1a9a58d-ce6521ac-5b1ef4b3-668fa8e4-a98b4312.jpg,EW EMER.,M,76,Yes
+324,/shared/rsaas/enyij2/mimic/p17400716_s59431214_50cfcc12-f077d1ce-9f8d3ee4-5d2242b6-37eb8cfc.jpg,EU OBSERVATION,F,77,Yes
+325,/shared/rsaas/enyij2/mimic/p16882993_s57937562_7e68bb79-c0cd4e12-bf070a97-f17ddd9d-3e3ece9a.jpg,EU OBSERVATION,M,55,No
+326,/shared/rsaas/enyij2/mimic/p17388035_s58748899_1fd3f3fa-8b7d6423-e18114d3-db40fa03-0e7b102d.jpg,EU OBSERVATION,F,33,Yes
+327,/shared/rsaas/enyij2/mimic/p12856213_s50958964_df094b30-b8be5869-776fa66f-c147cd04-19d8b843.jpg,OBSERVATION ADMIT,M,24,No
+328,/shared/rsaas/enyij2/mimic/p14517807_s51643818_03b5a2c6-255280d1-478f95e9-eed344cf-17a29b31.jpg,EW EMER.,M,55,Yes
+329,/shared/rsaas/enyij2/mimic/p10507647_s50528424_bac6c691-754cea20-6a4720f1-95486d70-1a4735cc.jpg,DIRECT OBSERVATION,F,65,No
+330,/shared/rsaas/enyij2/mimic/p14538144_s59598358_459587c2-e45d9f5b-35447a5a-e74b5361-bf88a9f3.jpg,DIRECT EMER.,F,56,No
+331,/shared/rsaas/enyij2/mimic/p16566006_s57030362_2f988744-202116b6-6303147b-87864f75-a468deb9.jpg,EW EMER.,M,75,Yes
+332,/shared/rsaas/enyij2/mimic/p15614317_s51017710_02660773-dc6126a5-21d13172-2f9fc37a-57f8eeae.jpg,EU OBSERVATION,M,32,Yes
+333,/shared/rsaas/enyij2/mimic/p17937834_s54584299_30a546f1-34a0ff0e-f0c905e2-b991f5fb-933267bc.jpg,EW EMER.,M,34,No
+334,/shared/rsaas/enyij2/mimic/p16334734_s56507617_198e6507-8b02a8b5-942dec0f-8caf4cb0-150ddc17.jpg,URGENT,F,77,No
+335,/shared/rsaas/enyij2/mimic/p15630724_s57639509_f984a37c-ba1fda14-1b6e71d4-dae69043-3a58cf7c.jpg,EW EMER.,M,81,Yes
+336,/shared/rsaas/enyij2/mimic/p12700124_s54418827_482a15e9-d88828b3-85f1221e-c9f69f5e-12744191.jpg,ELECTIVE,F,63,No
+337,/shared/rsaas/enyij2/mimic/p13134144_s55052714_8a26f22a-08ad2178-9cd12909-6df19c14-d7d8381c.jpg,EW EMER.,F,59,No
+338,/shared/rsaas/enyij2/mimic/p11153278_s52916353_9d92b27d-58d585b9-9cae2dd4-12aa9d65-4b978908.jpg,SURGICAL SAME DAY ADMISSION,F,43,No
+339,/shared/rsaas/enyij2/mimic/p11681010_s57466516_89c81465-b71dd22c-51957a34-a05e9a3a-2997280a.jpg,EW EMER.,M,83,Yes
+340,/shared/rsaas/enyij2/mimic/p11135741_s53962062_bb9b12c3-03cd1535-19a1a1f3-31ad1601-c87e636d.jpg,EW EMER.,M,53,Yes
+341,/shared/rsaas/enyij2/mimic/p13091743_s55825476_bd623ad0-1f33a4aa-01cabb50-90519fe9-dfde7b68.jpg,URGENT,M,85,No
+342,/shared/rsaas/enyij2/mimic/p12489410_s51168110_61d3b80e-0c147a9c-0da6fc5b-6731d865-48eea675.jpg,EW EMER.,F,54,No
+343,/shared/rsaas/enyij2/mimic/p15387290_s57271389_324820f1-3ec6bdf0-25c1a40e-e11bab70-3511fe80.jpg,SURGICAL SAME DAY ADMISSION,M,64,Yes
+344,/shared/rsaas/enyij2/mimic/p15016366_s51082099_58ab4801-43b429aa-4eb603c5-2ae85516-68b00784.jpg,EU OBSERVATION,F,24,No
+345,/shared/rsaas/enyij2/mimic/p12175942_s55862375_54bf4092-bb8e4d32-5670cdf8-a8df1127-d57daaed.jpg,EU OBSERVATION,F,57,No
+346,/shared/rsaas/enyij2/mimic/p16257001_s52968639_62dbaa3d-7a0065fe-c741e89f-4835b5ef-e8ff5883.jpg,EW EMER.,M,56,Yes
+347,/shared/rsaas/enyij2/mimic/p18784631_s55268318_fa8842b5-21a4c938-399b7fdb-24c5639e-f0eee17c.jpg,EU OBSERVATION,F,42,No
+348,/shared/rsaas/enyij2/mimic/p17719678_s54000502_d9a91d00-b125718e-027ce0bd-1164d7ba-1e696f4a.jpg,URGENT,F,19,Yes
+349,/shared/rsaas/enyij2/mimic/p14517807_s50925275_1cb62303-2529cbd8-f643787d-1cc66262-c6e51fe2.jpg,EW EMER.,M,55,No
+350,/shared/rsaas/enyij2/mimic/p16306901_s57703092_be61ff2e-b58f2cf3-e0c20b98-1817c8fd-9b26f4e9.jpg,DIRECT EMER.,M,68,No
+351,/shared/rsaas/enyij2/mimic/p10506015_s52151346_fce2c82d-770f9afd-c43b458a-d1feb5a3-cf71e8dc.jpg,EW EMER.,M,25,No
+352,/shared/rsaas/enyij2/mimic/p18374909_s56307935_86871d98-fb7e04e8-f711617c-9bf09aa1-394e4948.jpg,EW EMER.,M,64,No
+353,/shared/rsaas/enyij2/mimic/p11495809_s59752329_e8bc88f6-c373aa41-18a46888-37123214-54b1ad38.jpg,URGENT,M,79,Yes
+354,/shared/rsaas/enyij2/mimic/p16072683_s58486349_f155a388-b82892ef-88e8701f-8acaa937-f1a8eafe.jpg,DIRECT EMER.,F,33,No
+355,/shared/rsaas/enyij2/mimic/p14199097_s58611960_022bcb2a-4142afb1-e0f5f2f8-b37f61d1-f08fdb71.jpg,DIRECT OBSERVATION,M,86,No
+356,/shared/rsaas/enyij2/mimic/p14895079_s55032956_6071e2e0-9463b993-162fd72a-f755c372-e28e5ec8.jpg,DIRECT EMER.,F,57,Yes
+357,/shared/rsaas/enyij2/mimic/p10611684_s52666436_1a6f58de-d462f18f-f0b2b191-5e654ba7-90ecb641.jpg,OBSERVATION ADMIT,F,30,Yes
+358,/shared/rsaas/enyij2/mimic/p16783577_s58507686_10904f22-5598cef1-754fba77-81fce124-662f915f.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+359,/shared/rsaas/enyij2/mimic/p17007571_s50253597_4ac88495-a582a565-393c2d6b-f9dac31c-b05bcaeb.jpg,SURGICAL SAME DAY ADMISSION,M,72,No
+360,/shared/rsaas/enyij2/mimic/p13420842_s54992974_8e228030-2c4c71a1-c7d0c11b-ba3cce65-22c66776.jpg,EU OBSERVATION,M,85,Yes
+361,/shared/rsaas/enyij2/mimic/p13697731_s59353931_5138cf1b-5147a8ed-cf6d184e-2e91b9cf-47d72685.jpg,EW EMER.,M,21,Yes
+362,/shared/rsaas/enyij2/mimic/p10517964_s50845838_ca184c4a-092c610c-07bb8aa3-1f5ad2a9-4064e660.jpg,EW EMER.,M,60,Yes
+363,/shared/rsaas/enyij2/mimic/p15834341_s58490031_b2929d9b-6e27bb8f-43dd8eb5-695a26f5-509996f8.jpg,EU OBSERVATION,F,19,No
+364,/shared/rsaas/enyij2/mimic/p16387058_s51031267_3f4b3e47-b425efdb-b66d4fb7-a389a4f5-1d496f98.jpg,EU OBSERVATION,F,74,Yes
+365,/shared/rsaas/enyij2/mimic/p13059605_s50720184_1c94dca5-ad3c662f-b2d308ae-c1cb0235-e7869c44.jpg,EU OBSERVATION,M,51,No
+366,/shared/rsaas/enyij2/mimic/p14237047_s50021610_4ce7cad3-bcf7e9d5-3203ce0e-e9d5276f-e130f1ec.jpg,EW EMER.,M,83,Yes
+367,/shared/rsaas/enyij2/mimic/p15946579_s56651565_23c970c9-06bbd578-66ab4f62-095dbba9-ef673e6a.jpg,URGENT,F,32,No
+368,/shared/rsaas/enyij2/mimic/p11842879_s56358458_fc61d08d-282024a3-31be4637-3c3b435f-9477dd2a.jpg,EW EMER.,F,19,Yes
+369,/shared/rsaas/enyij2/mimic/p13640656_s52721638_ffe4811e-dc234f3b-904d30bc-56a4e43b-2310dd17.jpg,EW EMER.,M,69,Yes
+370,/shared/rsaas/enyij2/mimic/p17795701_s54657837_1640b1b7-0dc8740d-642add13-86f67ae4-94034055.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+371,/shared/rsaas/enyij2/mimic/p10696360_s51187861_010e2f7d-2ee6d631-62d1829c-278bc6ed-c33ea7bb.jpg,EU OBSERVATION,M,42,No
+372,/shared/rsaas/enyij2/mimic/p16156625_s56721077_33c5530b-34e715e1-1922e5b8-4e455acc-2245d5fe.jpg,EW EMER.,F,86,Yes
+373,/shared/rsaas/enyij2/mimic/p14748360_s59892593_0b25a831-adf0d830-fd75fa40-f4255b7d-d1ac55d6.jpg,EU OBSERVATION,F,78,No
+374,/shared/rsaas/enyij2/mimic/p11977245_s55041689_7fd43564-61f97684-eef20321-b791d1e8-89f6d933.jpg,OBSERVATION ADMIT,M,66,No
+375,/shared/rsaas/enyij2/mimic/p13737860_s55141448_1aa69baf-655d6869-ab2b53c5-ea8fc4d2-ff8c70b4.jpg,EW EMER.,M,62,No
+376,/shared/rsaas/enyij2/mimic/p17400716_s55180068_51d10de4-0177fa7b-0930953e-86edf894-b2293975.jpg,EU OBSERVATION,F,77,Yes
+377,/shared/rsaas/enyij2/mimic/p12428972_s52547872_bdecdf1d-66ddeede-4905fa4e-4d7e0f62-69fe8c03.jpg,EU OBSERVATION,M,55,No
+378,/shared/rsaas/enyij2/mimic/p15730484_s58557021_f9c6b83d-7b04bc9f-005428a7-b6992156-98f6f739.jpg,ELECTIVE,M,87,Yes
+379,/shared/rsaas/enyij2/mimic/p16490533_s51169803_3e6cdacf-1bd2a0aa-4a109729-73c5a405-1c017d93.jpg,EW EMER.,M,60,Yes
+380,/shared/rsaas/enyij2/mimic/p15468322_s59674182_0000e00d-372d678f-659e32be-5b82fe32-0d73ef1a.jpg,EU OBSERVATION,F,66,Yes
+381,/shared/rsaas/enyij2/mimic/p18397764_s59493554_e9b469a3-8899b0cd-23651eaa-4b8ceb9f-ca4022da.jpg,EU OBSERVATION,F,79,No
+382,/shared/rsaas/enyij2/mimic/p16081822_s54033559_35a2a42d-631d97ff-bcc97eaa-4666bba4-f810b04f.jpg,URGENT,M,68,Yes
+383,/shared/rsaas/enyij2/mimic/p19486422_s54510432_bdaba693-770b412a-22d0b686-1f985344-49f2001d.jpg,EW EMER.,F,59,No
+384,/shared/rsaas/enyij2/mimic/p12857550_s53692076_dd366830-33ac45b9-3fec402d-f145dc05-d0d92b55.jpg,EW EMER.,F,62,No
+385,/shared/rsaas/enyij2/mimic/p19760462_s57083669_00ad1f2e-fda55eac-e4563bdf-d59de1e3-81d90d87.jpg,EW EMER.,F,63,No
+386,/shared/rsaas/enyij2/mimic/p16449190_s54458506_003ad61d-e5635e65-a4f4e079-420aed08-2b95a9cf.jpg,OBSERVATION ADMIT,M,79,No
+387,/shared/rsaas/enyij2/mimic/p16334734_s56772836_e3c125b9-3b72b6f8-165ebb19-62c4ad3b-25d30ec5.jpg,URGENT,F,77,Yes
+388,/shared/rsaas/enyij2/mimic/p14411399_s55513636_dedc83b9-c3b867a4-8a293596-eddaef27-e92163b1.jpg,EW EMER.,F,66,Yes
+389,/shared/rsaas/enyij2/mimic/p15172022_s55254987_28c320c7-0a05d9cf-0aa80bb8-d6224bd0-a716e413.jpg,URGENT,F,91,Yes
+390,/shared/rsaas/enyij2/mimic/p14194664_s59285462_ba26d326-288e5b11-6842c2e3-a67a0cb9-697e5569.jpg,EW EMER.,M,84,No
+391,/shared/rsaas/enyij2/mimic/p10597833_s58164310_d8d913a5-c0e79553-c90404c5-f42ac7cc-f56b2572.jpg,EW EMER.,F,68,Yes
+392,/shared/rsaas/enyij2/mimic/p17710775_s56352638_584b8b13-9e6e9ff5-3e314397-8b25ddca-9beaf554.jpg,DIRECT OBSERVATION,M,38,Yes
+393,/shared/rsaas/enyij2/mimic/p13188070_s50247355_4808bc5c-7122a0af-824c38db-3a5ba644-d324d58e.jpg,EU OBSERVATION,M,51,Yes
+394,/shared/rsaas/enyij2/mimic/p13609891_s50819250_d1a034da-3f6947cd-41122965-4cffb839-b64ebe3b.jpg,EW EMER.,F,76,No
+395,/shared/rsaas/enyij2/mimic/p17708607_s55050972_96b41e39-d31f8353-52e7e1fc-0316152c-26126e07.jpg,EW EMER.,F,32,No
+396,/shared/rsaas/enyij2/mimic/p19406374_s50205027_20d2df1d-2e6f7615-e7302d05-2e9ad783-1c0099fd.jpg,EU OBSERVATION,M,18,No
+397,/shared/rsaas/enyij2/mimic/p19020002_s58131712_e2aed53f-4fe75472-ef5db733-8900a4f3-9ea9accf.jpg,EU OBSERVATION,F,66,No
+398,/shared/rsaas/enyij2/mimic/p10884708_s55746940_9fbfb442-23fa0588-1741f934-852eb46c-0b64f83d.jpg,EW EMER.,F,42,Yes
+399,/shared/rsaas/enyij2/mimic/p10571311_s54133222_43b477d3-0e0fc051-7ca0f9ab-3d993911-7b8b1bee.jpg,DIRECT EMER.,M,31,No
+400,/shared/rsaas/enyij2/mimic/p14513082_s55490591_c95bfd12-c7254f3b-1bb81960-f82d8410-dda8dc63.jpg,DIRECT EMER.,M,26,Yes
+401,/shared/rsaas/enyij2/mimic/p16931776_s59651019_50d90063-77d27b65-d24ed25a-700b4480-c94d076e.jpg,EU OBSERVATION,M,51,Yes
+402,/shared/rsaas/enyij2/mimic/p16476559_s57678560_16fa478d-9266051d-d4b741dc-655e0412-6d9302d7.jpg,EW EMER.,M,58,Yes
+403,/shared/rsaas/enyij2/mimic/p10040631_s51708526_3d53232e-6219fe4f-f663fbb9-7636e1bb-a2eaf0c0.jpg,EW EMER.,F,55,No
+404,/shared/rsaas/enyij2/mimic/p17802227_s53441856_ed2cfb35-f8b82c6c-fca13d5d-f9fb94ac-d2266cfd.jpg,EW EMER.,F,60,Yes
+405,/shared/rsaas/enyij2/mimic/p14538144_s59598358_7f901ed4-f355d999-7d4c3eaa-b0d35fc2-1ed836d7.jpg,DIRECT EMER.,F,56,No
+406,/shared/rsaas/enyij2/mimic/p14120635_s55764773_afca89f1-139057ed-b0d244c5-12d1ddfe-034a87be.jpg,DIRECT EMER.,M,57,No
+407,/shared/rsaas/enyij2/mimic/p17768098_s55028119_5a207abb-850c551e-ad1f5584-ef29f6cf-d83371a3.jpg,ELECTIVE,M,72,Yes
+408,/shared/rsaas/enyij2/mimic/p17768098_s59864573_248c21e9-42573177-98794697-bd556891-685a6c6c.jpg,ELECTIVE,M,72,No
+409,/shared/rsaas/enyij2/mimic/p15630135_s52606161_b896b565-b0f2621f-43a5ef89-60215b10-e1d32983.jpg,EU OBSERVATION,F,20,No
+410,/shared/rsaas/enyij2/mimic/p11166655_s58716397_46229923-c74ab7ae-086fd9be-d66699e3-c603b491.jpg,OBSERVATION ADMIT,M,66,No
+411,/shared/rsaas/enyij2/mimic/p18220139_s56663842_4106f724-e887ae24-7fe82f29-0a94f5e4-6a8dd90a.jpg,OBSERVATION ADMIT,M,47,No
+412,/shared/rsaas/enyij2/mimic/p12095092_s59770669_480340d3-83623545-27c441b4-2e9397fa-100a485d.jpg,EW EMER.,M,65,No
+413,/shared/rsaas/enyij2/mimic/p16908500_s54003801_c5b3f56e-32b77ed1-bdf527f2-6a7ca32f-4ff7b81a.jpg,OBSERVATION ADMIT,F,26,No
+414,/shared/rsaas/enyij2/mimic/p14190554_s55351730_a39f4c08-0935661c-52f5a250-d4282166-61ada748.jpg,URGENT,F,55,Yes
+415,/shared/rsaas/enyij2/mimic/p10489424_s52185038_2446e2dd-45db39e1-b6e7fd5c-57eb142b-221f904b.jpg,EW EMER.,M,79,Yes
+416,/shared/rsaas/enyij2/mimic/p17843033_s58405859_5204b7e0-96b8feae-3b7d8fe6-1f22b52a-b8e561c7.jpg,EW EMER.,M,82,Yes
+417,/shared/rsaas/enyij2/mimic/p14984395_s53549396_9ea57d6a-cd834204-bda4e637-5724b210-0021071b.jpg,DIRECT EMER.,F,77,No
+418,/shared/rsaas/enyij2/mimic/p15689523_s50927794_6c42184e-4b2c7f21-28741f84-c4af08db-8ef4eff9.jpg,URGENT,M,66,Yes
+419,/shared/rsaas/enyij2/mimic/p11530308_s53104415_0a669c57-5d362b85-96d5fc12-55214e99-9991522b.jpg,SURGICAL SAME DAY ADMISSION,F,56,Yes
+420,/shared/rsaas/enyij2/mimic/p11966980_s50568299_7ca619cc-472ea095-8739b082-2f10e479-7cd5fb50.jpg,EW EMER.,F,55,Yes
+421,/shared/rsaas/enyij2/mimic/p17810264_s50920149_11e1b2a1-69c21685-a020f05e-1279c777-db96c71e.jpg,EW EMER.,F,75,Yes
+422,/shared/rsaas/enyij2/mimic/p15906963_s54089740_7c6e17c1-7ec7bd58-3da820e9-7343bf68-c468aa59.jpg,EW EMER.,M,77,Yes
+423,/shared/rsaas/enyij2/mimic/p12781657_s50330199_f9148823-fbf3a3df-9af2fa86-9ea29934-e2a77508.jpg,EW EMER.,F,80,Yes
+424,/shared/rsaas/enyij2/mimic/p13310579_s55492063_9e6da0f0-4c520585-6462653e-268fca8e-33518fde.jpg,EW EMER.,M,76,No
+425,/shared/rsaas/enyij2/mimic/p14769119_s57949380_4780ff3b-1100d6ce-e8750808-c43130f2-47629fe0.jpg,EW EMER.,F,45,No
+426,/shared/rsaas/enyij2/mimic/p12441371_s58028189_81488f3d-3d1fc66d-c4e5639d-00018c82-258072c7.jpg,EW EMER.,M,72,Yes
+427,/shared/rsaas/enyij2/mimic/p12935655_s50292768_df10a636-22208fb5-8c5a9d89-39f35e2b-e7d5dae1.jpg,EW EMER.,M,62,No
+428,/shared/rsaas/enyij2/mimic/p17183632_s53024398_2458c20f-27c6adad-bc6d9798-7cedcc95-327a8dcd.jpg,EW EMER.,M,57,No
+429,/shared/rsaas/enyij2/mimic/p12018187_s54882996_daf008f6-116be52b-507e92c4-6d3a3184-60cd2b59.jpg,URGENT,M,82,Yes
+430,/shared/rsaas/enyij2/mimic/p11374515_s58533088_310182ee-f8af1051-942671b9-377baa62-dc7f1b15.jpg,SURGICAL SAME DAY ADMISSION,M,24,No
+431,/shared/rsaas/enyij2/mimic/p13423238_s55795567_0f07c6cf-21169b5b-f6787f1a-25a1d379-70a117f4.jpg,OBSERVATION ADMIT,F,91,Yes
+432,/shared/rsaas/enyij2/mimic/p13131233_s56807802_4613e4ca-f27dc9de-7c64f8a3-b30b08c6-e80a87d4.jpg,EU OBSERVATION,F,78,Yes
+433,/shared/rsaas/enyij2/mimic/p10293407_s57055255_4f3dc24f-4a2f2140-3e16dfa6-abcbefc0-b0edb47e.jpg,EW EMER.,F,61,Yes
+434,/shared/rsaas/enyij2/mimic/p16751763_s56896454_b9ee467e-fd2d2408-78075640-8a92b359-b24add8c.jpg,EW EMER.,M,69,Yes
+435,/shared/rsaas/enyij2/mimic/p15725633_s54843773_b688675d-f7689d78-ac807c59-09b42dd1-71f7e1fe.jpg,DIRECT EMER.,M,78,No
+436,/shared/rsaas/enyij2/mimic/p12192352_s59990087_0a55f749-dee5033c-74790667-7f87f7d2-d8ef7522.jpg,EW EMER.,M,88,Yes
+437,/shared/rsaas/enyij2/mimic/p14542977_s55873812_7e995829-ccdc43cb-4d8cd137-41fa0c92-7865c6fc.jpg,OBSERVATION ADMIT,M,60,Yes
+438,/shared/rsaas/enyij2/mimic/p15450947_s58622770_7ec49de5-e22293b2-db8568e6-461c3f1c-7b27cf46.jpg,EW EMER.,F,56,No
+439,/shared/rsaas/enyij2/mimic/p13115959_s59909072_588816e4-933c9766-b9a5a212-ad3aceb9-e3456438.jpg,OBSERVATION ADMIT,F,91,No
+440,/shared/rsaas/enyij2/mimic/p15382182_s51890726_1a38df8d-142362d9-fdc53c36-3ea90643-4442c853.jpg,EU OBSERVATION,M,19,Yes
+441,/shared/rsaas/enyij2/mimic/p14237047_s53267050_eff6827a-f9e93fb2-34350b02-9b4a2023-2ed6ff08.jpg,EW EMER.,M,83,Yes
+442,/shared/rsaas/enyij2/mimic/p13458905_s55629599_7acce3a0-4778c5dc-31a92b16-dfc8f72f-61805fa5.jpg,URGENT,M,86,Yes
+443,/shared/rsaas/enyij2/mimic/p11409722_s55849407_b4ba0148-bd73a3f6-de3b2dae-cc45db56-fec2deb9.jpg,AMBULATORY OBSERVATION,F,70,Yes
+444,/shared/rsaas/enyij2/mimic/p11263166_s53273191_5e968892-309c4041-7330157a-992c3b8e-e1db4ce4.jpg,EW EMER.,F,55,Yes
+445,/shared/rsaas/enyij2/mimic/p13343224_s51025864_1822a7cb-bdbac7f7-cdba0143-1515e5a9-17c1da7d.jpg,OBSERVATION ADMIT,M,55,Yes
+446,/shared/rsaas/enyij2/mimic/p10978829_s56737771_21c53e46-4b2336b9-658f378e-2bf40360-cfb79623.jpg,OBSERVATION ADMIT,M,58,Yes
+447,/shared/rsaas/enyij2/mimic/p17274104_s52717264_7b513c54-45388029-d410ef42-17ceada1-53ba244e.jpg,OBSERVATION ADMIT,F,62,Yes
+448,/shared/rsaas/enyij2/mimic/p16889835_s51294528_b6625508-ceefa23d-658e7c3f-5e447fb8-262d9bf0.jpg,URGENT,F,31,Yes
+449,/shared/rsaas/enyij2/mimic/p13164695_s52752254_f5fde880-3a49846b-7d1c691b-27c4e645-0f5d891e.jpg,SURGICAL SAME DAY ADMISSION,F,47,No
+450,/shared/rsaas/enyij2/mimic/p11476759_s54643369_326b3f74-305c7bf1-fe35cb05-f6c7ad6b-869635d8.jpg,AMBULATORY OBSERVATION,F,74,No
+451,/shared/rsaas/enyij2/mimic/p10879112_s58264504_82cf9306-341e6424-e1566160-8fae6fcb-a8e50328.jpg,EW EMER.,M,65,Yes
+452,/shared/rsaas/enyij2/mimic/p11459825_s59547425_43e7020a-843e7c5b-23015e30-1b406fd6-c8155ad3.jpg,EW EMER.,F,71,Yes
+453,/shared/rsaas/enyij2/mimic/p13412407_s57737135_98e950a1-7c5576cf-29cb0d5b-9cd4ff5b-7ed6c12e.jpg,EU OBSERVATION,M,61,No
+454,/shared/rsaas/enyij2/mimic/p16557071_s52928916_fa6073f4-d7655a6b-a29c5abf-6f8004fc-03cee88d.jpg,EW EMER.,F,52,No
+455,/shared/rsaas/enyij2/mimic/p17964648_s56685087_f9228752-93b1f5db-f63e3f42-02f7582c-d6fbfaad.jpg,EW EMER.,F,81,Yes
+456,/shared/rsaas/enyij2/mimic/p15689523_s56946898_7d7fc788-acfc86fb-68fc8f15-c2635ce8-189bdb65.jpg,URGENT,M,66,No
+457,/shared/rsaas/enyij2/mimic/p13339476_s50633609_6dfd30f5-352f3299-9f679b69-395752e5-085cbf9d.jpg,SURGICAL SAME DAY ADMISSION,M,57,No
+458,/shared/rsaas/enyij2/mimic/p18784631_s56302872_7efe9f10-c86099ae-3addd814-c90e77f2-bf9116f9.jpg,EU OBSERVATION,F,42,No
+459,/shared/rsaas/enyij2/mimic/p19299595_s51394674_2559ff49-8971b991-473f9a31-aa951a9c-fdfead95.jpg,EU OBSERVATION,M,43,No
+460,/shared/rsaas/enyij2/mimic/p16468274_s50035547_7588df6a-0dd334ae-610fd256-2cbfb4e0-87c9833f.jpg,EW EMER.,F,23,Yes
+461,/shared/rsaas/enyij2/mimic/p11929269_s56573578_c2fdfa58-7e53fe5f-851a9337-203d0f50-22503663.jpg,EU OBSERVATION,M,77,Yes
+462,/shared/rsaas/enyij2/mimic/p16257001_s56912123_235dc30f-1320de32-534d0e43-63f30e08-89ea2998.jpg,EW EMER.,M,56,No
+463,/shared/rsaas/enyij2/mimic/p15875150_s57345098_0ee7ef84-71e6e4e9-172721b1-b5b8458a-cf83df9f.jpg,DIRECT OBSERVATION,M,54,No
+464,/shared/rsaas/enyij2/mimic/p13977251_s57035749_c2b54ed1-9f2bef9e-2ce8c022-ed71c19f-e7ed7866.jpg,EW EMER.,M,40,No
+465,/shared/rsaas/enyij2/mimic/p12109177_s59034854_786fd42b-b527bf82-724714c7-6b84a6a4-196e55e8.jpg,EW EMER.,M,47,Yes
+466,/shared/rsaas/enyij2/mimic/p13607804_s54407207_f238f2a9-5105373e-6f1a14b1-c06ac722-ddccf7a2.jpg,EW EMER.,F,54,Yes
+467,/shared/rsaas/enyij2/mimic/p15853302_s56394761_e91eaf12-71287dbe-0e509ce9-67362310-5b19fadc.jpg,EU OBSERVATION,M,64,No
+468,/shared/rsaas/enyij2/mimic/p16900636_s50017806_644c0b96-04958a0d-2b825021-27d34413-26218038.jpg,DIRECT EMER.,M,80,No
+469,/shared/rsaas/enyij2/mimic/p13283978_s52147602_eefe8d8b-f6e0245d-6cf70e03-862c0d6d-635917a4.jpg,EW EMER.,F,20,No
+470,/shared/rsaas/enyij2/mimic/p15689523_s56829719_3b1cdb8f-b6153dd4-d176702d-bbb3c84f-0cd825fe.jpg,URGENT,M,66,Yes
+471,/shared/rsaas/enyij2/mimic/p15311382_s57472194_9694d26d-16a3c13c-50689d2c-dd3f495c-9d81d2e2.jpg,EW EMER.,M,31,No
+472,/shared/rsaas/enyij2/mimic/p13697731_s58310635_730adb27-874581ea-96b5afe3-76ba98e1-4af2225c.jpg,EW EMER.,M,21,Yes
+473,/shared/rsaas/enyij2/mimic/p10005329_s50611575_124b0f6e-0e28de07-78df65f2-c9e14867-2a6477f4.jpg,EU OBSERVATION,F,27,No
+474,/shared/rsaas/enyij2/mimic/p17795701_s53418168_b2e3f15c-2efacc3d-adb4c10a-01e2bff2-89c0d0fb.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+475,/shared/rsaas/enyij2/mimic/p11226141_s54346060_bcc3f4e4-b738eb07-3ec62576-98d963f8-d96610f5.jpg,EW EMER.,F,59,Yes
+476,/shared/rsaas/enyij2/mimic/p10336400_s52914772_1b917a78-00f58ff5-fb6d7540-9001d1e8-a3d1825d.jpg,AMBULATORY OBSERVATION,F,49,No
+477,/shared/rsaas/enyij2/mimic/p11617224_s56693872_d3b613f9-e86ea1c6-eef10640-02ca5601-d28f9333.jpg,SURGICAL SAME DAY ADMISSION,F,50,No
+478,/shared/rsaas/enyij2/mimic/p10070614_s52470047_6fe100fc-4b9924da-be2e8947-deb2b723-7bab880c.jpg,AMBULATORY OBSERVATION,M,61,No
+479,/shared/rsaas/enyij2/mimic/p14194664_s59285462_904e8d57-5fcbb1d1-32990617-3b11eb07-fba0ea16.jpg,EW EMER.,M,84,No
+480,/shared/rsaas/enyij2/mimic/p11345525_s54698725_baf79494-5def822f-e9e2e46a-8025863a-41ebc664.jpg,EW EMER.,F,44,Yes
+481,/shared/rsaas/enyij2/mimic/p18227775_s50007138_0bede843-fb206f29-00164a36-bc20ed72-38f9b81e.jpg,EW EMER.,F,59,No
+482,/shared/rsaas/enyij2/mimic/p10203383_s51350089_4989b4f1-a5f92f77-3a0d66f0-76f2d598-aa98f1b4.jpg,EW EMER.,F,61,No
+483,/shared/rsaas/enyij2/mimic/p15530386_s51556603_fe8860d0-cba4de5d-301e4b98-37dac17b-21ff31fb.jpg,ELECTIVE,M,55,Yes
+484,/shared/rsaas/enyij2/mimic/p17951860_s52800339_0384c3f7-b5d56cbb-b6db7e2c-3ef17cb5-8ccd6528.jpg,OBSERVATION ADMIT,F,60,Yes
+485,/shared/rsaas/enyij2/mimic/p10333190_s52619996_4c808cd4-7c774e98-942a5b80-1d94648c-85c3ccba.jpg,EU OBSERVATION,F,48,No
+486,/shared/rsaas/enyij2/mimic/p17822730_s59721657_71ee0343-8ff13237-97f24ad5-61fdf180-ae2ccfcd.jpg,EW EMER.,F,64,Yes
+487,/shared/rsaas/enyij2/mimic/p16909232_s52940331_3e225c4c-10e42c04-a162e07f-ab1c838a-61a845df.jpg,EW EMER.,F,82,Yes
+488,/shared/rsaas/enyij2/mimic/p12714566_s57901730_ad64845f-8cb63d48-c71b7f1b-27c37f49-b38a0c4e.jpg,EW EMER.,M,46,Yes
+489,/shared/rsaas/enyij2/mimic/p15646685_s53844082_dce9b3eb-86524ba4-996d4bc1-b3c52b3c-78f39502.jpg,EU OBSERVATION,M,50,Yes
+490,/shared/rsaas/enyij2/mimic/p17914007_s57645839_3dc72e47-8d349b1a-b191a460-cee010e3-c04eb36c.jpg,DIRECT EMER.,M,82,Yes
+491,/shared/rsaas/enyij2/mimic/p11003999_s56307833_4a05d488-75466f58-0efd24b0-2c4ebf6d-4222a5dc.jpg,EW EMER.,F,44,No
+492,/shared/rsaas/enyij2/mimic/p15621306_s51102199_f0b12680-b03e37ab-f22ccf26-ecfc88c9-d5ab914e.jpg,EW EMER.,M,73,No
+493,/shared/rsaas/enyij2/mimic/p13071437_s59699610_9e839ded-efe8aeb6-e15a6271-2fc93639-8b198cc5.jpg,EW EMER.,M,48,Yes
+494,/shared/rsaas/enyij2/mimic/p12285052_s57225336_9b8564aa-32991cb0-5767519f-75e48a17-82cd4a1c.jpg,EW EMER.,F,81,No
+495,/shared/rsaas/enyij2/mimic/p12155780_s58647543_997f227f-1b702e31-fbb813fb-4813f68e-fdfbd9fa.jpg,EW EMER.,M,48,Yes
+496,/shared/rsaas/enyij2/mimic/p11814469_s59674025_76539edd-30184fce-eefa2b29-04f2c1fe-b7f2ac87.jpg,SURGICAL SAME DAY ADMISSION,M,57,No
+497,/shared/rsaas/enyij2/mimic/p10713800_s50700380_72cd34b1-40510912-9a65ee4b-de4d1b8f-a51dc5c2.jpg,DIRECT EMER.,F,25,No
+498,/shared/rsaas/enyij2/mimic/p10924565_s54872480_ae6b92bd-ed80f07a-30c1b57f-8c2ee59c-803fcec9.jpg,EW EMER.,F,38,Yes
+499,/shared/rsaas/enyij2/mimic/p13071437_s52927837_c419b9c8-27379ac9-2441caff-fe2fef50-a001f198.jpg,EW EMER.,M,48,No
+500,/shared/rsaas/enyij2/mimic/p11747567_s59584034_3a464406-863faa55-569c1f62-7760f4e3-a432712c.jpg,URGENT,F,71,Yes
+501,/shared/rsaas/enyij2/mimic/p13507972_s56537084_af5d5d71-367a5857-aa58b44e-ed8ed410-22b82e2b.jpg,OBSERVATION ADMIT,M,66,Yes
+502,/shared/rsaas/enyij2/mimic/p16893573_s50149002_394df718-aa68bdba-5c84a29f-81142030-112a9b54.jpg,EW EMER.,F,76,Yes
+503,/shared/rsaas/enyij2/mimic/p12224734_s52238069_1615f351-881cb52a-c1c1d5b8-f42f4557-407fcac5.jpg,EW EMER.,F,71,Yes
+504,/shared/rsaas/enyij2/mimic/p14872473_s58039257_4313117d-a13cbe24-c3fb16cc-98aba375-0d9bb198.jpg,EW EMER.,M,33,No
+505,/shared/rsaas/enyij2/mimic/p17768098_s56031486_a6bcec49-a4a54991-fda1b8be-2f31c177-f67da522.jpg,ELECTIVE,M,72,Yes
+506,/shared/rsaas/enyij2/mimic/p14440633_s52477797_9c7f0995-73115fbd-535c4597-be04d9c2-f58bfa6c.jpg,OBSERVATION ADMIT,F,28,Yes
+507,/shared/rsaas/enyij2/mimic/p14895079_s56113059_58bc6c7f-75becc3e-bface4a4-3389290d-cd47e005.jpg,DIRECT EMER.,F,57,Yes
+508,/shared/rsaas/enyij2/mimic/p11184688_s59373833_3f10fc90-f9c1f74d-16178253-226f96e8-45822e14.jpg,EW EMER.,F,77,Yes
+509,/shared/rsaas/enyij2/mimic/p12567919_s55884514_21722188-92e4e01b-367200d1-8d3954f8-55d49aa1.jpg,EW EMER.,F,85,No
+510,/shared/rsaas/enyij2/mimic/p11200051_s57368391_ea297f7c-a1118c72-dbfaefbd-328e80af-ae8c3409.jpg,DIRECT EMER.,M,34,No
+511,/shared/rsaas/enyij2/mimic/p11738688_s54128100_a22e9a65-9e25b329-cc47bfbf-f33c6bd2-06eca8d4.jpg,DIRECT OBSERVATION,M,50,No
+512,/shared/rsaas/enyij2/mimic/p15766903_s56113416_cac15189-e431ca6a-363baeb4-f24db7d1-17ff70b1.jpg,EW EMER.,M,75,Yes
+513,/shared/rsaas/enyij2/mimic/p10065615_s52827353_2e88b20f-96ee4e42-d0f0c91c-64337dbd-7773d133.jpg,DIRECT EMER.,M,48,No
+514,/shared/rsaas/enyij2/mimic/p16589824_s51547254_13a03532-820fcdef-502a5eaa-3b9e9dad-810ead31.jpg,URGENT,F,28,Yes
+515,/shared/rsaas/enyij2/mimic/p13306291_s51397836_886bae57-2e69672d-d7e9cc26-3589947e-c2f7eedf.jpg,URGENT,M,63,Yes
+516,/shared/rsaas/enyij2/mimic/p13886221_s57527749_60e3b080-852188fe-3b5fd23a-051535d2-b3e462b0.jpg,AMBULATORY OBSERVATION,F,34,No
+517,/shared/rsaas/enyij2/mimic/p19689858_s50280183_9e12eb6b-97fc81ee-1f97634e-dae714d4-9ab2fcdf.jpg,EW EMER.,M,53,No
+518,/shared/rsaas/enyij2/mimic/p11717234_s57523949_7a6d354b-8f01aeb8-00765fee-c4d62049-9691e19e.jpg,DIRECT EMER.,M,88,Yes
+519,/shared/rsaas/enyij2/mimic/p10393792_s51287473_abf07045-c5aea9de-de7018b5-4362c49b-48b265c1.jpg,EW EMER.,F,41,Yes
+520,/shared/rsaas/enyij2/mimic/p14411399_s59641594_30fcd6c4-dd43434a-aac1edb0-33412d18-bfd6f604.jpg,EW EMER.,F,66,No
+521,/shared/rsaas/enyij2/mimic/p15467182_s53811745_90d4e9a6-ce6ea20a-f40aedf5-79d089b4-e4a184dd.jpg,EW EMER.,M,39,Yes
+522,/shared/rsaas/enyij2/mimic/p12921473_s59468189_215eac3a-e0f95fd9-fe45c389-e137f5d0-a301eca6.jpg,EW EMER.,M,59,Yes
+523,/shared/rsaas/enyij2/mimic/p14900452_s57674636_1b2cb15a-58d36b96-2414ccc5-22b502f5-aaf83123.jpg,EU OBSERVATION,M,46,No
+524,/shared/rsaas/enyij2/mimic/p12913807_s57402209_318291e8-115bcc71-7089b9fa-e0e54f75-bb416220.jpg,OBSERVATION ADMIT,M,80,Yes
+525,/shared/rsaas/enyij2/mimic/p13813219_s52561347_694f8c11-2d20ae95-bc722e33-47fbcb9b-24a28212.jpg,EW EMER.,F,87,Yes
+526,/shared/rsaas/enyij2/mimic/p12480689_s59139130_b9034fb0-7cef049a-2f163ef3-09bdb7c0-3516f3b3.jpg,EW EMER.,F,48,Yes
+527,/shared/rsaas/enyij2/mimic/p17117998_s55643663_1f033ed0-9faec542-9e7d2e18-741c096b-be20c5c5.jpg,EU OBSERVATION,M,81,No
+528,/shared/rsaas/enyij2/mimic/p16778842_s58206499_46f51590-12fbe724-ba2f4f3d-68ba02c4-370d60cc.jpg,URGENT,M,79,No
+529,/shared/rsaas/enyij2/mimic/p14490385_s50885499_11a8a8b0-250776af-4d2c80c3-8b3447dd-594b656c.jpg,EU OBSERVATION,M,66,Yes
+530,/shared/rsaas/enyij2/mimic/p18853927_s51302691_40544dd4-4d02df9f-af130401-7da058bd-eb343d8e.jpg,EW EMER.,M,74,No
+531,/shared/rsaas/enyij2/mimic/p18779713_s57504056_36cd2184-7601c1ef-a360d3a7-f2b6e70b-a645d521.jpg,EU OBSERVATION,M,58,No
+532,/shared/rsaas/enyij2/mimic/p19001252_s56415148_256159ad-81b0f1c9-2a48ff02-00de54ab-83d10149.jpg,EW EMER.,F,76,No
+533,/shared/rsaas/enyij2/mimic/p19271147_s50532310_86f8d5ea-52c13ae2-bafa92f7-08ba4115-03c985f8.jpg,EW EMER.,F,59,No
+534,/shared/rsaas/enyij2/mimic/p10308342_s59464938_f9a21b28-a97742a7-4ae8eda6-b945bc7e-6ca2a43c.jpg,ELECTIVE,M,48,Yes
+535,/shared/rsaas/enyij2/mimic/p16105600_s52174659_2b742c45-08d0d392-ad513ff3-3e243f17-16956292.jpg,EW EMER.,F,57,No
+536,/shared/rsaas/enyij2/mimic/p15871582_s52444682_5fd6b5ab-2c852f1b-c08d6df9-239ec7c3-7cb396b4.jpg,EU OBSERVATION,F,81,Yes
+537,/shared/rsaas/enyij2/mimic/p11528387_s58263220_4e0a6aef-45019a79-5190f627-703a4cde-6ad4db1b.jpg,EU OBSERVATION,M,52,No
+538,/shared/rsaas/enyij2/mimic/p16524425_s50730975_6e45b6fc-aeab179d-0de9602d-047e642b-b9158631.jpg,EW EMER.,M,82,Yes
+539,/shared/rsaas/enyij2/mimic/p19182863_s55661010_5a98ef87-14b50e7b-3fc8913c-8b345fe8-a38665fa.jpg,SURGICAL SAME DAY ADMISSION,F,60,No
+540,/shared/rsaas/enyij2/mimic/p17822730_s57131864_f949f6ae-36f0d713-73ed48c1-1f631b7c-aa9a1b60.jpg,EW EMER.,F,64,Yes
+541,/shared/rsaas/enyij2/mimic/p18563034_s56122208_68671190-64d6876b-c039d394-dbe89d16-cb416058.jpg,EW EMER.,M,47,No
+542,/shared/rsaas/enyij2/mimic/p16449190_s56658096_0e6e831e-63ca243c-c302b89c-39826690-8a0a96c5.jpg,OBSERVATION ADMIT,M,79,Yes
+543,/shared/rsaas/enyij2/mimic/p12399858_s58868999_16d50f7a-f41a9763-8accb76f-59b5a1cc-446f0cf8.jpg,OBSERVATION ADMIT,F,74,No
+544,/shared/rsaas/enyij2/mimic/p10667797_s53309984_2f4e8ca7-4b391bdf-91e7ee6a-f52c530c-282ba5a1.jpg,EW EMER.,F,26,Yes
+545,/shared/rsaas/enyij2/mimic/p10325266_s54327852_f1c266cc-e5d68295-43ef348d-ea98394d-1c3c69e3.jpg,EW EMER.,F,84,No
+546,/shared/rsaas/enyij2/mimic/p17080143_s51015352_8738505b-f7c481c1-57e6d981-e1c13d31-cffc12aa.jpg,EW EMER.,F,61,Yes
+547,/shared/rsaas/enyij2/mimic/p14233125_s51256736_0758c210-b8dcd038-cd3b89ab-9995f116-7374b3dd.jpg,EU OBSERVATION,F,85,Yes
+548,/shared/rsaas/enyij2/mimic/p10266720_s52080440_0e08b528-939c79d8-f16cc034-2eeec3f6-aa80bc5e.jpg,EW EMER.,M,65,Yes
+549,/shared/rsaas/enyij2/mimic/p10507647_s56949405_fd89929b-70fbde03-68e219ba-e20c5932-5821069b.jpg,DIRECT OBSERVATION,F,65,Yes
+550,/shared/rsaas/enyij2/mimic/p19390188_s56081705_6e3896fc-3b904436-2d538674-3e28e4bc-974bb362.jpg,EU OBSERVATION,M,67,No
+551,/shared/rsaas/enyij2/mimic/p10667797_s50447903_3ef3e960-be4526b5-ff801132-062392fc-8c19e22b.jpg,EW EMER.,F,26,Yes
+552,/shared/rsaas/enyij2/mimic/p16116450_s59530442_aceb40d2-d8ab5a1f-6d34795e-addf60fa-3c30bd8b.jpg,SURGICAL SAME DAY ADMISSION,F,59,Yes
+553,/shared/rsaas/enyij2/mimic/p10770325_s59703602_107cb308-3659bb9b-20a151a3-632a9c3d-924ef16d.jpg,EU OBSERVATION,F,73,Yes
+554,/shared/rsaas/enyij2/mimic/p12273785_s57971131_78ccda25-1351ca92-e2899190-7a41efee-30c7a853.jpg,EW EMER.,F,65,No
+555,/shared/rsaas/enyij2/mimic/p14439892_s52513666_bc379ffc-a49f31e0-ed0e7154-b07bbebc-4e72c566.jpg,OBSERVATION ADMIT,M,52,Yes
+556,/shared/rsaas/enyij2/mimic/p14948236_s51299389_4c6a3023-08b8dadf-7f661342-17785a98-1c1aa19e.jpg,DIRECT EMER.,F,40,No
+557,/shared/rsaas/enyij2/mimic/p18969510_s52979690_ccb04dd4-0087bcd0-1c33b047-c59cf631-121efbf4.jpg,EW EMER.,F,68,No
+558,/shared/rsaas/enyij2/mimic/p13480030_s59927171_033cf1cc-e99f4653-cb8632f7-bc9fb22b-971d2350.jpg,AMBULATORY OBSERVATION,M,53,Yes
+559,/shared/rsaas/enyij2/mimic/p11681010_s57246682_afdea5f3-2213705c-57e3fc24-f2fd987b-e0106b83.jpg,EW EMER.,M,83,Yes
+560,/shared/rsaas/enyij2/mimic/p12027769_s53192803_036ccc6a-d741c0f8-2c342af6-63d75ebe-12aa4737.jpg,EW EMER.,M,40,Yes
+561,/shared/rsaas/enyij2/mimic/p13364910_s56286729_e029920e-b678026c-148fddf5-67a1c985-b56198a5.jpg,EW EMER.,F,63,Yes
+562,/shared/rsaas/enyij2/mimic/p17613674_s58718718_2bd54646-0594f305-a57622d0-7fca0ee6-ede73e27.jpg,OBSERVATION ADMIT,M,69,No
+563,/shared/rsaas/enyij2/mimic/p11001738_s53744709_9584afdf-98963d3d-a64d0dcd-1e96cd93-fe383048.jpg,OBSERVATION ADMIT,F,55,Yes
+564,/shared/rsaas/enyij2/mimic/p16360255_s57656318_294ff6c8-8faa1c33-3a124e7b-ca2bf7e8-81f0e0d6.jpg,EW EMER.,F,49,Yes
+565,/shared/rsaas/enyij2/mimic/p11092871_s56340971_6c0ad95f-5aff8832-f466b265-bee243f0-5c90c944.jpg,OBSERVATION ADMIT,F,59,No
+566,/shared/rsaas/enyij2/mimic/p15689523_s50927794_76c40439-3ee983f5-c3ec7d83-6140f5a2-70b66a75.jpg,URGENT,M,66,Yes
+567,/shared/rsaas/enyij2/mimic/p12966862_s54471714_b64c12b7-810b208b-cca769f3-a43a5696-229942ff.jpg,EU OBSERVATION,F,20,No
+568,/shared/rsaas/enyij2/mimic/p18270774_s50859082_29e503f9-91356045-d5bae3f6-f1ef4e85-bfa5df87.jpg,EW EMER.,M,49,No
+569,/shared/rsaas/enyij2/mimic/p11240149_s59298686_77172c5a-ce810add-a1c018d7-29758637-eafe49c7.jpg,DIRECT OBSERVATION,F,37,Yes
+570,/shared/rsaas/enyij2/mimic/p16257001_s50431628_bdd96c95-b8d4f679-028ef353-44b3f590-a06f1818.jpg,EW EMER.,M,56,No
+571,/shared/rsaas/enyij2/mimic/p13420842_s57791612_ddfa0cbb-25533946-b13d67e6-5ad6785e-c32fa998.jpg,EU OBSERVATION,M,85,Yes
+572,/shared/rsaas/enyij2/mimic/p17967970_s55336905_33203cb9-48c9fe94-09d81cc7-644d1870-f954fbc4.jpg,SURGICAL SAME DAY ADMISSION,F,78,No
+573,/shared/rsaas/enyij2/mimic/p19241526_s53075185_8612678d-34a648a3-bcdcf8fd-d7a1ce81-d16a0c99.jpg,SURGICAL SAME DAY ADMISSION,M,75,No
+574,/shared/rsaas/enyij2/mimic/p15369559_s56085335_e2c1eab9-2c521776-1241fb82-ca6b3a32-401b0f94.jpg,EU OBSERVATION,M,52,Yes
+575,/shared/rsaas/enyij2/mimic/p15311382_s59487112_2e21edb1-d25d7be6-d4e850ed-c9efdfc8-907214c7.jpg,EW EMER.,M,31,No
+576,/shared/rsaas/enyij2/mimic/p16783577_s51337435_76ea1038-5e3863a7-7d73c3b2-a8c6cbf9-2817ed56.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+577,/shared/rsaas/enyij2/mimic/p14637100_s53324804_4985fb62-894b0987-a34d4eed-cc2b369e-8e610363.jpg,EW EMER.,F,63,Yes
+578,/shared/rsaas/enyij2/mimic/p19324055_s58528527_46b41094-f9f71182-1b40b2a6-ede86067-9d4d2876.jpg,EW EMER.,M,80,No
+579,/shared/rsaas/enyij2/mimic/p16509312_s55986691_f73b352c-b61bb284-48601d7b-93eeb6d7-e8c0defb.jpg,EU OBSERVATION,F,19,Yes
+580,/shared/rsaas/enyij2/mimic/p15730484_s59077031_6b815ecc-c679e3df-0828a5e2-4fce4cc2-028a2dae.jpg,ELECTIVE,M,87,Yes
+581,/shared/rsaas/enyij2/mimic/p16582727_s55133639_58e03ba8-2163e7c4-b079136f-03247c71-deac9f9a.jpg,EW EMER.,M,74,Yes
+582,/shared/rsaas/enyij2/mimic/p10293407_s58059670_a1d7b2c2-63fa1dcd-5f7411a3-80e01033-1e773436.jpg,EW EMER.,F,61,Yes
+583,/shared/rsaas/enyij2/mimic/p16388452_s50262973_e01a004e-8912c0ed-7001616a-1a8ffc8a-cd88d2bb.jpg,EW EMER.,M,48,No
+584,/shared/rsaas/enyij2/mimic/p11948471_s58058618_9745c1d6-cdd23a4b-71a5485a-a2d33db5-686c1dd5.jpg,URGENT,M,84,No
+585,/shared/rsaas/enyij2/mimic/p13375158_s53342073_7749d578-c8029709-fab8fb7d-22e8256f-f69342e1.jpg,EW EMER.,F,55,Yes
+586,/shared/rsaas/enyij2/mimic/p11062918_s51429466_55150547-6abfe3d2-ffecd02a-6b00548f-f4537ff9.jpg,EW EMER.,F,59,Yes
+587,/shared/rsaas/enyij2/mimic/p13912634_s50678469_6e975ec8-ed4ef70b-eec85a9c-bc8d7c27-935b314c.jpg,EU OBSERVATION,M,64,Yes
+588,/shared/rsaas/enyij2/mimic/p13639861_s57349035_4e7d3946-c06d4ab6-8df8673d-df861611-fca7a583.jpg,EU OBSERVATION,F,19,No
+589,/shared/rsaas/enyij2/mimic/p15653759_s55870589_974a32bd-0f7daad3-1dfeb4f6-efb47d38-f2d88b34.jpg,EW EMER.,F,36,Yes
+590,/shared/rsaas/enyij2/mimic/p12301303_s52723675_47d74fd5-269da6ec-9afeeb2c-0826a165-c7e4c17f.jpg,DIRECT EMER.,M,46,Yes
+591,/shared/rsaas/enyij2/mimic/p13662299_s54386528_d11ed90b-6614ca72-cfb7ebc7-fa34e0f3-d6748082.jpg,EU OBSERVATION,F,72,Yes
+592,/shared/rsaas/enyij2/mimic/p11818780_s59169184_7f634784-29a90b8c-6251bd01-93308049-eca30bbc.jpg,SURGICAL SAME DAY ADMISSION,M,62,No
+593,/shared/rsaas/enyij2/mimic/p14842342_s59711296_56176abe-10b7d267-808ace4a-d806b140-c4b1f207.jpg,URGENT,F,26,No
+594,/shared/rsaas/enyij2/mimic/p10597475_s52473445_f4ceebd7-4385a6c2-8b870b77-0c46399f-712d2cf2.jpg,EU OBSERVATION,M,35,No
+595,/shared/rsaas/enyij2/mimic/p16002645_s52263913_fbf9d381-390a1e59-a0d630df-19bf512d-bacd860f.jpg,SURGICAL SAME DAY ADMISSION,F,54,No
+596,/shared/rsaas/enyij2/mimic/p17735862_s53925646_fe50f888-d72aca7c-ad028a6f-0d805c13-9d1b9f9d.jpg,EW EMER.,F,68,Yes
+597,/shared/rsaas/enyij2/mimic/p16030932_s53145113_25f44f41-6e42807a-52d34fbc-92b2cf33-13a98b1a.jpg,EW EMER.,F,84,Yes
+598,/shared/rsaas/enyij2/mimic/p11407341_s51156305_18ed7f80-1a088e63-1e1f3a45-9baffd94-917406a8.jpg,EW EMER.,M,76,Yes
+599,/shared/rsaas/enyij2/mimic/p19419360_s50004974_4914c8af-23e7a19e-260ccbcf-a2e08f87-02202b4e.jpg,SURGICAL SAME DAY ADMISSION,F,69,No
+600,/shared/rsaas/enyij2/mimic/p12232906_s56899136_ec6b355f-6212721c-2f3020f5-873e47b0-e7d54a32.jpg,EW EMER.,F,91,Yes
+601,/shared/rsaas/enyij2/mimic/p14996205_s53623226_dce621d2-2c30ffd3-74fcd95c-4ccd066e-5dc1f987.jpg,DIRECT OBSERVATION,M,79,No
+602,/shared/rsaas/enyij2/mimic/p14439892_s50806375_7dc6c0d5-5330daab-4530ad17-aab7829a-6ed6f1b7.jpg,OBSERVATION ADMIT,M,52,Yes
+603,/shared/rsaas/enyij2/mimic/p19299595_s54195395_bb90b0a5-7aaa68f5-e9cbdf82-55c28a0b-4596d280.jpg,EU OBSERVATION,M,43,No
+604,/shared/rsaas/enyij2/mimic/p11334064_s59815611_43850fca-f2d4eda3-44d01bfe-b3ee32e2-3523c847.jpg,URGENT,M,47,Yes
+605,/shared/rsaas/enyij2/mimic/p13448912_s54578628_2f944d80-7d15a90b-346d66ff-c24f36b7-2368e540.jpg,EU OBSERVATION,M,59,Yes
+606,/shared/rsaas/enyij2/mimic/p10646009_s52065791_b143f51e-9d46675b-64a189be-58b49d78-87c73891.jpg,OBSERVATION ADMIT,F,91,No
+607,/shared/rsaas/enyij2/mimic/p16796135_s53661067_281a10a6-676b4a9e-44ba0b24-3777ac4a-679cce3a.jpg,EU OBSERVATION,M,29,No
+608,/shared/rsaas/enyij2/mimic/p12961768_s59233848_2768711e-c2d98d67-a787a360-5d92b9eb-65842891.jpg,SURGICAL SAME DAY ADMISSION,M,59,Yes
+609,/shared/rsaas/enyij2/mimic/p18230776_s56862453_58fca954-44c126f8-a04a863f-50163fdf-ead3e99e.jpg,EW EMER.,F,77,No
+610,/shared/rsaas/enyij2/mimic/p16334734_s59439164_c668d7aa-e21eb603-adfa4c74-09f35a7a-73cf73b4.jpg,URGENT,F,77,Yes
+611,/shared/rsaas/enyij2/mimic/p19539145_s51846802_97e4bde6-d000c4b8-fc50173c-e5efc14f-033a7f1b.jpg,URGENT,F,34,No
+612,/shared/rsaas/enyij2/mimic/p10456513_s57809696_24b9f5bf-afdb8d0c-a5bc5a04-25116d9e-0b1ccd7a.jpg,OBSERVATION ADMIT,F,61,No
+613,/shared/rsaas/enyij2/mimic/p10306584_s53904445_8942cc41-8405994d-2d786501-9c7359f4-b6f9c1ed.jpg,OBSERVATION ADMIT,F,31,Yes
+614,/shared/rsaas/enyij2/mimic/p10351166_s51840770_0b9ca222-259ab0e2-1da5d5a7-6ab55a97-9e11ef96.jpg,EW EMER.,F,50,Yes
+615,/shared/rsaas/enyij2/mimic/p11009622_s54943575_29f7f3c0-00069e66-22a96d84-2de90c5d-d0e70f9d.jpg,EW EMER.,F,74,Yes
+616,/shared/rsaas/enyij2/mimic/p17556194_s58029833_bcae5a92-8076d76e-2fb51b07-6c2016f8-7a8fee56.jpg,DIRECT OBSERVATION,F,73,Yes
+617,/shared/rsaas/enyij2/mimic/p12567919_s57319576_dc9b57b4-f5fa16ec-9bac61d3-186db6d3-08f409b8.jpg,EW EMER.,F,85,No
+618,/shared/rsaas/enyij2/mimic/p15543791_s59258275_4e038cc8-da54ab73-ca5cd4c1-5ad0afd1-6ce8e0bb.jpg,EW EMER.,M,27,No
+619,/shared/rsaas/enyij2/mimic/p15850909_s56734310_7d3be233-878a06b3-e37b0cd1-6a7a0b78-deca4356.jpg,EW EMER.,F,75,Yes
+620,/shared/rsaas/enyij2/mimic/p14822444_s59362935_4a5f7bcc-bc736038-082280a8-f652277d-7da10184.jpg,EU OBSERVATION,M,40,No
+621,/shared/rsaas/enyij2/mimic/p14449150_s59298070_9a88f434-8aab6137-5d07c6f1-5a0217ba-84a35475.jpg,EW EMER.,M,58,Yes
+622,/shared/rsaas/enyij2/mimic/p11230232_s50738439_ecdacf43-884802e0-4205bc44-5653d433-20f15ce9.jpg,EW EMER.,M,47,Yes
+623,/shared/rsaas/enyij2/mimic/p17832035_s57856701_79d6cb7a-39f9326c-d2e871f6-cd58331c-614a6474.jpg,EW EMER.,M,62,No
+624,/shared/rsaas/enyij2/mimic/p16476559_s56001799_5fdc5781-e088791a-7c71a99d-6556e726-bc6d332f.jpg,EW EMER.,M,58,No
+625,/shared/rsaas/enyij2/mimic/p16606797_s59197352_981e2ab8-2aaaf45d-da41ad34-93354844-65a2b053.jpg,EU OBSERVATION,F,40,No
+626,/shared/rsaas/enyij2/mimic/p10938464_s50875128_f95a5490-c943e17d-2c63a8d7-87003ebc-371003e2.jpg,DIRECT EMER.,M,65,Yes
+627,/shared/rsaas/enyij2/mimic/p18678622_s54199226_5561c42e-8d5aa0ed-e341b75f-0cd9fcd4-5848a512.jpg,AMBULATORY OBSERVATION,M,35,No
+628,/shared/rsaas/enyij2/mimic/p15180409_s56688624_24ac4263-6a54c067-85559f1f-3b06f1ad-cb59ec44.jpg,URGENT,F,73,No
+629,/shared/rsaas/enyij2/mimic/p17967970_s51022846_d730ab74-b5e7155b-7c0c289c-f3cefd3f-09406225.jpg,SURGICAL SAME DAY ADMISSION,F,78,Yes
+630,/shared/rsaas/enyij2/mimic/p17633349_s59673171_8ee80f18-f4a9fe85-b0925a33-822d7f68-6d6206f4.jpg,EU OBSERVATION,M,85,No
+631,/shared/rsaas/enyij2/mimic/p17506771_s52732408_7aef5ee6-55a7e31e-dc2eef86-614cca68-8e48ac1b.jpg,EU OBSERVATION,M,47,No
+632,/shared/rsaas/enyij2/mimic/p14347948_s58208866_6dc6472b-8896b809-aa5b643e-2724f6bd-ec7c0e10.jpg,EW EMER.,F,62,Yes
+633,/shared/rsaas/enyij2/mimic/p15820430_s58446606_c1c1c53f-e34700dd-b8aaea32-130686f0-8a7d7bb8.jpg,EW EMER.,M,74,No
+634,/shared/rsaas/enyij2/mimic/p18806186_s54552717_f94dbe00-6a2a4944-c1dd5053-ea71b764-f4c5ebb5.jpg,EW EMER.,M,66,No
+635,/shared/rsaas/enyij2/mimic/p10309494_s58370912_aaf80cc3-4779e584-02c8898c-2ea80199-45900251.jpg,DIRECT EMER.,M,82,Yes
+636,/shared/rsaas/enyij2/mimic/p12519991_s59594262_ef8bac86-4af833b3-1a4fa7a9-10192ab8-67edd828.jpg,DIRECT EMER.,M,71,No
+637,/shared/rsaas/enyij2/mimic/p12274238_s50215396_b1f0be0a-7877dba8-489d6839-b0ab7553-bb39fcf0.jpg,URGENT,F,76,Yes
+638,/shared/rsaas/enyij2/mimic/p14895079_s59827962_f8564f1a-cc7866a6-0ab0b2c2-bad0b398-6705547c.jpg,DIRECT EMER.,F,57,Yes
+639,/shared/rsaas/enyij2/mimic/p15859905_s52603733_d65d5157-f5237344-368e2005-d1030229-45b1b08a.jpg,EW EMER.,F,34,No
+640,/shared/rsaas/enyij2/mimic/p17795701_s51088347_68f166e8-ece7fe77-0b3b69c7-af5e0d82-0b047f53.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+641,/shared/rsaas/enyij2/mimic/p14895079_s56112076_ee315737-a7d7fbf3-747fc999-e23b68ce-389ce8a6.jpg,DIRECT EMER.,F,57,Yes
+642,/shared/rsaas/enyij2/mimic/p11977245_s58717722_4068fef2-d478a1f6-b97b466a-5297bf23-8a6ae1ad.jpg,OBSERVATION ADMIT,M,66,No
+643,/shared/rsaas/enyij2/mimic/p14998376_s54947564_aa5d54f6-9dce276b-d5d103e3-db4ee21e-5cea90d4.jpg,EW EMER.,F,38,Yes
+644,/shared/rsaas/enyij2/mimic/p16995942_s55895714_98a52ffa-7e5a7f27-6bae5426-dc73157f-70804ec4.jpg,EW EMER.,F,76,Yes
+645,/shared/rsaas/enyij2/mimic/p14176548_s59485723_ccdd7273-ac9fb012-52d9ce19-10db20ae-15d28b95.jpg,EU OBSERVATION,F,61,No
+646,/shared/rsaas/enyij2/mimic/p11031528_s58037988_1dc35b9e-3d5361b5-3964f693-80d62d17-4fc98147.jpg,DIRECT EMER.,F,74,No
+647,/shared/rsaas/enyij2/mimic/p13234429_s58680584_33761c65-bb2ea8b4-7d25c2f3-4d219f34-44280c4d.jpg,OBSERVATION ADMIT,F,64,Yes
+648,/shared/rsaas/enyij2/mimic/p12452180_s56288211_0a123389-cf0e16ba-edd1e3a7-28567aa5-38da9b4c.jpg,OBSERVATION ADMIT,M,69,Yes
+649,/shared/rsaas/enyij2/mimic/p16821658_s57210529_5ceaa971-5f155a7f-d2e5ee1c-1e777da6-7a1ec565.jpg,EU OBSERVATION,M,21,No
+650,/shared/rsaas/enyij2/mimic/p17768098_s52332770_30f57df3-32ff6e65-c88e63d4-2152e551-6ec3ec06.jpg,ELECTIVE,M,72,Yes
+651,/shared/rsaas/enyij2/mimic/p17951860_s58934844_a33407b1-f0989b71-29beb62e-5bd74ad6-7135f76c.jpg,OBSERVATION ADMIT,F,60,No
+652,/shared/rsaas/enyij2/mimic/p13813219_s52706763_50851ba6-fc07dc5e-17a956c1-85792c8d-62c7beae.jpg,EW EMER.,F,87,Yes
+653,/shared/rsaas/enyij2/mimic/p19299595_s55667642_855c26f5-98e37906-6db33fd3-82148a4f-9bd26b57.jpg,EU OBSERVATION,M,43,No
+654,/shared/rsaas/enyij2/mimic/p13580435_s55412572_d9eeae73-4ae3c7be-1d5d41dd-d094ce95-f3f1d8dc.jpg,EU OBSERVATION,F,76,No
+655,/shared/rsaas/enyij2/mimic/p16067111_s58762653_319557da-dd2c05e6-f2b94214-141849c9-c78f9717.jpg,URGENT,F,22,No
+656,/shared/rsaas/enyij2/mimic/p17281190_s53096835_fbf7b4ce-0e5c7ce1-9c057ac2-cf8e437d-70c92d53.jpg,OBSERVATION ADMIT,M,72,Yes
+657,/shared/rsaas/enyij2/mimic/p10296904_s51710336_16c1bc0c-90207d40-b93a861d-ad0bc18e-ac97afb2.jpg,URGENT,F,28,No
+658,/shared/rsaas/enyij2/mimic/p14237047_s53267050_851d0e41-17e1bba4-4ac74581-4bac5355-645dbc7c.jpg,EW EMER.,M,83,Yes
+659,/shared/rsaas/enyij2/mimic/p13581561_s57401588_5115f7e6-f08a01ca-25892cf5-aec3faf2-fe12bb7b.jpg,EW EMER.,M,76,Yes
+660,/shared/rsaas/enyij2/mimic/p14637100_s58338719_aff8441e-5c880d47-f73bf2fb-eb0abd0c-cf5e8377.jpg,EW EMER.,F,63,Yes
+661,/shared/rsaas/enyij2/mimic/p13662342_s54940142_2e996bfb-8e687b7d-12d73eef-839c3b93-ca42a69c.jpg,ELECTIVE,M,60,No
+662,/shared/rsaas/enyij2/mimic/p11476759_s51724544_ec7f69ee-0c9b76aa-01698082-442e324d-3c1b0973.jpg,AMBULATORY OBSERVATION,F,74,Yes
+663,/shared/rsaas/enyij2/mimic/p14637100_s57169863_8b2b7cbc-d6f3dd00-acd1236c-93869124-613fe99a.jpg,EW EMER.,F,63,Yes
+664,/shared/rsaas/enyij2/mimic/p13244870_s54705215_9db7f762-1c8eb559-dd83b0c4-9afcf2f8-d9bdb397.jpg,DIRECT OBSERVATION,F,32,No
+665,/shared/rsaas/enyij2/mimic/p16414344_s57889454_4dfd02ce-0c626427-8862bdf0-8704e52d-74ae31ba.jpg,EW EMER.,M,61,Yes
+666,/shared/rsaas/enyij2/mimic/p14651148_s52226997_f4ff0ce5-3c7382f8-a9534bbd-94cd02ce-d656bd8a.jpg,EU OBSERVATION,F,73,No
+667,/shared/rsaas/enyij2/mimic/p19318312_s57622136_894cb233-60f83a97-0557aebf-97fdd647-e4cae648.jpg,EW EMER.,F,21,No
+668,/shared/rsaas/enyij2/mimic/p15311382_s59042110_9b872ebf-58853867-3b9e4519-385dd443-20c3b3d3.jpg,EW EMER.,M,31,No
+669,/shared/rsaas/enyij2/mimic/p13880718_s58522562_8411cd17-492f6492-634407bd-0c9e8b54-2ac93ee3.jpg,EW EMER.,F,75,Yes
+670,/shared/rsaas/enyij2/mimic/p13406759_s56786354_8a1c06a0-0fc6bebf-11cdb1f3-55c5f46e-a67b2ec9.jpg,EU OBSERVATION,M,70,No
+671,/shared/rsaas/enyij2/mimic/p16767824_s55954941_b78f08be-2f9ad5e0-fe2d9c26-2ac39626-94659059.jpg,EW EMER.,M,71,No
+672,/shared/rsaas/enyij2/mimic/p13241244_s54961874_bdd5a162-f08747fb-6fabb637-670527ef-ea81c536.jpg,SURGICAL SAME DAY ADMISSION,M,58,Yes
+673,/shared/rsaas/enyij2/mimic/p10293407_s52060624_0326cd1d-7e9aa882-9fa3c528-e5a68107-db648c54.jpg,EW EMER.,F,61,Yes
+674,/shared/rsaas/enyij2/mimic/p16476559_s50199519_fa72a35a-5bf7d78a-6168278a-7b7863ca-dc54cf87.jpg,EW EMER.,M,58,Yes
+675,/shared/rsaas/enyij2/mimic/p10507647_s52844232_d80a4e2b-fd801f39-edbf2040-3b8dc43e-1cdca434.jpg,DIRECT OBSERVATION,F,65,Yes
+676,/shared/rsaas/enyij2/mimic/p10341277_s55351645_6cf6a11d-cf090e2a-c230272b-41c5dd46-8a661710.jpg,EU OBSERVATION,M,44,No
+677,/shared/rsaas/enyij2/mimic/p16783577_s58015703_cc1083df-e5920023-6543f31d-bbaad429-28f61de2.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+678,/shared/rsaas/enyij2/mimic/p17948573_s53911245_a6ff99ed-7fc39647-fce143c0-0f9bbefa-d05133cf.jpg,EW EMER.,F,70,Yes
+679,/shared/rsaas/enyij2/mimic/p13743156_s50954636_72d2e113-5fa8e1aa-f3c93a08-fb080792-44625398.jpg,EU OBSERVATION,M,38,No
+680,/shared/rsaas/enyij2/mimic/p17914007_s51565739_6e05dfcc-7c3ed072-e0c73c3c-87e1d986-a1343c51.jpg,DIRECT EMER.,M,82,Yes
+681,/shared/rsaas/enyij2/mimic/p17768098_s54791813_9c46de48-a37f75b8-6bb2ee72-8585434d-e703188f.jpg,ELECTIVE,M,72,Yes
+682,/shared/rsaas/enyij2/mimic/p14329116_s53427368_8483b23b-fd7ae84c-ef642848-abfba642-3253e0db.jpg,EU OBSERVATION,F,71,Yes
+683,/shared/rsaas/enyij2/mimic/p15311382_s53759245_8775d3f3-353d88dd-89fadfde-81816a83-9740fdff.jpg,EW EMER.,M,31,No
+684,/shared/rsaas/enyij2/mimic/p13442722_s54989472_760cf949-a2b99928-b46ed445-9875c399-cc142276.jpg,EU OBSERVATION,F,59,Yes
+685,/shared/rsaas/enyij2/mimic/p11001738_s57074023_8db3ef1d-73212ba4-82c5e1ea-a6b51157-3d6dfe47.jpg,OBSERVATION ADMIT,F,55,Yes
+686,/shared/rsaas/enyij2/mimic/p13413901_s54926493_8d072d70-d53ee4cc-15ae4883-3fe558bc-2469daa6.jpg,EW EMER.,F,38,No
+687,/shared/rsaas/enyij2/mimic/p16446532_s51447506_a03fe31c-fcf92d5f-991ddd41-ba683b49-7d124228.jpg,EW EMER.,M,64,Yes
+688,/shared/rsaas/enyij2/mimic/p16589824_s57060988_daf0ff1c-7e663e22-bf8d0a05-6a5dd1e2-9e6853ee.jpg,URGENT,F,28,No
+689,/shared/rsaas/enyij2/mimic/p10927165_s56856278_c7afd7d4-dd4abf79-66c28b5d-b7d59a24-0204948a.jpg,EU OBSERVATION,M,53,No
+690,/shared/rsaas/enyij2/mimic/p13265471_s57659894_f56fab70-dca22590-a03d8363-ba391c57-3b4930b8.jpg,SURGICAL SAME DAY ADMISSION,M,53,Yes
+691,/shared/rsaas/enyij2/mimic/p14624686_s54519510_ca1e9c1b-ffe893fc-88de157b-5bccd5df-b8d15fcc.jpg,EW EMER.,M,63,No
+692,/shared/rsaas/enyij2/mimic/p17861185_s55423560_ffe14392-968ab399-57f16907-24a2553d-c4d094f7.jpg,EU OBSERVATION,M,44,No
+693,/shared/rsaas/enyij2/mimic/p15666635_s50892470_fae60207-2dafa56c-2d6062da-b871c611-817d8cf2.jpg,EW EMER.,M,44,No
+694,/shared/rsaas/enyij2/mimic/p15871582_s57329511_c41e287d-d88d3cc1-baee8be1-4782ce7d-3d3ccfa7.jpg,EU OBSERVATION,F,81,Yes
+695,/shared/rsaas/enyij2/mimic/p10945254_s55607213_61965c64-82ac31e1-e5993679-55c34acf-9821d65a.jpg,EW EMER.,M,48,Yes
+696,/shared/rsaas/enyij2/mimic/p17556194_s50749775_0a4a209f-aa920311-8ae4e478-53d99003-93312a27.jpg,DIRECT OBSERVATION,F,73,Yes
+697,/shared/rsaas/enyij2/mimic/p10035780_s55343330_8bb728f7-59213a2c-1dab5f9e-875589a2-a308d030.jpg,OBSERVATION ADMIT,F,75,No
+698,/shared/rsaas/enyij2/mimic/p14895079_s53683636_4347aedd-b6b934c0-d63517a0-2f03d454-b787ae15.jpg,DIRECT EMER.,F,57,Yes
+699,/shared/rsaas/enyij2/mimic/p11528387_s59427705_244a6980-db079445-f13cfc25-cab27068-bf03de3d.jpg,EU OBSERVATION,M,52,No
+700,/shared/rsaas/enyij2/mimic/p19777911_s58633026_97dd20f4-dfc19e94-c9e24cca-154878d2-7e737e66.jpg,DIRECT EMER.,F,61,No
+701,/shared/rsaas/enyij2/mimic/p12704996_s57602765_f47ba05d-85abefa7-381b1df1-2daeb3ec-f7fc5bd8.jpg,EU OBSERVATION,M,79,No
+702,/shared/rsaas/enyij2/mimic/p15838259_s52647359_24f79ee6-b54c1689-ef27b4cb-155b4fe2-a74b3e8b.jpg,EU OBSERVATION,F,79,No
+703,/shared/rsaas/enyij2/mimic/p14237047_s56169796_426ae333-f218c541-140dce4f-a13ebbbf-8f3c44db.jpg,EW EMER.,M,83,Yes
+704,/shared/rsaas/enyij2/mimic/p14439892_s55413760_1077071c-4ecee91c-dc3e52c1-779f691a-ecd703d1.jpg,OBSERVATION ADMIT,M,52,No
+705,/shared/rsaas/enyij2/mimic/p16783577_s59602736_e6127869-a2e8096b-59ced6ee-d1e56c27-8a83080c.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+706,/shared/rsaas/enyij2/mimic/p17868595_s58083607_f742e49c-7680a160-2985e281-485be896-dfbc6186.jpg,URGENT,M,36,No
+707,/shared/rsaas/enyij2/mimic/p10432862_s57437303_d4e56596-6ae49138-9fa16701-2911ecce-c58ed152.jpg,EW EMER.,M,51,Yes
+708,/shared/rsaas/enyij2/mimic/p19777911_s59277264_088a5a04-d24d1b59-b3c1d02b-6c36902a-cd4e5df1.jpg,DIRECT EMER.,F,61,No
+709,/shared/rsaas/enyij2/mimic/p17370807_s51561381_3f77a49b-725dbcde-d218d006-b0f5bc32-975aaa73.jpg,OBSERVATION ADMIT,M,51,Yes
+710,/shared/rsaas/enyij2/mimic/p17178884_s56569910_31fbaee6-72dcd5b8-f4d67977-a6aff559-80e88f58.jpg,URGENT,F,56,Yes
+711,/shared/rsaas/enyij2/mimic/p15689523_s52953924_fb08556d-4a8ab240-c000df13-4a2c7273-9b28bc2b.jpg,URGENT,M,66,Yes
+712,/shared/rsaas/enyij2/mimic/p14984395_s53549396_c1eae015-64403537-b4323af5-da665aba-648efce8.jpg,DIRECT EMER.,F,77,No
+713,/shared/rsaas/enyij2/mimic/p11948471_s55604278_c2798183-5cf0ced5-79c32a29-b4d47178-b49672ef.jpg,URGENT,M,84,Yes
+714,/shared/rsaas/enyij2/mimic/p11476759_s59494015_3e8bcc91-5650bac3-46fe74d5-55690cba-d5f00823.jpg,AMBULATORY OBSERVATION,F,74,Yes
+715,/shared/rsaas/enyij2/mimic/p16116450_s59530442_5f2875fd-aab25319-37fcbe55-c4d09c70-40921643.jpg,SURGICAL SAME DAY ADMISSION,F,59,Yes
+716,/shared/rsaas/enyij2/mimic/p15752845_s55107086_2c23476e-9ff927c5-90117909-6b0c1f7f-0422c837.jpg,EU OBSERVATION,M,58,Yes
+717,/shared/rsaas/enyij2/mimic/p15725633_s53654213_b19e3cb9-e9151daf-753cd250-ad41290e-cb1a62c9.jpg,DIRECT EMER.,M,78,Yes
+718,/shared/rsaas/enyij2/mimic/p11594083_s50051107_a1c65801-27425b9f-862dcf42-ad7b83d5-e8880367.jpg,EU OBSERVATION,F,27,No
+719,/shared/rsaas/enyij2/mimic/p13646005_s57736992_82cb6fd7-9b5bf5e3-620a49cf-62cf0c82-c78de83a.jpg,URGENT,F,29,No
+720,/shared/rsaas/enyij2/mimic/p14151932_s52345663_0ad4f352-0b521723-adcebf72-fae9c3ce-9679e4f0.jpg,EW EMER.,M,81,Yes
+721,/shared/rsaas/enyij2/mimic/p10667797_s56362585_069fec54-92e2962f-ac7d6c0f-875a5190-b55450cf.jpg,EW EMER.,F,26,Yes
+722,/shared/rsaas/enyij2/mimic/p18834039_s53135034_dd16b944-55da8cab-9aa3cd26-6ac4d7c7-ed422e94.jpg,OBSERVATION ADMIT,M,56,No
+723,/shared/rsaas/enyij2/mimic/p11681010_s51827865_f1676e49-453dc65d-f9c099e3-fed63802-e6f818cf.jpg,EW EMER.,M,83,Yes
+724,/shared/rsaas/enyij2/mimic/p10510639_s53213557_ffe22ffd-4e6557de-96fb431c-44e48d1a-1fa68c4a.jpg,ELECTIVE,F,74,No
+725,/shared/rsaas/enyij2/mimic/p16851315_s50895888_a32a1822-fad0f368-0690a1d1-9a379ff6-209e0302.jpg,EW EMER.,M,33,No
+726,/shared/rsaas/enyij2/mimic/p16507681_s53976226_116f04e2-e91256d2-b1088b7f-6d7edb75-8b4ad3d1.jpg,EU OBSERVATION,F,87,No
+727,/shared/rsaas/enyij2/mimic/p12133889_s53383308_aba28eb5-c9de117d-297e3508-73b3c6b6-fb71be48.jpg,SURGICAL SAME DAY ADMISSION,F,51,No
+728,/shared/rsaas/enyij2/mimic/p13375158_s55247638_d0779686-6ea498f1-670b2c32-99d5c3fa-da9918a2.jpg,EW EMER.,F,55,Yes
+729,/shared/rsaas/enyij2/mimic/p17795701_s51508366_0d3ace0c-a22f2657-dfaaa4a4-40e6860a-b5357b40.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+730,/shared/rsaas/enyij2/mimic/p17768098_s57439081_a3b836ea-e1396e7c-1649481b-b5a3a239-9364c6b5.jpg,ELECTIVE,M,72,Yes
+731,/shared/rsaas/enyij2/mimic/p16783577_s58044771_f23baf1c-1b86bc9e-e35dd327-b1723f19-82730cb0.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+732,/shared/rsaas/enyij2/mimic/p11948471_s55729982_34d9e914-475cf039-af7d4de5-f1898f57-035d1c19.jpg,URGENT,M,84,Yes
+733,/shared/rsaas/enyij2/mimic/p12567919_s50456807_7c318a0c-24560b1c-b88123f3-274000a5-f50f6a5d.jpg,EW EMER.,F,85,Yes
+734,/shared/rsaas/enyij2/mimic/p18215560_s59312521_76013bb0-a064f6ee-944bf049-8416ef63-aed2cd32.jpg,DIRECT OBSERVATION,M,66,No
+735,/shared/rsaas/enyij2/mimic/p17285653_s55094634_eba0a290-445501e9-42f3176e-d8dd02bf-da0370ac.jpg,EW EMER.,F,51,No
+736,/shared/rsaas/enyij2/mimic/p17951860_s51753296_a5aee672-0607cd5d-aca97dbb-f4b3952c-30a054fe.jpg,OBSERVATION ADMIT,F,60,No
+737,/shared/rsaas/enyij2/mimic/p16600050_s51263405_2a9e28fa-8037da2b-df366571-579fa686-16fb4006.jpg,EW EMER.,M,25,Yes
+738,/shared/rsaas/enyij2/mimic/p18478557_s52742392_19a059a0-758bebde-b700ac38-2e7c8e47-0de76e84.jpg,DIRECT OBSERVATION,F,64,No
+739,/shared/rsaas/enyij2/mimic/p16701608_s51153446_1d5c0495-bdb5df02-1a0ae55d-ae237aaf-691b5625.jpg,EW EMER.,F,91,No
+740,/shared/rsaas/enyij2/mimic/p15413099_s58373351_3b7304aa-72553d93-f3914483-b6478e5d-b6038269.jpg,EU OBSERVATION,F,23,No
+741,/shared/rsaas/enyij2/mimic/p11948471_s54857146_9f5e6e40-a947da7f-3cc8a352-5121dbe8-a1b278f8.jpg,URGENT,M,84,No
+742,/shared/rsaas/enyij2/mimic/p11063824_s52411692_a37d82c5-8029073b-06705864-d8994f36-eaa25b5c.jpg,EW EMER.,M,91,Yes
+743,/shared/rsaas/enyij2/mimic/p17556194_s59055700_e68ad50f-dda177c8-236c98b2-4ed9f811-e3c65272.jpg,DIRECT OBSERVATION,F,73,Yes
+744,/shared/rsaas/enyij2/mimic/p14249143_s57863201_580f1073-24b401bb-63e6999b-f6843ee6-8fb93fb1.jpg,EW EMER.,M,82,Yes
+745,/shared/rsaas/enyij2/mimic/p16364540_s52577188_9ab2061b-45dc0404-39e80289-affbdd9b-b83fd84e.jpg,EU OBSERVATION,M,52,No
+746,/shared/rsaas/enyij2/mimic/p19695682_s56689220_289c5875-c923137e-0a7f8120-4b40d70e-35a169b2.jpg,EU OBSERVATION,F,48,No
+747,/shared/rsaas/enyij2/mimic/p11607584_s58277041_8d45a208-fbbd798b-7f9f5b27-b81b4db7-051012fe.jpg,EW EMER.,M,42,No
+748,/shared/rsaas/enyij2/mimic/p17430262_s52503440_69436b9d-59d237ca-3ef901a8-1e5b3691-ae379275.jpg,EW EMER.,F,70,Yes
+749,/shared/rsaas/enyij2/mimic/p14120635_s53902748_d476bc49-f143f6df-2bd7eaab-0b7fc865-410fbcf6.jpg,DIRECT EMER.,M,57,No
+750,/shared/rsaas/enyij2/mimic/p13857788_s57160279_05d8da75-7588a9d6-49a30022-7b35a229-c9400001.jpg,EW EMER.,M,83,No
+751,/shared/rsaas/enyij2/mimic/p17448700_s55352226_7ee56ca9-d75daefd-f2711fb8-e629d7ab-47c1c5bd.jpg,URGENT,F,36,Yes
+752,/shared/rsaas/enyij2/mimic/p13333740_s53554718_1aa2e1ba-c5d32565-6f76be75-db4cccc2-a472e69f.jpg,EW EMER.,F,76,Yes
+753,/shared/rsaas/enyij2/mimic/p14989554_s58716364_ab192cde-2e52ebe7-68dba1e8-c361d506-5b1aad5c.jpg,EW EMER.,M,48,No
+754,/shared/rsaas/enyij2/mimic/p12133889_s50268223_7f156c64-7331ffd4-a87d1723-2d304ba8-db504370.jpg,SURGICAL SAME DAY ADMISSION,F,51,No
+755,/shared/rsaas/enyij2/mimic/p16600050_s59930052_15d26062-e22b3ebe-7e380876-65ceab7c-7dfd1e79.jpg,EW EMER.,M,25,Yes
+756,/shared/rsaas/enyij2/mimic/p14359685_s54237500_f15eceac-6fd14442-e22a65de-6bfffa15-0ba34c9e.jpg,EU OBSERVATION,M,77,No
+757,/shared/rsaas/enyij2/mimic/p17539265_s52596472_99b93ef4-dfc369ce-11cb3865-a6f3e01b-fb2d228f.jpg,OBSERVATION ADMIT,F,67,Yes
+758,/shared/rsaas/enyij2/mimic/p17539265_s57348632_7d784f88-a34e395a-d128fb78-b85b03d1-aa34ae10.jpg,OBSERVATION ADMIT,F,67,Yes
+759,/shared/rsaas/enyij2/mimic/p13631333_s58143050_47d9180e-afca135f-04c4ad06-f40b7235-bca0d9c3.jpg,URGENT,F,43,No
+760,/shared/rsaas/enyij2/mimic/p17710775_s57020175_13a5bff7-ec00c177-6088c7e3-4d3c3ba1-c70a985c.jpg,DIRECT OBSERVATION,M,38,No
+761,/shared/rsaas/enyij2/mimic/p17220465_s57603588_d00f01fb-48c91d01-765f89b0-01cbc4a5-81f419f8.jpg,EU OBSERVATION,F,79,No
+762,/shared/rsaas/enyij2/mimic/p11681010_s58260962_12fd48f3-444c5cf5-0d1d9cd9-a9148e4b-6100757a.jpg,EW EMER.,M,83,Yes
+763,/shared/rsaas/enyij2/mimic/p18563034_s56122208_759d7213-8fd214b4-45f52dcb-81971be4-b6aa0525.jpg,EW EMER.,M,47,No
+764,/shared/rsaas/enyij2/mimic/p15850909_s56275416_5712756e-815c8384-bcc701c3-26156acc-bccc3b66.jpg,EW EMER.,F,75,No
+765,/shared/rsaas/enyij2/mimic/p14513082_s53295402_964c4511-0bbb3dfc-b2c98590-bb6f28f8-3b1280de.jpg,DIRECT EMER.,M,26,No
+766,/shared/rsaas/enyij2/mimic/p11009622_s54943575_446ab66d-d2afee1e-54f5db9d-707a8117-5d43d65e.jpg,EW EMER.,F,74,Yes
+767,/shared/rsaas/enyij2/mimic/p11975614_s55046711_1755f6cf-d698cf22-233271e3-2cdb1b3d-4db2483f.jpg,OBSERVATION ADMIT,M,30,Yes
+768,/shared/rsaas/enyij2/mimic/p12320125_s54424400_2a0aafe7-a496e623-8c2da129-dcef4a6b-b74c987c.jpg,EU OBSERVATION,F,57,Yes
+769,/shared/rsaas/enyij2/mimic/p10352302_s55828551_5b4673d9-293edb59-fda88908-d433f53f-5645723d.jpg,EW EMER.,F,54,No
+770,/shared/rsaas/enyij2/mimic/p14563384_s56400736_2f71abe0-738f41ca-27b53ad7-52c2fd59-5181f54c.jpg,EU OBSERVATION,F,71,Yes
+771,/shared/rsaas/enyij2/mimic/p17328272_s56859521_4535f322-6288d257-d905c88c-c7380d89-1ea1ee5a.jpg,EW EMER.,F,83,No
+772,/shared/rsaas/enyij2/mimic/p13832352_s52585112_d06ea484-88e169c9-f73f92d8-475c6c1f-1c787340.jpg,EW EMER.,F,79,No
+773,/shared/rsaas/enyij2/mimic/p13506593_s52990283_64e314dc-892b491d-26fde30f-467197ce-7bd4aa4e.jpg,EW EMER.,F,49,No
+774,/shared/rsaas/enyij2/mimic/p15838259_s52647359_ab7561c0-f84cbaa5-68d6c5a7-0bd2be4b-c2c728f0.jpg,EU OBSERVATION,F,79,No
+775,/shared/rsaas/enyij2/mimic/p14197240_s54780919_1e2444d1-45db499b-79e2a4ef-03098884-a8bc7db2.jpg,EW EMER.,M,78,Yes
+776,/shared/rsaas/enyij2/mimic/p15689523_s50191563_2f292f8d-f92a3794-f90f8124-99557b90-5d81137c.jpg,URGENT,M,66,Yes
+777,/shared/rsaas/enyij2/mimic/p19204183_s50237470_eb77754d-08cafc99-848afbac-5367db76-c2c480e4.jpg,EW EMER.,F,26,No
+778,/shared/rsaas/enyij2/mimic/p13129811_s51131723_57db50b7-aaf6ba27-57980a1b-10354b60-6102b830.jpg,OBSERVATION ADMIT,M,84,No
+779,/shared/rsaas/enyij2/mimic/p17080143_s56604538_eb8b4a51-488e4bac-1788e092-42dd0d70-36fc0486.jpg,EW EMER.,F,61,Yes
+780,/shared/rsaas/enyij2/mimic/p17438670_s59798720_88fc8ab8-94285e20-ce07fdef-7be413a6-62c726a9.jpg,EU OBSERVATION,F,78,No
+781,/shared/rsaas/enyij2/mimic/p10884708_s51832133_7f6010eb-324858b1-86d11d5b-72e68ba9-6d1eeb50.jpg,EW EMER.,F,42,Yes
+782,/shared/rsaas/enyij2/mimic/p12224734_s50074592_713381cd-b7954548-a40d09b2-8841fcb4-d571af44.jpg,EW EMER.,F,71,Yes
+783,/shared/rsaas/enyij2/mimic/p14895079_s52588608_06125426-59472ccf-499743ed-3abc2f4f-a5ce8bf9.jpg,DIRECT EMER.,F,57,Yes
+784,/shared/rsaas/enyij2/mimic/p18304844_s52502663_41a84685-7ddf5d71-78a3b9eb-e2ad8a0d-2621eedb.jpg,EU OBSERVATION,M,34,No
+785,/shared/rsaas/enyij2/mimic/p18892464_s51406616_10ec60a7-bb8f023f-6542f293-669417cb-1b37e2fa.jpg,EW EMER.,F,67,No
+786,/shared/rsaas/enyij2/mimic/p14439892_s58532105_7fa6a7a7-6bc31f71-766d4a11-ef113cc9-18dfee87.jpg,OBSERVATION ADMIT,M,52,No
+787,/shared/rsaas/enyij2/mimic/p16835584_s54277677_29d88d03-5f4fc064-d38042b3-88a3fc8a-98c4e1e4.jpg,EU OBSERVATION,F,65,No
+788,/shared/rsaas/enyij2/mimic/p16557461_s56714469_4a0f7cef-c39a46a7-148b2b61-66d03e29-fa428f8d.jpg,OBSERVATION ADMIT,M,82,Yes
+789,/shared/rsaas/enyij2/mimic/p12095092_s55634770_39cefdbf-02a85e10-754d9386-b6261d85-f6bdf4d7.jpg,EW EMER.,M,65,Yes
+790,/shared/rsaas/enyij2/mimic/p13149249_s54537057_db9c6bd4-929df715-0b8ea5a1-dac12ddc-64523911.jpg,EU OBSERVATION,F,20,No
+791,/shared/rsaas/enyij2/mimic/p14517807_s51566598_5b6b108e-3be204b5-26297fea-6b0eb2f5-3906d65b.jpg,EW EMER.,M,55,Yes
+792,/shared/rsaas/enyij2/mimic/p10948410_s56232729_ff486fe6-05216897-95f9b5cb-836bcb14-fcd278fb.jpg,EU OBSERVATION,F,34,No
+793,/shared/rsaas/enyij2/mimic/p13286078_s55245527_d639ec49-3f05821c-4aea59df-91f1327d-5426e51d.jpg,EW EMER.,M,65,Yes
+794,/shared/rsaas/enyij2/mimic/p11580826_s59426619_b396d857-1f209cb0-3521894b-d8b65009-7a7d6e11.jpg,OBSERVATION ADMIT,M,62,Yes
+795,/shared/rsaas/enyij2/mimic/p10627464_s56507015_dd3e57bf-10330c68-af51358c-cca22c53-aeda5ca0.jpg,EW EMER.,F,56,No
+796,/shared/rsaas/enyij2/mimic/p14147591_s52173730_ae43df20-f760b8af-330a1942-ade37349-be143e35.jpg,EW EMER.,M,51,Yes
+797,/shared/rsaas/enyij2/mimic/p12214583_s53897015_566838cb-6abab7a1-ed8f37c3-59f6d104-d128bc52.jpg,OBSERVATION ADMIT,F,70,Yes
+798,/shared/rsaas/enyij2/mimic/p19405326_s59902758_579415cd-41a796f5-63d91b1e-74d3b940-5595d784.jpg,DIRECT EMER.,F,75,No
+799,/shared/rsaas/enyij2/mimic/p14984395_s53468824_e488c41e-33d6b393-834a5702-78d65c51-4711742b.jpg,DIRECT EMER.,F,77,Yes
+800,/shared/rsaas/enyij2/mimic/p13639861_s59541913_7d78df69-e9612426-46beb23a-86082cbc-32ab1c07.jpg,EU OBSERVATION,F,19,No
+801,/shared/rsaas/enyij2/mimic/p15646685_s53844082_95a03a71-3149f212-61f3210d-c844b539-215a6c50.jpg,EU OBSERVATION,M,50,Yes
+802,/shared/rsaas/enyij2/mimic/p11975614_s53431689_1d729e0c-711b70b6-086727a3-82ebdc1a-9b281988.jpg,OBSERVATION ADMIT,M,30,Yes
+803,/shared/rsaas/enyij2/mimic/p16589824_s53118205_a2206351-7d6b8e3a-0dac5fe4-60886369-7d4cd968.jpg,URGENT,F,28,Yes
+804,/shared/rsaas/enyij2/mimic/p15880947_s52457077_840fd1a0-ac427843-bcc959b9-bb4a391d-cd67ea97.jpg,DIRECT OBSERVATION,M,68,No
+805,/shared/rsaas/enyij2/mimic/p14895079_s54049219_872153f8-c6c7a398-c8dded7d-346239f5-699f25c9.jpg,DIRECT EMER.,F,57,Yes
+806,/shared/rsaas/enyij2/mimic/p15875150_s55620590_1a9bcc1c-85d83d78-b741d1b9-25e0d7a2-a898c369.jpg,DIRECT OBSERVATION,M,54,Yes
+807,/shared/rsaas/enyij2/mimic/p15196754_s51396592_d4178642-4eec5b8a-b9194ff0-944315d5-15aac198.jpg,URGENT,F,34,No
+808,/shared/rsaas/enyij2/mimic/p13697731_s58310635_cb15b29a-64e62bf4-76930b85-dc5657ef-9df520e5.jpg,EW EMER.,M,21,Yes
+809,/shared/rsaas/enyij2/mimic/p10432862_s50486224_14dce9f0-e9852951-3fa04ec3-58e33822-5e5b4edc.jpg,EW EMER.,M,51,Yes
+810,/shared/rsaas/enyij2/mimic/p16387058_s56490530_352445a9-e3a6fdad-9ec0ba74-101abe8a-b31caca7.jpg,EU OBSERVATION,F,74,Yes
+811,/shared/rsaas/enyij2/mimic/p11556551_s53546250_b945015a-e42e1504-20a06522-ea7f74cd-5f82c03f.jpg,EW EMER.,M,72,No
+812,/shared/rsaas/enyij2/mimic/p10248522_s54094354_7b97dc44-cdc44e77-404ee210-3994f625-c8d22645.jpg,EW EMER.,F,65,No
+813,/shared/rsaas/enyij2/mimic/p17810264_s53604940_c7f4aefa-5460beec-c741b080-616a60a6-fb00c128.jpg,EW EMER.,F,75,Yes
+814,/shared/rsaas/enyij2/mimic/p14796094_s50937463_b1c882d2-70175478-a4e9a45f-34b2e29f-bbe43c85.jpg,EW EMER.,M,18,Yes
+815,/shared/rsaas/enyij2/mimic/p16449190_s58435259_4f99e99b-19e33cab-62c217a2-694e5daa-24588ee5.jpg,OBSERVATION ADMIT,M,79,Yes
+816,/shared/rsaas/enyij2/mimic/p12777682_s52667798_e23684f2-a9f4a1ca-a6a2d414-850ab15f-3001eeff.jpg,OBSERVATION ADMIT,F,42,No
+817,/shared/rsaas/enyij2/mimic/p14734397_s59965209_48a7ea8f-192da8fd-85c1dc54-3c3f73f5-2b50d6ff.jpg,OBSERVATION ADMIT,M,87,No
+818,/shared/rsaas/enyij2/mimic/p12989304_s51628923_013e4c95-aace5ad3-d8c7377a-e55cbd10-40aeba80.jpg,EU OBSERVATION,M,64,Yes
+819,/shared/rsaas/enyij2/mimic/p14295772_s51858824_cc4f0577-28b09f39-53de436e-dfd8f1d5-4697d6a5.jpg,EU OBSERVATION,F,63,No
+820,/shared/rsaas/enyij2/mimic/p17951860_s51753296_87784e21-c391cec6-69476462-fe3509a1-9c40eaf4.jpg,OBSERVATION ADMIT,F,60,No
+821,/shared/rsaas/enyij2/mimic/p15959372_s52253189_a054c42d-789b4422-c8842ffc-8f7cb1c7-31b1c8f1.jpg,AMBULATORY OBSERVATION,F,38,No
+822,/shared/rsaas/enyij2/mimic/p12535940_s58760526_d9a7afaf-77ace80c-daea27b1-798cd67d-443424b9.jpg,EU OBSERVATION,F,76,Yes
+823,/shared/rsaas/enyij2/mimic/p14941747_s51270479_0a695d0f-f77b200d-c795752e-8d4c8552-c42380fd.jpg,OBSERVATION ADMIT,F,75,No
+824,/shared/rsaas/enyij2/mimic/p13506593_s54329147_5590db1b-121fbfcd-f84bd6e8-f6c9354c-82581c42.jpg,EW EMER.,F,49,No
+825,/shared/rsaas/enyij2/mimic/p18926156_s53791537_abee6339-b5c95166-5b0e7b00-8e45147a-e0474017.jpg,SURGICAL SAME DAY ADMISSION,F,33,No
+826,/shared/rsaas/enyij2/mimic/p17540936_s57911562_d95a5e31-ef56de64-169ac129-8c3e4770-e66143d4.jpg,EW EMER.,M,91,Yes
+827,/shared/rsaas/enyij2/mimic/p15499413_s51521689_e9020b2d-82567e5d-2fd90098-de146f05-9d5a5022.jpg,EW EMER.,M,45,Yes
+828,/shared/rsaas/enyij2/mimic/p15880947_s52457077_961ad519-28cb7c1e-cbffc899-895b7046-a3890eed.jpg,DIRECT OBSERVATION,M,68,No
+829,/shared/rsaas/enyij2/mimic/p12375955_s59390749_e8bd6250-6481bc6a-7524fd94-78b9b814-9ccb8247.jpg,EW EMER.,F,68,No
+830,/shared/rsaas/enyij2/mimic/p15653759_s54298155_a3f05109-ca6fe2d0-0c8c8a29-d1a34639-b500849f.jpg,EW EMER.,F,36,Yes
+831,/shared/rsaas/enyij2/mimic/p11048955_s56558600_833d8d73-d8edff17-6f5b357e-eb44e4f3-0810010e.jpg,OBSERVATION ADMIT,M,59,No
+832,/shared/rsaas/enyij2/mimic/p13115959_s54195104_52938ca4-91f13860-789e3a96-2e6e46d2-23677c18.jpg,OBSERVATION ADMIT,F,91,No
+833,/shared/rsaas/enyij2/mimic/p18462562_s57982824_a4de7565-2fc73206-0a60ce4e-c0de8e0f-523a8ef1.jpg,ELECTIVE,F,58,No
+834,/shared/rsaas/enyij2/mimic/p16893573_s50816668_1923377d-9d5103cc-c6e11766-8c8f67f2-4f27aba6.jpg,EW EMER.,F,76,No
+835,/shared/rsaas/enyij2/mimic/p18563034_s55294897_724cad72-66c26772-332478e9-55f9f94e-1e723d2f.jpg,EW EMER.,M,47,No
+836,/shared/rsaas/enyij2/mimic/p19396804_s51145854_d54ab408-e2b20875-65488127-d75870e9-dd762951.jpg,EU OBSERVATION,F,52,No
+837,/shared/rsaas/enyij2/mimic/p17592541_s51282227_6607027b-afdc56b9-f047a914-928608ef-a9569962.jpg,EU OBSERVATION,F,76,No
+838,/shared/rsaas/enyij2/mimic/p17183632_s56831083_e63ac53b-dd10452a-abf3f986-da233fab-0db2c572.jpg,EW EMER.,M,57,No
+839,/shared/rsaas/enyij2/mimic/p16582727_s56362407_2e445590-eb70ff49-b7641932-615be217-be926bd4.jpg,EW EMER.,M,74,No
+840,/shared/rsaas/enyij2/mimic/p13091743_s55825476_526bc69c-7240c137-4add5488-25264e1f-22973aaf.jpg,URGENT,M,85,No
+841,/shared/rsaas/enyij2/mimic/p11063254_s54165784_2fdce95a-99b3cef6-eefcf738-f4b91d06-f585d822.jpg,EW EMER.,M,86,No
+842,/shared/rsaas/enyij2/mimic/p17281190_s53018222_50b5b883-a6ec20d7-bb20d997-7fb2c3ea-cce4242f.jpg,OBSERVATION ADMIT,M,72,Yes
+843,/shared/rsaas/enyij2/mimic/p17330198_s59376920_3020df64-0ef1fef9-31bdb4b6-bd057ca3-f436e44f.jpg,EW EMER.,F,64,No
+844,/shared/rsaas/enyij2/mimic/p17239145_s55216042_88536519-0c9d04a0-a8e2f197-5b2da282-e40e6f3b.jpg,EU OBSERVATION,F,54,No
+845,/shared/rsaas/enyij2/mimic/p11669136_s51028497_c346f864-c51ec5c1-f9d56f4e-ce1c826f-44ea89ad.jpg,EW EMER.,M,57,Yes
+846,/shared/rsaas/enyij2/mimic/p13286078_s54162634_97b08211-f570c206-67401952-19776bb5-741c7361.jpg,EW EMER.,M,65,No
+847,/shared/rsaas/enyij2/mimic/p17148302_s52843015_f8a67e4f-007def14-02952466-e8fc2534-8bbecab2.jpg,EW EMER.,M,75,No
+848,/shared/rsaas/enyij2/mimic/p10052926_s50472162_fcfb20b5-6b9561da-1e253a93-222fdaa8-e708200a.jpg,EW EMER.,M,59,No
+849,/shared/rsaas/enyij2/mimic/p17417215_s58905372_54669631-8e910d2b-e5283d73-e638c09b-42740993.jpg,EU OBSERVATION,M,69,No
+850,/shared/rsaas/enyij2/mimic/p11717234_s57389261_77f9da94-49032e1d-9c5c5449-a6e8c9d8-e31d0999.jpg,DIRECT EMER.,M,88,Yes
+851,/shared/rsaas/enyij2/mimic/p15541966_s56996185_003531ed-6b5c40a2-944d0d48-d3c88739-e1a50476.jpg,AMBULATORY OBSERVATION,M,43,No
+852,/shared/rsaas/enyij2/mimic/p11076033_s55626253_74a2861b-edef0dfb-66cb5e4a-dab096a6-930dfc45.jpg,DIRECT EMER.,M,80,Yes
+853,/shared/rsaas/enyij2/mimic/p11495809_s51281727_2b3d96a9-5c2d9feb-cbb54e69-17e06db6-83477377.jpg,URGENT,M,79,Yes
+854,/shared/rsaas/enyij2/mimic/p16914223_s54649906_c373d8d8-1319ee31-2c9202c7-b92919e8-0380ad53.jpg,EW EMER.,M,65,Yes
+855,/shared/rsaas/enyij2/mimic/p11867181_s54610788_df7fcbb9-45deb0dc-ad40e7c3-4e8655a8-4c5d16c1.jpg,EW EMER.,F,59,Yes
+856,/shared/rsaas/enyij2/mimic/p10584942_s55691313_9dbf90cd-42307f1c-d7111398-d7661d80-4de97425.jpg,EW EMER.,M,70,No
+857,/shared/rsaas/enyij2/mimic/p14513082_s51394158_1dceff3a-b519cf16-74e6b29c-98439ff3-690c6885.jpg,DIRECT EMER.,M,26,No
+858,/shared/rsaas/enyij2/mimic/p15617050_s54631474_f93eea2e-447dd0a2-75c7343e-ce122ac7-1772be52.jpg,SURGICAL SAME DAY ADMISSION,F,71,Yes
+859,/shared/rsaas/enyij2/mimic/p15689523_s56902990_4b3187fe-b7c398e6-e90a157f-73f570f5-181f6ac0.jpg,URGENT,M,66,Yes
+860,/shared/rsaas/enyij2/mimic/p11948471_s54783135_4cdd2b57-9e4197ce-e991a554-c635ac3a-8cd8a171.jpg,URGENT,M,84,Yes
+861,/shared/rsaas/enyij2/mimic/p17498208_s55646733_5696ce36-74c2a730-690e9fdb-f6bce0ba-89df6754.jpg,EU OBSERVATION,M,54,No
+862,/shared/rsaas/enyij2/mimic/p14400931_s51174369_1cfed590-3f4858cb-a2e4d9f8-43104d97-38b3eceb.jpg,EU OBSERVATION,M,55,No
+863,/shared/rsaas/enyij2/mimic/p13661686_s57799036_d6f9dc16-47598d04-8bd03892-938ee25b-524aa2f4.jpg,EW EMER.,F,71,No
+864,/shared/rsaas/enyij2/mimic/p17861185_s55423560_00630e2c-b30a2a3e-b57aa32e-388b9058-19d42e2d.jpg,EU OBSERVATION,M,44,No
+865,/shared/rsaas/enyij2/mimic/p16490533_s57339542_f209897c-5fc06aa1-3b8ec8c6-aa85dff9-9227c05f.jpg,EW EMER.,M,60,Yes
+866,/shared/rsaas/enyij2/mimic/p17391986_s52457189_4d19be5c-ce03094f-7ddb99ce-093d45b0-f64f29f3.jpg,EU OBSERVATION,F,46,No
+867,/shared/rsaas/enyij2/mimic/p17274104_s50250220_cce3076f-8fd923bd-e6d77364-e83d0df4-027ff9d6.jpg,OBSERVATION ADMIT,F,62,No
+868,/shared/rsaas/enyij2/mimic/p10597833_s59512849_c38524a3-eb5cdcc7-b57f6bbe-2bfe84a1-fde748fb.jpg,EW EMER.,F,68,Yes
+869,/shared/rsaas/enyij2/mimic/p17836926_s52274890_65621669-4b152b25-b3287a46-1fd359b5-7977d6e0.jpg,EW EMER.,M,38,No
+870,/shared/rsaas/enyij2/mimic/p19182863_s55661010_010357e5-15fa3bea-a68903e4-6326524d-9a77b7db.jpg,SURGICAL SAME DAY ADMISSION,F,60,No
+871,/shared/rsaas/enyij2/mimic/p12993146_s59395610_45ffc39f-701c5951-6126ec7c-12b7270d-8fbc7c03.jpg,EU OBSERVATION,F,64,Yes
+872,/shared/rsaas/enyij2/mimic/p16783577_s53764458_ebc1252d-5318dedb-07934558-04f5bce9-fbdead4b.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+873,/shared/rsaas/enyij2/mimic/p16065801_s55038672_bff4e27f-bf188f79-d6e140ed-039fc3ca-dd9409c4.jpg,EW EMER.,M,91,Yes
+874,/shared/rsaas/enyij2/mimic/p16914223_s57606915_5a8eac05-d556ecf5-34c386a3-d2ea3a44-50f80bc7.jpg,EW EMER.,M,65,Yes
+875,/shared/rsaas/enyij2/mimic/p12710819_s51054297_003a78ab-2ea9dea0-9c61e3b4-64183f9c-3cd6b404.jpg,EU OBSERVATION,M,83,Yes
+876,/shared/rsaas/enyij2/mimic/p12812885_s50979053_19b596c9-f3ba1672-c56d8889-b0bba86b-dca6e48a.jpg,EU OBSERVATION,M,30,No
+877,/shared/rsaas/enyij2/mimic/p13855491_s58011315_a0309556-6bf7ca00-0b1dc96f-54bb960b-b703bbdc.jpg,EU OBSERVATION,F,61,No
+878,/shared/rsaas/enyij2/mimic/p16498646_s52588016_ae6755fc-721184fc-da515c8d-0166048e-6009d1de.jpg,EU OBSERVATION,F,73,No
+879,/shared/rsaas/enyij2/mimic/p16600050_s55474282_dfcceb45-bf8b75c4-bbdf786a-0de7eb4f-6f73a274.jpg,EW EMER.,M,25,Yes
+880,/shared/rsaas/enyij2/mimic/p15335612_s57765608_057c12c6-84356428-5d19733b-67e306f4-b39970aa.jpg,EU OBSERVATION,F,76,No
+881,/shared/rsaas/enyij2/mimic/p10506015_s52385680_a59bfc6a-d76410e3-b75adc07-a5f96397-3d2e40a7.jpg,EW EMER.,M,25,No
+882,/shared/rsaas/enyij2/mimic/p14953396_s53485232_bcb6053f-e827b512-d9980366-ce0465d7-da669711.jpg,DIRECT OBSERVATION,F,38,No
+883,/shared/rsaas/enyij2/mimic/p14083504_s58745299_4913bf67-cc7103af-0595d1e9-dfd2b914-2bb05683.jpg,EW EMER.,M,44,No
+884,/shared/rsaas/enyij2/mimic/p17179313_s53054971_47eb52fe-e4eaafb6-9f9f0ab1-7b7729d6-1c88bafc.jpg,EW EMER.,M,37,Yes
+885,/shared/rsaas/enyij2/mimic/p17884138_s54461684_fcc74663-35fb64d2-bccafd65-801418a3-3d43eb7f.jpg,EW EMER.,M,60,No
+886,/shared/rsaas/enyij2/mimic/p11842879_s54785209_937d47bb-c52ddd94-72d8f02c-97cab547-f9db9bab.jpg,EW EMER.,F,19,No
+887,/shared/rsaas/enyij2/mimic/p16706702_s55514530_ba13a68c-74a02cde-48363f35-d37b456f-79f28f34.jpg,OBSERVATION ADMIT,F,91,Yes
+888,/shared/rsaas/enyij2/mimic/p16414344_s55246162_4545075a-7102bec5-71dbdef1-e9f34d5a-d13641d2.jpg,EW EMER.,M,61,Yes
+889,/shared/rsaas/enyij2/mimic/p17651038_s50181229_2d7538fe-ef16d5e8-477efd0e-3f1fd470-a67e2e7b.jpg,EW EMER.,F,23,No
+890,/shared/rsaas/enyij2/mimic/p13647833_s58254840_afb42a76-2af811ef-03cac8db-d43d2bcc-ca51eaaa.jpg,EW EMER.,M,40,Yes
+891,/shared/rsaas/enyij2/mimic/p17768098_s51860725_e09c11da-55e98f98-304965df-904effcb-12a16184.jpg,ELECTIVE,M,72,Yes
+892,/shared/rsaas/enyij2/mimic/p12669967_s54719855_f04a0277-25e4c040-3e72b1f1-eda673f8-0f2e21b1.jpg,SURGICAL SAME DAY ADMISSION,F,70,Yes
+893,/shared/rsaas/enyij2/mimic/p17914007_s52253822_b55a9b2b-34e7042d-c158e2ac-f4d3858e-fc5df6a6.jpg,DIRECT EMER.,M,82,Yes
+894,/shared/rsaas/enyij2/mimic/p15374987_s58786497_7ee6f8b8-9fa9fb90-d7242fb8-997c5f06-0de62c84.jpg,ELECTIVE,F,56,No
+895,/shared/rsaas/enyij2/mimic/p11182413_s52055900_f4487fe6-c7378660-efd7cf89-8fa8db11-df39a2a4.jpg,EU OBSERVATION,M,20,No
+896,/shared/rsaas/enyij2/mimic/p11267564_s51979408_e53d5ef6-83f06a3d-cd6392a8-973e153c-dff82722.jpg,EW EMER.,M,43,Yes
+897,/shared/rsaas/enyij2/mimic/p14825771_s55856969_a5449528-f227c5e7-22021df8-4af03915-d11cc9f6.jpg,EU OBSERVATION,M,82,No
+898,/shared/rsaas/enyij2/mimic/p17651880_s55625707_c8a3086c-852bad5a-9134d254-35543251-b7230aa0.jpg,EU OBSERVATION,F,67,No
+899,/shared/rsaas/enyij2/mimic/p19299595_s54032506_9e124358-5883c193-9c0a0f3a-08c26986-859c5973.jpg,EU OBSERVATION,M,43,No
+900,/shared/rsaas/enyij2/mimic/p15585673_s51189708_e69d2d6d-dff1f67b-1f6ecce5-5c7baa4c-9ade1c52.jpg,EW EMER.,F,73,No
+901,/shared/rsaas/enyij2/mimic/p19299595_s51394674_f3474d50-34d07276-85c99958-1205b2ea-388cfe95.jpg,EU OBSERVATION,M,43,No
+902,/shared/rsaas/enyij2/mimic/p11348571_s56909469_d61e513e-6f45d57e-6ad7df63-c45d1d2b-cd6613eb.jpg,EW EMER.,M,60,No
+903,/shared/rsaas/enyij2/mimic/p15853302_s56394761_d9e2f410-628d9525-f80ca874-dd351cd9-e7214fcc.jpg,EU OBSERVATION,M,64,No
+904,/shared/rsaas/enyij2/mimic/p10678324_s56182328_3e174cce-b6940b7f-1bbf46a7-3bd9b3d9-4448c476.jpg,EW EMER.,M,60,Yes
+905,/shared/rsaas/enyij2/mimic/p11797999_s53025114_b0e29b7f-119a8e89-f1dff21f-d12afe39-3317522e.jpg,SURGICAL SAME DAY ADMISSION,M,34,No
+906,/shared/rsaas/enyij2/mimic/p14297125_s55878381_41d17d4b-97f4d1a7-f6dcd31c-dafa8952-ed372386.jpg,EW EMER.,M,69,No
+907,/shared/rsaas/enyij2/mimic/p14647136_s56016254_59b41a0c-91f67b63-3134aaf8-3070097f-03a8f2c6.jpg,EW EMER.,M,34,No
+908,/shared/rsaas/enyij2/mimic/p12812885_s50979053_d854edec-630cc2fe-374247e2-d34825f1-e2a5af58.jpg,EU OBSERVATION,M,30,No
+909,/shared/rsaas/enyij2/mimic/p13135682_s53104094_867f95ca-61b6ebef-a6a06989-68c59bb0-da069156.jpg,EU OBSERVATION,M,76,Yes
+910,/shared/rsaas/enyij2/mimic/p17449903_s52282507_6598ef9b-5b9cb116-5838e56f-24012466-61340801.jpg,EU OBSERVATION,F,82,Yes
+911,/shared/rsaas/enyij2/mimic/p16617510_s51631175_10e5f5be-0a690824-469a1f73-79400eaf-0de7fcb3.jpg,EW EMER.,F,80,Yes
+912,/shared/rsaas/enyij2/mimic/p18290300_s54805385_65c8b27d-6e8356e1-e83e30c6-543ad807-533eef4f.jpg,EU OBSERVATION,F,57,No
+913,/shared/rsaas/enyij2/mimic/p11566126_s54269123_2e26d806-4b6d6e91-1813fcc5-4c6bb2fc-472adc37.jpg,EW EMER.,F,82,Yes
+914,/shared/rsaas/enyij2/mimic/p18853927_s52895218_3e8fbd77-dda199cc-e8cd5b81-4b38a050-76bfe6d9.jpg,EW EMER.,M,74,No
+915,/shared/rsaas/enyij2/mimic/p12918438_s56071333_9276ccee-716558c4-346d9e86-2dedf4d0-b660b637.jpg,EU OBSERVATION,M,81,No
+916,/shared/rsaas/enyij2/mimic/p13375158_s58769058_a8552f69-dda66042-32f5fe2d-f573738e-51e49c1a.jpg,EW EMER.,F,55,Yes
+917,/shared/rsaas/enyij2/mimic/p11617224_s51962793_868c3bc5-4faa841e-70e40f11-294decd0-e25cd6b6.jpg,SURGICAL SAME DAY ADMISSION,F,50,No
+918,/shared/rsaas/enyij2/mimic/p18638524_s50912375_6df23f60-0a5fde6e-cbd8b13b-67313e65-afa002d8.jpg,EW EMER.,M,76,No
+919,/shared/rsaas/enyij2/mimic/p14948236_s50297396_a7803a5a-355c7a83-4b8610ed-1e65106e-d75d6249.jpg,DIRECT EMER.,F,40,Yes
+920,/shared/rsaas/enyij2/mimic/p19280225_s54480194_33b8bd18-b4997cca-ddab959d-cb977d2a-a81b6c7d.jpg,EU OBSERVATION,M,49,No
+921,/shared/rsaas/enyij2/mimic/p12606435_s58426315_a19fe055-515a74f7-1fd65a31-8e414c1e-d49b9894.jpg,DIRECT OBSERVATION,M,31,No
+922,/shared/rsaas/enyij2/mimic/p16017500_s55029945_fb8b3053-ceb4e106-db03cf8a-5e01b101-333a0762.jpg,EU OBSERVATION,F,29,No
+923,/shared/rsaas/enyij2/mimic/p17193215_s57665770_1e268ac9-98b356fa-fc89d166-01c393a8-8f87748d.jpg,EU OBSERVATION,M,65,Yes
+924,/shared/rsaas/enyij2/mimic/p10597253_s54317670_1b123c9a-9fe9bd43-91988895-8b7856dc-788de136.jpg,URGENT,F,26,Yes
+925,/shared/rsaas/enyij2/mimic/p10351166_s55759155_9e0b9892-6bb5de5e-675080c5-bf039898-5f8e57c2.jpg,EW EMER.,F,50,Yes
+926,/shared/rsaas/enyij2/mimic/p10572449_s52607622_3f8a1dc8-4d7c3870-6017df0f-31c43b2d-6b27aab1.jpg,EU OBSERVATION,F,35,No
+927,/shared/rsaas/enyij2/mimic/p16822101_s50026694_816fd5a7-0a48c270-eb564a06-51e24472-750790a1.jpg,EW EMER.,M,26,No
+928,/shared/rsaas/enyij2/mimic/p17802227_s56875405_f50c646c-632daa9d-416e198e-a2463143-4e3f9f7c.jpg,EW EMER.,F,60,No
+929,/shared/rsaas/enyij2/mimic/p12519991_s54195477_40af7b32-3c84593c-e3cc80c9-f1924167-96d6e638.jpg,DIRECT EMER.,M,71,Yes
+930,/shared/rsaas/enyij2/mimic/p13071437_s57496283_444105cb-b8287071-294d97d3-5512ee51-1edec7f9.jpg,EW EMER.,M,48,No
+931,/shared/rsaas/enyij2/mimic/p16290498_s54307056_9b4ea7cf-fc6bfa27-54004ffd-77e01437-bf236f31.jpg,EU OBSERVATION,F,23,Yes
+932,/shared/rsaas/enyij2/mimic/p16701608_s56016395_8dcaa148-9b420fca-c9da0725-30ffd9c1-f5705fe9.jpg,EW EMER.,F,91,Yes
+933,/shared/rsaas/enyij2/mimic/p17183632_s53728089_b86b92c8-e2f357ec-b092342d-98a41442-7ea130ec.jpg,EW EMER.,M,57,Yes
+934,/shared/rsaas/enyij2/mimic/p16992055_s56377463_956fb9fd-81a10972-c459318b-289a4894-fb6109f8.jpg,EW EMER.,F,72,No
+935,/shared/rsaas/enyij2/mimic/p16414344_s55246162_c146a2af-01f7ccd0-78e6a640-235926bd-4c423f40.jpg,EW EMER.,M,61,Yes
+936,/shared/rsaas/enyij2/mimic/p10541652_s54599237_76552555-7a1c032a-e9cda2ea-fb2ef7bd-bbb47383.jpg,EU OBSERVATION,M,80,Yes
+937,/shared/rsaas/enyij2/mimic/p14297125_s50966153_52878f88-727ba5df-4a0c0df5-c088f415-dc2daf53.jpg,EW EMER.,M,69,Yes
+938,/shared/rsaas/enyij2/mimic/p11948471_s56438290_3dbd9584-82fa19df-824ebb28-c68ce31d-fc42586e.jpg,URGENT,M,84,Yes
+939,/shared/rsaas/enyij2/mimic/p11801273_s57802155_a78faa80-c34dc39d-43c83279-db64fbbe-e47d4c26.jpg,EU OBSERVATION,F,21,No
+940,/shared/rsaas/enyij2/mimic/p12202573_s54284218_701b9195-823a6357-0c4798ca-96008188-dcf42a49.jpg,EW EMER.,M,22,No
+941,/shared/rsaas/enyij2/mimic/p14622061_s50769648_890701cc-9bf086db-77255358-05b93c1f-36715674.jpg,URGENT,F,38,Yes
+942,/shared/rsaas/enyij2/mimic/p11814469_s51335400_e9f30ce6-1d632eec-bdcce889-96b7ddb0-22f611fc.jpg,SURGICAL SAME DAY ADMISSION,M,57,No
+943,/shared/rsaas/enyij2/mimic/p17203614_s52813066_8f0b2816-33f544fd-f2e13706-1b3dd092-643cca0b.jpg,EW EMER.,M,85,Yes
+944,/shared/rsaas/enyij2/mimic/p16887254_s59991222_d3a7d782-42e56dbc-f038be62-8e43979e-62d4ce7a.jpg,EW EMER.,M,80,No
+945,/shared/rsaas/enyij2/mimic/p11267564_s56111070_c666215c-2af870d8-af83a735-6f49dd8c-cd233d83.jpg,EW EMER.,M,43,Yes
+946,/shared/rsaas/enyij2/mimic/p12567919_s59943520_c94026b9-7db6e211-aa29475f-b791ad93-bd204685.jpg,EW EMER.,F,85,Yes
+947,/shared/rsaas/enyij2/mimic/p14481551_s50272568_3db5ef31-9b6c0849-c3832b78-ef73ef2b-5bbfd250.jpg,EU OBSERVATION,F,21,Yes
+948,/shared/rsaas/enyij2/mimic/p16595661_s50014434_da11ee85-e98043c2-58412647-cafaedbf-b94d0b67.jpg,EW EMER.,F,76,No
+949,/shared/rsaas/enyij2/mimic/p12261945_s51458111_7cd96d20-79bce1e5-20f15e0f-88ed35bb-b393c2c8.jpg,ELECTIVE,F,77,Yes
+950,/shared/rsaas/enyij2/mimic/p18295542_s57338551_2057f66f-e9b8df88-3806d6da-b4fc73e5-03dbcd54.jpg,EW EMER.,F,74,No
+951,/shared/rsaas/enyij2/mimic/p14697602_s53715127_f704b34c-341f207f-b8ff792a-76941470-0d1811aa.jpg,DIRECT OBSERVATION,F,86,Yes
+952,/shared/rsaas/enyij2/mimic/p11801273_s54362572_dd7d8efb-77c94dbd-4f97a420-42bfb71f-c0d5d796.jpg,EU OBSERVATION,F,21,No
+953,/shared/rsaas/enyij2/mimic/p11162723_s57340535_789f9956-e8b3758a-271e37c0-794a0fb7-c2faee9a.jpg,EU OBSERVATION,M,59,Yes
+954,/shared/rsaas/enyij2/mimic/p12095092_s54431947_eb018326-bef7429f-4edc30f2-cb14938e-a662469d.jpg,EW EMER.,M,65,Yes
+955,/shared/rsaas/enyij2/mimic/p16509312_s55986691_e6453d68-a7962954-ca4b177a-f446492c-8259cbd7.jpg,EU OBSERVATION,F,19,Yes
+956,/shared/rsaas/enyij2/mimic/p19202617_s56069783_b73f181f-b1106da6-2b52ba33-9d4880e4-3572b288.jpg,EU OBSERVATION,F,26,No
+957,/shared/rsaas/enyij2/mimic/p17498208_s55646733_bbb607e8-19e42b89-86f563a0-92fb694e-ba6dc480.jpg,EU OBSERVATION,M,54,No
+958,/shared/rsaas/enyij2/mimic/p10206626_s51364682_31806b93-9243ccfa-ebf46382-e218dc75-1d5ab804.jpg,EW EMER.,M,67,Yes
+959,/shared/rsaas/enyij2/mimic/p10541652_s50458628_804f7faf-8e3dba1f-e4cd4c35-bb9a5d06-cf3a12ab.jpg,EU OBSERVATION,M,80,Yes
+960,/shared/rsaas/enyij2/mimic/p17731815_s58728877_cc76b233-0d5d0be9-d62a4072-5722857e-fa947f40.jpg,EW EMER.,M,61,No
+961,/shared/rsaas/enyij2/mimic/p18569484_s58798612_3fb87741-353a9950-38ad62f8-a937adaa-d209014e.jpg,EW EMER.,M,52,No
+962,/shared/rsaas/enyij2/mimic/p12399858_s58868999_a129784f-58e0023e-2f6f0bed-9ab3a43b-2084ecb7.jpg,OBSERVATION ADMIT,F,74,No
+963,/shared/rsaas/enyij2/mimic/p11948471_s51648721_7705daa2-522a3c06-b09d3589-6229ae7d-e822f234.jpg,URGENT,M,84,Yes
+964,/shared/rsaas/enyij2/mimic/p10298228_s53475248_72a7b737-84213eed-15886afe-d9c65d66-b0c41d30.jpg,OBSERVATION ADMIT,M,30,Yes
+965,/shared/rsaas/enyij2/mimic/p12452180_s55976636_221f964a-74a59cf2-f183517c-16620aec-e40f15b9.jpg,OBSERVATION ADMIT,M,69,Yes
+966,/shared/rsaas/enyij2/mimic/p14450867_s55584829_f9344ae7-8fcb643d-514daedc-45241450-34be651e.jpg,ELECTIVE,F,60,Yes
+967,/shared/rsaas/enyij2/mimic/p12582583_s52772783_b8609aef-7d5e3cca-1a4d4307-db10eb86-2678aab5.jpg,EW EMER.,M,72,No
+968,/shared/rsaas/enyij2/mimic/p19458141_s59762966_e7f3f8cf-98dcfc2f-5b138287-eaaae0ec-65d5d32c.jpg,EW EMER.,F,66,No
+969,/shared/rsaas/enyij2/mimic/p11950288_s53939907_17e7a41d-5a5be973-a25be44b-5961f69c-846ff8b4.jpg,EW EMER.,F,51,Yes
+970,/shared/rsaas/enyij2/mimic/p19241526_s51975778_6b6b24b1-d2da2d1c-6bc3b9db-899c7389-c1f2657d.jpg,SURGICAL SAME DAY ADMISSION,M,75,No
+971,/shared/rsaas/enyij2/mimic/p17937834_s53608815_d3295898-cec291c4-a492e6eb-bb5b1302-64d80d23.jpg,EW EMER.,M,34,No
+972,/shared/rsaas/enyij2/mimic/p13013799_s54752341_f318c3d9-5e07d9c2-b58c82ac-237c7ba3-60fe31c4.jpg,EW EMER.,F,81,Yes
+973,/shared/rsaas/enyij2/mimic/p14845803_s52757615_47d93036-5da4d9c5-0873641d-1c1dc993-599bd937.jpg,EU OBSERVATION,M,46,Yes
+974,/shared/rsaas/enyij2/mimic/p15574823_s55827321_b6517160-51f00811-5f241332-1756fa6e-02610d8e.jpg,OBSERVATION ADMIT,F,74,Yes
+975,/shared/rsaas/enyij2/mimic/p16334734_s50214080_a27aaee8-7acc7abc-13b6879f-4bc1035e-9b85cd5b.jpg,URGENT,F,77,Yes
+976,/shared/rsaas/enyij2/mimic/p11031528_s55275593_440dfb39-9bd1bd18-d550ec45-8d28bafd-e535e2b3.jpg,DIRECT EMER.,F,74,Yes
+977,/shared/rsaas/enyij2/mimic/p13420842_s57791612_294d6699-9971c30a-cc243e20-6a8bd24a-2a50924a.jpg,EU OBSERVATION,M,85,Yes
+978,/shared/rsaas/enyij2/mimic/p11717234_s56962760_db32e9cf-cb5c42c0-bd1dae46-dbceb79c-b05060f6.jpg,DIRECT EMER.,M,88,Yes
+979,/shared/rsaas/enyij2/mimic/p13071437_s50558567_45f1eefc-15887b35-24821a92-b564af37-af99c612.jpg,EW EMER.,M,48,No
+980,/shared/rsaas/enyij2/mimic/p14825771_s55856969_8c2f0de4-b9aab015-db908ea4-977b4287-8a14f720.jpg,EU OBSERVATION,M,82,No
+981,/shared/rsaas/enyij2/mimic/p13886221_s56953224_6bec9c3a-35d8734a-9b50882f-f8e3c3ba-caba10c6.jpg,AMBULATORY OBSERVATION,F,34,No
+982,/shared/rsaas/enyij2/mimic/p15289097_s55023887_9a849342-18760d52-714aaa38-fccef8f8-3e5c1e77.jpg,OBSERVATION ADMIT,F,66,Yes
+983,/shared/rsaas/enyij2/mimic/p17535738_s51877735_f43726ab-fb7ec61d-c39d45a4-66eb84dd-ca256a52.jpg,EU OBSERVATION,M,73,Yes
+984,/shared/rsaas/enyij2/mimic/p12301303_s58415876_9efe7757-7fc4dd2a-d5d97a0b-469559e3-d414ef6a.jpg,DIRECT EMER.,M,46,Yes
+985,/shared/rsaas/enyij2/mimic/p10266720_s50086558_a3117961-273020bb-63e2865e-ea17c480-50fcd3db.jpg,EW EMER.,M,65,No
+986,/shared/rsaas/enyij2/mimic/p17193215_s53884008_09e823aa-dda77259-8c8e8209-14323495-615c76bf.jpg,EU OBSERVATION,M,65,No
+987,/shared/rsaas/enyij2/mimic/p16100213_s57476940_2e027702-1bc83e0a-75a98429-c60ba298-aa5767b7.jpg,EW EMER.,F,91,No
+988,/shared/rsaas/enyij2/mimic/p12781657_s51236574_c653fa19-cbe7dc41-15ebc5c9-ba4f4130-438bc797.jpg,EW EMER.,F,80,Yes
+989,/shared/rsaas/enyij2/mimic/p15249401_s54682534_ad5b40d9-7db45951-973ac67b-fda2901f-708d6ebc.jpg,ELECTIVE,F,65,No
+990,/shared/rsaas/enyij2/mimic/p15689523_s56946898_d2e100c1-fd493464-c61b9140-6cce363d-42662ed2.jpg,URGENT,M,66,No
+991,/shared/rsaas/enyij2/mimic/p10340850_s54257374_9259cfc3-ef3bb412-312422ab-6712972b-8e655959.jpg,EU OBSERVATION,M,53,No
+992,/shared/rsaas/enyij2/mimic/p14665182_s58313613_061ee39a-11e724ff-b69dd529-4f27e668-52eabb9c.jpg,EU OBSERVATION,F,32,No
+993,/shared/rsaas/enyij2/mimic/p16706702_s50948843_5f4fb355-fcc9d23a-9128dfe6-b9c32347-f34c2ab1.jpg,OBSERVATION ADMIT,F,91,Yes
+994,/shared/rsaas/enyij2/mimic/p17556194_s59275430_47e26957-709df9ea-6bb94759-ad237f71-0a3c9edf.jpg,DIRECT OBSERVATION,F,73,Yes
+995,/shared/rsaas/enyij2/mimic/p11840994_s50855779_b6a65419-8d8f9e9e-3491afeb-e0fa8030-e5ada51f.jpg,URGENT,F,34,No
+996,/shared/rsaas/enyij2/mimic/p16582727_s56270722_799f1154-f07fe097-8cf6195b-7148918e-a5cbd0cd.jpg,EW EMER.,M,74,Yes
+997,/shared/rsaas/enyij2/mimic/p17802227_s53441856_0c370cae-e85f6f45-2ce66a7e-d3546090-31482451.jpg,EW EMER.,F,60,Yes
+998,/shared/rsaas/enyij2/mimic/p12949905_s50403139_6b39e1f1-60192aa2-3a0704b9-bf98cbbb-b6338514.jpg,ELECTIVE,M,62,No
+999,/shared/rsaas/enyij2/mimic/p19103590_s58649849_2ac2118a-492d6dfb-80712c8a-22e71f13-881decf6.jpg,EU OBSERVATION,M,66,No
+1000,/shared/rsaas/enyij2/mimic/p18721922_s52575057_51dda734-ceeb3396-7fc65597-79310cc3-2aa5385f.jpg,EW EMER.,M,65,No
+1001,/shared/rsaas/enyij2/mimic/p17795701_s57829749_9fff225f-8b99a6b0-dc7827e9-164bf554-a4717c3d.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+1002,/shared/rsaas/enyij2/mimic/p13188070_s54689171_9b9c22e8-2649a398-783aadb9-3bef7f11-502d8655.jpg,EU OBSERVATION,M,51,Yes
+1003,/shared/rsaas/enyij2/mimic/p15985181_s59083783_38e779e0-2f5b21ae-86d149e0-f7431618-ea3ecdb4.jpg,EW EMER.,M,85,Yes
+1004,/shared/rsaas/enyij2/mimic/p17400716_s53169543_d2301eff-537b5661-c5a3364f-3d23419a-32780136.jpg,EU OBSERVATION,F,77,Yes
+1005,/shared/rsaas/enyij2/mimic/p19777911_s58250779_0f4e24f9-149cf3dc-cb20b43a-c10b754c-2e8de18f.jpg,DIRECT EMER.,F,61,No
+1006,/shared/rsaas/enyij2/mimic/p15454391_s53238558_c018c6cf-7b4d2e07-75265535-daa8d32c-52999558.jpg,URGENT,M,69,Yes
+1007,/shared/rsaas/enyij2/mimic/p15259244_s50282926_bba69ee7-df213de0-6bcebedd-77472984-0840a418.jpg,EW EMER.,F,57,Yes
+1008,/shared/rsaas/enyij2/mimic/p13809888_s54643852_a33aa883-7290cf23-8c52c0ba-98bd2c41-b96ee33e.jpg,EW EMER.,F,65,No
+1009,/shared/rsaas/enyij2/mimic/p14599883_s53167855_26c2c825-3fbc38ac-49e6ee4c-f6d8d981-02808f5b.jpg,EU OBSERVATION,M,69,No
+1010,/shared/rsaas/enyij2/mimic/p14359685_s54237500_17dd24b5-5bf48c50-ec0eb34c-b3f98c0e-a6c4bcd6.jpg,EU OBSERVATION,M,77,No
+1011,/shared/rsaas/enyij2/mimic/p15850909_s57148406_ce8ea5f1-b14b9f5a-c7289dd8-3a04f3a2-6d370778.jpg,EW EMER.,F,75,No
+1012,/shared/rsaas/enyij2/mimic/p13300530_s55899758_2542e14c-137c53e7-0c9862c0-568bd517-5c156ef7.jpg,EW EMER.,F,51,No
+1013,/shared/rsaas/enyij2/mimic/p11810646_s58597834_39ae19d1-e4d1fb91-a137e487-d4265c57-b54ce2f3.jpg,EU OBSERVATION,F,87,Yes
+1014,/shared/rsaas/enyij2/mimic/p11950288_s52370041_e71a5abd-3b61bef1-1acdec57-42679f47-b2a30f64.jpg,EW EMER.,F,51,Yes
+1015,/shared/rsaas/enyij2/mimic/p15985181_s52637818_2fd54a95-72a67346-db098fea-ce5e12c2-9cdf68b8.jpg,EW EMER.,M,85,No
+1016,/shared/rsaas/enyij2/mimic/p10635326_s51401123_d3a0c023-8b58e1de-f0b796f6-fb8e5757-e03e4436.jpg,EW EMER.,M,67,No
+1017,/shared/rsaas/enyij2/mimic/p19605774_s51673563_6b614f06-d6d2b0b1-8d098598-97379edf-89378bab.jpg,EU OBSERVATION,M,68,No
+1018,/shared/rsaas/enyij2/mimic/p13071437_s50863721_8bea9892-28d90da0-85bf1950-0989c0b1-ce78d580.jpg,EW EMER.,M,48,No
+1019,/shared/rsaas/enyij2/mimic/p16334734_s53960061_bbc5489a-d678143d-aebbb2ac-d913e463-7b9b03e8.jpg,URGENT,F,77,Yes
+1020,/shared/rsaas/enyij2/mimic/p15689523_s55055482_e43de247-fad6d151-9024bf01-3142b1af-eaaca7d1.jpg,URGENT,M,66,Yes
+1021,/shared/rsaas/enyij2/mimic/p14347948_s51818760_9e171880-7943b15d-f08222bf-50945dbe-1515a472.jpg,EW EMER.,F,62,Yes
+1022,/shared/rsaas/enyij2/mimic/p11957148_s50531291_4ab22691-7cd87e62-e383c967-000c5afd-e11597ea.jpg,EU OBSERVATION,M,71,Yes
+1023,/shared/rsaas/enyij2/mimic/p17438670_s57612036_6a36c0e1-810b696c-57b3d202-9ef6ed16-4e08b56f.jpg,EU OBSERVATION,F,78,Yes
+1024,/shared/rsaas/enyij2/mimic/p10170738_s54274063_fa37240e-a22332b9-0fe086ab-b73af32c-62acec29.jpg,EU OBSERVATION,M,68,Yes
+1025,/shared/rsaas/enyij2/mimic/p14895079_s51784445_44b5ced3-5baa780f-6fb7777b-b7ec0e8f-0689d6d8.jpg,DIRECT EMER.,F,57,Yes
+1026,/shared/rsaas/enyij2/mimic/p12452180_s59959833_44734cd6-1a51f929-cf0c32bc-f221c44d-75f6f745.jpg,OBSERVATION ADMIT,M,69,Yes
+1027,/shared/rsaas/enyij2/mimic/p16079175_s54964295_33635cec-8fcc445e-ac3ee7ef-54be3ae0-4a7713b9.jpg,EU OBSERVATION,F,78,No
+1028,/shared/rsaas/enyij2/mimic/p14709865_s59605587_fb14f241-4efbebc7-d4905974-ed9dcca5-3824e548.jpg,DIRECT OBSERVATION,F,79,No
+1029,/shared/rsaas/enyij2/mimic/p17506771_s52452650_4914191b-0a341cd3-304c860e-8e850307-7a5eb13b.jpg,EU OBSERVATION,M,47,No
+1030,/shared/rsaas/enyij2/mimic/p19724101_s57447480_154f9a21-4d7fe15a-7ecfbe86-374a5ff0-85e2574a.jpg,EU OBSERVATION,F,22,No
+1031,/shared/rsaas/enyij2/mimic/p11766586_s50068720_f59d3721-21a73679-30ce4848-f8886d43-cb5943b6.jpg,EU OBSERVATION,M,45,No
+1032,/shared/rsaas/enyij2/mimic/p14351746_s54278870_984dd66c-91ccd30a-b36bec95-f5ca1b56-3bf28f47.jpg,EW EMER.,M,52,No
+1033,/shared/rsaas/enyij2/mimic/p17967970_s51083379_05d420df-ed5c1f84-933ea60a-b08d45e6-824cfd7e.jpg,SURGICAL SAME DAY ADMISSION,F,78,Yes
+1034,/shared/rsaas/enyij2/mimic/p17943151_s52203156_13c389ef-d707e26e-e3a7e346-6ecb93ed-f2c60475.jpg,OBSERVATION ADMIT,M,70,Yes
+1035,/shared/rsaas/enyij2/mimic/p12268365_s53297342_72cb27e3-83935b05-f2f229ee-b21ac3c4-a1c2993c.jpg,EU OBSERVATION,F,61,Yes
+1036,/shared/rsaas/enyij2/mimic/p15311382_s58766851_40e04043-3c7449c0-a0191d80-35b8de1d-f5705df3.jpg,EW EMER.,M,31,Yes
+1037,/shared/rsaas/enyij2/mimic/p18969510_s59405307_f9e047f4-dadabe29-3568a819-27f0aea4-c74ccc87.jpg,EW EMER.,F,68,No
+1038,/shared/rsaas/enyij2/mimic/p11915019_s58617774_7ac5816b-928771bd-8a8853b4-6796a095-178fd35e.jpg,SURGICAL SAME DAY ADMISSION,F,64,No
+1039,/shared/rsaas/enyij2/mimic/p15263636_s58602800_2be588c4-a9eed631-25c99707-b827f637-009ce808.jpg,EW EMER.,F,80,Yes
+1040,/shared/rsaas/enyij2/mimic/p19185297_s54986302_39de5a15-580a87ac-48164447-0cfd6a1d-6558fdf5.jpg,EU OBSERVATION,M,48,No
+1041,/shared/rsaas/enyij2/mimic/p19202617_s53196108_cf5a8ac6-56247566-7dabcf91-90d24c26-2a933e4c.jpg,EU OBSERVATION,F,26,No
+1042,/shared/rsaas/enyij2/mimic/p16616576_s59146365_56abe878-34405bf5-0fe45525-272d3975-2ee49ea6.jpg,EU OBSERVATION,F,85,No
+1043,/shared/rsaas/enyij2/mimic/p17540936_s57911562_3a70750e-a38f0058-b935e413-ae05120e-7e682055.jpg,EW EMER.,M,91,Yes
+1044,/shared/rsaas/enyij2/mimic/p13386440_s59631327_ddb090f1-aa619dfb-67d4ca4a-110f9b6d-c6f8010a.jpg,SURGICAL SAME DAY ADMISSION,M,84,Yes
+1045,/shared/rsaas/enyij2/mimic/p17400716_s59571494_a86c7a4b-d1bd9aef-2ad87890-90843583-5f4693c7.jpg,EU OBSERVATION,F,77,Yes
+1046,/shared/rsaas/enyij2/mimic/p17506771_s58113821_818a874f-3c4c4137-0a9beecf-3908f3ec-347ed0f5.jpg,EU OBSERVATION,M,47,No
+1047,/shared/rsaas/enyij2/mimic/p10335518_s53086831_d0c03a0f-f4eb1f82-6cac6df9-4f88c45a-e8dad411.jpg,OBSERVATION ADMIT,F,83,No
+1048,/shared/rsaas/enyij2/mimic/p10541652_s56720249_1e6803aa-7e3c3953-2f193ca8-b8786084-20c80302.jpg,EU OBSERVATION,M,80,No
+1049,/shared/rsaas/enyij2/mimic/p12477344_s54846150_0e41b578-78322c49-05489bca-92fc0b97-7309198f.jpg,OBSERVATION ADMIT,F,74,No
+1050,/shared/rsaas/enyij2/mimic/p15150922_s56316163_559f22fd-cc3136c9-60156b3e-e5e4f3fb-2e2f512e.jpg,AMBULATORY OBSERVATION,M,57,No
+1051,/shared/rsaas/enyij2/mimic/p19678325_s58162312_55f0b22d-e34b0613-96818858-7ce61a59-d28b2435.jpg,EW EMER.,F,74,No
+1052,/shared/rsaas/enyij2/mimic/p11655748_s53271964_f75a34ee-2ec18092-898384f5-687d2992-d11c5367.jpg,EW EMER.,F,64,Yes
+1053,/shared/rsaas/enyij2/mimic/p19406374_s55414712_dc8ff431-721779fd-72c5149c-6000816f-e7dbde9f.jpg,EU OBSERVATION,M,18,No
+1054,/shared/rsaas/enyij2/mimic/p17914007_s53572014_2886a811-fc80ae52-691c763b-5153425d-896c64a6.jpg,DIRECT EMER.,M,82,Yes
+1055,/shared/rsaas/enyij2/mimic/p17914007_s55197525_a192a742-a97b1f89-7bc62c42-65e133ad-39a2648d.jpg,DIRECT EMER.,M,82,Yes
+1056,/shared/rsaas/enyij2/mimic/p13662342_s56818510_a215e405-82409a66-56caceba-02218a69-3ad4d6b3.jpg,ELECTIVE,M,60,Yes
+1057,/shared/rsaas/enyij2/mimic/p11267564_s55643905_99fdf2ed-ef6134f4-b2eea9e2-150c49a0-fbd65624.jpg,EW EMER.,M,43,No
+1058,/shared/rsaas/enyij2/mimic/p18688402_s52226388_56569cc2-d8921374-30213188-60d76a46-73f23bc9.jpg,EW EMER.,F,86,No
+1059,/shared/rsaas/enyij2/mimic/p15630724_s58490889_0121ffad-1fef8453-c6fffcf8-c3c2a33d-e34bfbc6.jpg,EW EMER.,M,81,Yes
+1060,/shared/rsaas/enyij2/mimic/p18835690_s51908170_58d58f1b-7c784c86-16873d92-80bfabf2-0e231b56.jpg,DIRECT EMER.,F,55,No
+1061,/shared/rsaas/enyij2/mimic/p15179052_s52164431_cd9c9c70-069b3022-d45e8241-de73e30f-6e69eed3.jpg,DIRECT EMER.,M,60,No
+1062,/shared/rsaas/enyij2/mimic/p10470242_s52782279_ab54d64d-dd055541-719a8a3e-0c2f21d4-ed400529.jpg,EU OBSERVATION,M,64,No
+1063,/shared/rsaas/enyij2/mimic/p16786147_s53689196_1c647ffe-2646e690-1b5a62dd-87bd0fd0-9365fc0f.jpg,EW EMER.,F,67,No
+1064,/shared/rsaas/enyij2/mimic/p19696532_s51559898_87a5ed30-6c7635da-7a791ee5-357c9fa6-05657f53.jpg,DIRECT OBSERVATION,M,63,No
+1065,/shared/rsaas/enyij2/mimic/p16600050_s51263405_153ea20d-d25a3a13-d9e2bf97-f55109e3-fb8475f1.jpg,EW EMER.,M,25,Yes
+1066,/shared/rsaas/enyij2/mimic/p15832283_s57871147_936495a3-d96b5311-08060243-5a9c83ac-a8c70715.jpg,EU OBSERVATION,F,43,Yes
+1067,/shared/rsaas/enyij2/mimic/p12677246_s55801909_ad74735c-a1bd2e04-e0849cc9-1c3b8cc9-0d3ea3e4.jpg,EW EMER.,F,52,No
+1068,/shared/rsaas/enyij2/mimic/p18547690_s54347217_66868ae2-4e918181-0574e15d-ab8d568f-02229cb1.jpg,EU OBSERVATION,M,44,No
+1069,/shared/rsaas/enyij2/mimic/p10293407_s59377905_a1e94ce8-83d8c68b-b917c34b-18bfcaf2-d50888ab.jpg,EW EMER.,F,61,Yes
+1070,/shared/rsaas/enyij2/mimic/p11245751_s54511755_eb397df8-f05b3325-9208da48-87cb1919-3e2ebf82.jpg,EU OBSERVATION,M,72,Yes
+1071,/shared/rsaas/enyij2/mimic/p10203383_s55530476_7e95fc0d-22231b9d-6c29d81a-c060f731-b88d91cf.jpg,EW EMER.,F,61,Yes
+1072,/shared/rsaas/enyij2/mimic/p11031528_s50935917_ac1cb537-9b1f9fe1-8a9a49b9-6b37841a-fb8dd71c.jpg,DIRECT EMER.,F,74,No
+1073,/shared/rsaas/enyij2/mimic/p17776423_s55751429_0ef28e7e-b1957879-45e2b2ef-61069f42-407f75fe.jpg,URGENT,F,28,Yes
+1074,/shared/rsaas/enyij2/mimic/p14845803_s51352196_7e2cde02-1d436830-8d1e76f7-ca6204d8-bf8012a8.jpg,EU OBSERVATION,M,46,Yes
+1075,/shared/rsaas/enyij2/mimic/p12586066_s54119747_079fd781-66f560f4-68319b2b-66356b11-77220fe9.jpg,EW EMER.,F,38,Yes
+1076,/shared/rsaas/enyij2/mimic/p16201005_s53557083_2656c347-7eaf97bf-bd440d8e-cd63f361-7fa8bf3e.jpg,EU OBSERVATION,F,32,No
+1077,/shared/rsaas/enyij2/mimic/p17449903_s59485950_83aef855-cd61d9aa-a7cc3e24-49cd8f8e-90808d3a.jpg,EU OBSERVATION,F,82,No
+1078,/shared/rsaas/enyij2/mimic/p17080143_s51236758_6ccb3db5-6362bb22-8ed9632e-46cbc1fe-e5b60d7e.jpg,EW EMER.,F,61,No
+1079,/shared/rsaas/enyij2/mimic/p18632748_s58327327_e328e01c-e5e549b6-d3608cb1-97312abf-b7c7fed8.jpg,EU OBSERVATION,F,61,No
+1080,/shared/rsaas/enyij2/mimic/p14895079_s56112076_040d918f-c62a6f67-acedc443-597052ae-35700f2a.jpg,DIRECT EMER.,F,57,Yes
+1081,/shared/rsaas/enyij2/mimic/p14948236_s55507261_7d94b42c-35dc48f1-8ece3c8e-17264b87-5aaade8c.jpg,DIRECT EMER.,F,40,No
+1082,/shared/rsaas/enyij2/mimic/p12148322_s54720003_23fda06c-a3a5d242-4e85e0e5-6739eb1a-44ad82a9.jpg,EW EMER.,F,75,Yes
+1083,/shared/rsaas/enyij2/mimic/p19539145_s51846802_f8259b2a-571f1734-5a4b5dfe-76b46f29-170a9d76.jpg,URGENT,F,34,No
+1084,/shared/rsaas/enyij2/mimic/p15689523_s56946898_8d9aa882-6101421e-190860b6-31b73edc-ce287cf3.jpg,URGENT,M,66,No
+1085,/shared/rsaas/enyij2/mimic/p12918438_s56602398_fb258395-c25125fd-74485d3c-d77cf76e-910f5c84.jpg,EU OBSERVATION,M,81,No
+1086,/shared/rsaas/enyij2/mimic/p19208040_s54628474_fb38f24c-b49dd902-e3078ee1-ae892bce-ceb2927c.jpg,EU OBSERVATION,F,53,No
+1087,/shared/rsaas/enyij2/mimic/p15154908_s53934884_41676d4b-3c094d57-06ee1bed-f6550805-1403f494.jpg,EU OBSERVATION,M,46,No
+1088,/shared/rsaas/enyij2/mimic/p13697731_s54147110_c3428a05-3b3c717b-4793d7f3-9ed6f1d4-a86514f4.jpg,EW EMER.,M,21,Yes
+1089,/shared/rsaas/enyij2/mimic/p17804754_s55423526_734947d3-95d7eb38-24dc7c41-0239fd59-2c1c3dba.jpg,EW EMER.,F,19,No
+1090,/shared/rsaas/enyij2/mimic/p16468274_s50174143_fc3ae99e-776848e9-bddac830-51f5e68c-cd48aa08.jpg,EW EMER.,F,23,Yes
+1091,/shared/rsaas/enyij2/mimic/p12921473_s50144929_36a15edf-2359b700-f9b13b47-25018d64-f7e2a5bb.jpg,EW EMER.,M,59,No
+1092,/shared/rsaas/enyij2/mimic/p11948471_s51519103_8e8a9840-c429e035-ddb0e6ab-7279ff63-1d9e395a.jpg,URGENT,M,84,Yes
+1093,/shared/rsaas/enyij2/mimic/p16751763_s56896454_6ab38a27-cefd365f-3a0853c6-b5b2d0df-855c6a6a.jpg,EW EMER.,M,69,Yes
+1094,/shared/rsaas/enyij2/mimic/p10884708_s56292633_eeee7cfb-aee7caf2-a77ccb48-67cc432f-e7fa551b.jpg,EW EMER.,F,42,Yes
+1095,/shared/rsaas/enyij2/mimic/p15574823_s56005902_17f577d4-6d5a9749-948bf09a-2cb683db-245d1ef7.jpg,OBSERVATION ADMIT,F,74,Yes
+1096,/shared/rsaas/enyij2/mimic/p14190554_s51204207_e545201a-802940a5-5ccefc65-150fdd07-2c52dd69.jpg,URGENT,F,55,Yes
+1097,/shared/rsaas/enyij2/mimic/p12952796_s56658736_47b020c6-cd82e00b-1386b2c4-98ad0ef3-6d0fbe44.jpg,EU OBSERVATION,F,55,No
+1098,/shared/rsaas/enyij2/mimic/p18161706_s58887947_fd12b541-fe9aa02a-5052121a-83173f56-b894d1df.jpg,EU OBSERVATION,F,56,No
+1099,/shared/rsaas/enyij2/mimic/p18784631_s53234046_331e8e22-e240b7de-ea634d5f-b762c277-52a111ee.jpg,EU OBSERVATION,F,42,No
+1100,/shared/rsaas/enyij2/mimic/p18100357_s53416765_a3120113-ed5baaeb-4b21644c-0615ab33-642d80e3.jpg,EW EMER.,M,46,No
+1101,/shared/rsaas/enyij2/mimic/p17556194_s51522340_c8a3f031-9479c5cf-1435abbe-bd691f3d-0543e701.jpg,DIRECT OBSERVATION,F,73,Yes
+1102,/shared/rsaas/enyij2/mimic/p17400716_s54837463_bfef4772-271bcd77-8f56d411-9919630d-8ede485d.jpg,EU OBSERVATION,F,77,Yes
+1103,/shared/rsaas/enyij2/mimic/p19650721_s57284130_effd625d-80c35866-2d1908ad-3a493116-fc652f80.jpg,EU OBSERVATION,M,55,No
+1104,/shared/rsaas/enyij2/mimic/p14989554_s59198182_5976663a-c3955687-33fefbb4-eb773fae-1f338cc8.jpg,EW EMER.,M,48,No
+1105,/shared/rsaas/enyij2/mimic/p11528387_s58263220_65394539-2b765035-6f05dc14-13d21c5b-cfbe9f45.jpg,EU OBSERVATION,M,52,No
+1106,/shared/rsaas/enyij2/mimic/p13857788_s57160279_8817c754-9cecd5df-7610bc5e-14c61a36-e98952c2.jpg,EW EMER.,M,83,No
+1107,/shared/rsaas/enyij2/mimic/p15847227_s54681471_495b6ede-734e83bd-8df13859-465553c5-0b57353b.jpg,EU OBSERVATION,M,20,No
+1108,/shared/rsaas/enyij2/mimic/p12535940_s55982934_e430f250-35d0700e-47bec81a-35a15a46-0c2a54f9.jpg,EU OBSERVATION,F,76,No
+1109,/shared/rsaas/enyij2/mimic/p14948329_s55960013_0ac938d7-ff2f3516-39bbbb07-489fc09a-36a5be6b.jpg,OBSERVATION ADMIT,F,59,No
+1110,/shared/rsaas/enyij2/mimic/p16144726_s50227140_0a7f1354-edb09a39-9ca6ecc1-2864ea1d-565347c8.jpg,EW EMER.,F,70,Yes
+1111,/shared/rsaas/enyij2/mimic/p11063824_s50428574_fa32e67e-e56d4014-87cf494c-83325f91-889d3c46.jpg,EW EMER.,M,91,Yes
+1112,/shared/rsaas/enyij2/mimic/p12614215_s59296110_58801060-9863e42f-1b5f3096-38b645b8-63c55a3d.jpg,EW EMER.,M,79,Yes
+1113,/shared/rsaas/enyij2/mimic/p14237047_s59881600_f9fef645-c84f6ffc-901b0089-7447fbdf-042d63e2.jpg,EW EMER.,M,83,Yes
+1114,/shared/rsaas/enyij2/mimic/p14151932_s50854251_bb70b536-f6783485-0ecc351c-6adbc489-83b85812.jpg,EW EMER.,M,81,Yes
+1115,/shared/rsaas/enyij2/mimic/p17612772_s55474704_57406a6f-b2a4cd61-ff978df2-7cd6f8f6-065e446d.jpg,EU OBSERVATION,M,89,Yes
+1116,/shared/rsaas/enyij2/mimic/p11333292_s58564298_d818b9ee-4c9051de-15fd3d4c-c1844c44-e1cc6413.jpg,EU OBSERVATION,F,60,No
+1117,/shared/rsaas/enyij2/mimic/p16340641_s59715307_ba3f2cac-007aa9d0-b57ea441-3b04aa74-19d19683.jpg,EU OBSERVATION,M,50,No
+1118,/shared/rsaas/enyij2/mimic/p19668928_s56813709_6300ecf6-766397ba-0d4efbd3-5711c289-15059cd8.jpg,AMBULATORY OBSERVATION,M,61,No
+1119,/shared/rsaas/enyij2/mimic/p13697731_s51669407_49d992a1-2b774faa-3db831dd-f16885fd-e9680beb.jpg,EW EMER.,M,21,Yes
+1120,/shared/rsaas/enyij2/mimic/p11842879_s51607418_e605abbd-4c4a21d2-c14b8d18-58be7edc-08d358c3.jpg,EW EMER.,F,19,Yes
+1121,/shared/rsaas/enyij2/mimic/p13276058_s51403335_55a45e39-cdf3b984-156a095c-9392d0a3-0773b445.jpg,DIRECT EMER.,F,51,No
+1122,/shared/rsaas/enyij2/mimic/p14948236_s51299389_654ae2e9-c7916ffd-678a20ad-edef855f-0ba34876.jpg,DIRECT EMER.,F,40,No
+1123,/shared/rsaas/enyij2/mimic/p16116091_s56929901_3fb9d3df-f5cf4f41-113523da-a1c1a148-e5f022b2.jpg,OBSERVATION ADMIT,F,77,Yes
+1124,/shared/rsaas/enyij2/mimic/p15070162_s54987301_0908aea9-81d55315-d701e4c5-8c73ac10-f4741e52.jpg,OBSERVATION ADMIT,F,53,No
+1125,/shared/rsaas/enyij2/mimic/p13857788_s56101611_853147a3-f062e10d-63025463-c197c186-99af2160.jpg,EW EMER.,M,83,Yes
+1126,/shared/rsaas/enyij2/mimic/p11894220_s50063649_6d81e498-58aba17b-3f693c11-7c3222a5-d342a1c9.jpg,EW EMER.,M,91,Yes
+1127,/shared/rsaas/enyij2/mimic/p13054457_s51295630_a5cf6c67-f9d3b4cc-4a84e977-462a59a4-984f7205.jpg,EW EMER.,M,73,Yes
+1128,/shared/rsaas/enyij2/mimic/p11422163_s57528718_4d9466a0-1c2670ba-262527bd-79d58c3e-90e927c5.jpg,OBSERVATION ADMIT,F,69,Yes
+1129,/shared/rsaas/enyij2/mimic/p11786902_s59539140_d9c5ba9b-986ff972-3f73a130-7fe01b5b-61784d3f.jpg,EU OBSERVATION,F,76,No
+1130,/shared/rsaas/enyij2/mimic/p17768098_s55594746_e319e049-6c20418b-ffb47a14-aec4e82b-a304ad19.jpg,ELECTIVE,M,72,Yes
+1131,/shared/rsaas/enyij2/mimic/p13855491_s53675734_0658ad3c-b4f77a56-2ed1609f-ea71a443-d847a975.jpg,EU OBSERVATION,F,61,No
+1132,/shared/rsaas/enyij2/mimic/p15454391_s52639772_406a1dc2-ed5e28cf-0e51bf1c-9f500a10-548150ed.jpg,URGENT,M,69,Yes
+1133,/shared/rsaas/enyij2/mimic/p13080805_s57174944_2992b4a1-e5dcc39f-a2e317ec-672de9c1-f8123879.jpg,EU OBSERVATION,F,56,No
+1134,/shared/rsaas/enyij2/mimic/p15311382_s55288610_f903306c-5977fd29-828ef146-e6d37da6-a562cc68.jpg,EW EMER.,M,31,No
+1135,/shared/rsaas/enyij2/mimic/p19299595_s51394674_90d32e74-b5b34c1f-d82dcb72-049c471f-d5ce231d.jpg,EU OBSERVATION,M,43,No
+1136,/shared/rsaas/enyij2/mimic/p15163887_s58707199_b11804f7-2564c906-4027eaba-d6e8f7a4-4e79b9f7.jpg,EW EMER.,M,28,No
+1137,/shared/rsaas/enyij2/mimic/p10646009_s52065791_4d422fb0-f04f7a1b-c00838bb-f5a1eb40-57ec4c63.jpg,OBSERVATION ADMIT,F,91,No
+1138,/shared/rsaas/enyij2/mimic/p13632841_s58019314_77b3d267-8cf773f3-8922696f-b1b62b8d-ed3d6c23.jpg,EU OBSERVATION,F,78,Yes
+1139,/shared/rsaas/enyij2/mimic/p17914938_s53126412_2c7e0c51-cdc5d5a8-be3594a6-0346ee4b-76df352a.jpg,EU OBSERVATION,M,91,Yes
+1140,/shared/rsaas/enyij2/mimic/p19202617_s56069783_93411fcc-f0501072-f4bc95ef-e6b680dd-52f77228.jpg,EU OBSERVATION,F,26,No
+1141,/shared/rsaas/enyij2/mimic/p12191806_s58618830_c6834ebd-dc204deb-d2378e47-b06dc74c-b6948210.jpg,EW EMER.,F,57,No
+1142,/shared/rsaas/enyij2/mimic/p14411399_s59641594_b997fb02-8e2dc940-207c2cc8-43f05f55-d6e140a4.jpg,EW EMER.,F,66,No
+1143,/shared/rsaas/enyij2/mimic/p14872473_s51194138_861aaa43-4e8d0f95-0cdd218a-735709a8-feeee158.jpg,EW EMER.,M,33,Yes
+1144,/shared/rsaas/enyij2/mimic/p12137322_s58042751_a8de8389-dc660dda-b5d6f6bf-a0c278ed-0beb36d2.jpg,EW EMER.,F,61,No
+1145,/shared/rsaas/enyij2/mimic/p17193215_s57665770_7560e771-fe89ba9d-c3e0c41c-3ec647e6-932d37ba.jpg,EU OBSERVATION,M,65,Yes
+1146,/shared/rsaas/enyij2/mimic/p19689858_s51903087_186eb448-eb992784-c75419bd-bbfbf5a6-f121166a.jpg,EW EMER.,M,53,No
+1147,/shared/rsaas/enyij2/mimic/p13188070_s50247355_63ec8e26-2e292a41-cc4d9500-20aa97c7-50145d0c.jpg,EU OBSERVATION,M,51,Yes
+1148,/shared/rsaas/enyij2/mimic/p17951860_s56949973_67cfea72-e0b3c423-32687aaa-37f15ea3-eb6af09c.jpg,OBSERVATION ADMIT,F,60,No
+1149,/shared/rsaas/enyij2/mimic/p18686555_s51899204_0752b0f5-7950bed4-1d3e5958-7bd85461-0738f324.jpg,EW EMER.,M,36,No
+1150,/shared/rsaas/enyij2/mimic/p10049341_s56327756_fdb5ffc4-6a6acccf-ac1f6436-cf55ca2f-eed5817e.jpg,EU OBSERVATION,F,55,No
+1151,/shared/rsaas/enyij2/mimic/p13952483_s53286490_2f1fa773-13db19b6-c5617e37-f3d00314-4c5b4e84.jpg,EW EMER.,M,61,Yes
+1152,/shared/rsaas/enyij2/mimic/p10049341_s52059571_9fe5f81b-3aa52262-200dfb94-dd08a790-59747081.jpg,EU OBSERVATION,F,55,No
+1153,/shared/rsaas/enyij2/mimic/p11317752_s59159966_7619ee95-a727e53e-d216a3ae-d569da2a-60da4269.jpg,EU OBSERVATION,F,75,No
+1154,/shared/rsaas/enyij2/mimic/p18853927_s52895218_a3cd57c4-a2186ad4-fb466994-311378dd-19276c11.jpg,EW EMER.,M,74,No
+1155,/shared/rsaas/enyij2/mimic/p10456513_s56285261_aa8aff21-cad3db30-e796f9a3-c2e88180-abb0f3bb.jpg,OBSERVATION ADMIT,F,61,Yes
+1156,/shared/rsaas/enyij2/mimic/p11741372_s50752754_c99eec28-3acfb37b-68684bdd-799de7e5-441ea158.jpg,EU OBSERVATION,M,59,No
+1157,/shared/rsaas/enyij2/mimic/p11977245_s51619014_73a03d11-0a19da7b-ec83eba8-a6fc5c81-4f9d5866.jpg,OBSERVATION ADMIT,M,66,No
+1158,/shared/rsaas/enyij2/mimic/p13697731_s51428315_2147f67e-582f3e2b-77f868a5-3106c1ef-68e20331.jpg,EW EMER.,M,21,Yes
+1159,/shared/rsaas/enyij2/mimic/p17179313_s53802377_b7d53714-5cde8e88-e5371e55-1eebca96-265ebfd2.jpg,EW EMER.,M,37,Yes
+1160,/shared/rsaas/enyij2/mimic/p17117998_s59971715_39a2b7c3-5ecdffdc-97b64d90-e46d41c8-4a5a5e8a.jpg,EU OBSERVATION,M,81,Yes
+1161,/shared/rsaas/enyij2/mimic/p10541652_s51323908_5a1654d5-e02c8da3-87cb526b-c1fc5a29-0525c1f5.jpg,EU OBSERVATION,M,80,Yes
+1162,/shared/rsaas/enyij2/mimic/p15457916_s59055744_c8d6d6d6-9c8ce05a-c28e9403-1490ac5e-b6ff18ca.jpg,EW EMER.,M,82,No
+1163,/shared/rsaas/enyij2/mimic/p16785930_s59070796_c2e7023e-ebcd2472-23dc99c1-1d6f72d8-794b876a.jpg,EU OBSERVATION,F,91,Yes
+1164,/shared/rsaas/enyij2/mimic/p13027744_s52300178_75590cb5-c0381bff-86d46f31-341ed858-9dd09370.jpg,EU OBSERVATION,F,55,Yes
+1165,/shared/rsaas/enyij2/mimic/p11459825_s53370483_8de82ff2-015922c4-dabcc987-0145526f-ec4ad4f8.jpg,EW EMER.,F,71,Yes
+1166,/shared/rsaas/enyij2/mimic/p10945254_s58278164_495ad26a-5b950357-68950878-808f7e09-f9e36a82.jpg,EW EMER.,M,48,No
+1167,/shared/rsaas/enyij2/mimic/p13188070_s51289921_235a53cf-4cb62a67-99801180-6e496116-60406e16.jpg,EU OBSERVATION,M,51,Yes
+1168,/shared/rsaas/enyij2/mimic/p15689523_s54416865_55db095c-a4e43541-0e8f1c0a-9f320d74-df0a960a.jpg,URGENT,M,66,Yes
+1169,/shared/rsaas/enyij2/mimic/p19262233_s54431694_e553f2b0-43fa30d2-c1c95d49-d7d5d226-7cb3c3e2.jpg,URGENT,F,34,No
+1170,/shared/rsaas/enyij2/mimic/p12519991_s59594262_e1b84e6a-f9f9356b-fbd069e6-8d0b78e9-77456cc7.jpg,DIRECT EMER.,M,71,No
+1171,/shared/rsaas/enyij2/mimic/p15225961_s51230692_e99f039d-98af8b15-57ba93b4-5e7a0dc9-075daa9d.jpg,OBSERVATION ADMIT,F,66,No
+1172,/shared/rsaas/enyij2/mimic/p17004181_s50118745_3868b4ee-157a6181-c0117b14-3f174cf3-95013a7a.jpg,EU OBSERVATION,F,57,No
+1173,/shared/rsaas/enyij2/mimic/p12338951_s55666024_a8d50761-9032b5d4-8902b9bb-8a2996c9-a5e696fb.jpg,OBSERVATION ADMIT,F,65,No
+1174,/shared/rsaas/enyij2/mimic/p10232572_s53905996_e7b478f2-4ca774fd-91dd60c0-7a5c197c-23333f41.jpg,EU OBSERVATION,F,37,No
+1175,/shared/rsaas/enyij2/mimic/p16105600_s52683292_0513f89c-dededd06-fc0b5daf-eef3395c-c740dfdf.jpg,EW EMER.,F,57,No
+1176,/shared/rsaas/enyij2/mimic/p17735225_s51738269_8ce0abb8-71061db3-ff27c43c-38ee93ac-a6ce8c30.jpg,EU OBSERVATION,F,60,No
+1177,/shared/rsaas/enyij2/mimic/p14191227_s50794800_ec907052-35a16d91-2117e9aa-df9c0c55-74993834.jpg,EU OBSERVATION,M,66,No
+1178,/shared/rsaas/enyij2/mimic/p13581561_s57401588_c9960b15-2e331a11-8f013d2a-d0688772-18e29766.jpg,EW EMER.,M,76,Yes
+1179,/shared/rsaas/enyij2/mimic/p13071437_s58048818_4bb0304b-51279ad8-7aebe0e2-8d5ebe1c-e594aa77.jpg,EW EMER.,M,48,No
+1180,/shared/rsaas/enyij2/mimic/p17708607_s55050972_3cbdbd52-348d623e-0506866b-07768337-d9af459e.jpg,EW EMER.,F,32,No
+1181,/shared/rsaas/enyij2/mimic/p15574823_s53255881_4636d639-f0e375a9-ae47cbb9-72aba70c-708402a9.jpg,OBSERVATION ADMIT,F,74,No
+1182,/shared/rsaas/enyij2/mimic/p16600216_s50753814_33572379-855c7d0a-10077551-3c9f029f-0faf8d31.jpg,OBSERVATION ADMIT,F,46,No
+1183,/shared/rsaas/enyij2/mimic/p19853114_s53167186_5625ae8c-922e0e9b-cf62824c-27dd58e4-89774b2b.jpg,OBSERVATION ADMIT,F,66,No
+1184,/shared/rsaas/enyij2/mimic/p10049341_s53480270_41b6093b-9b33cf22-949a2d71-3571a8d6-8d0dd0c0.jpg,EU OBSERVATION,F,55,No
+1185,/shared/rsaas/enyij2/mimic/p13164695_s51243173_f43034d1-b9471698-2c2fcdbd-38d10437-4e212064.jpg,SURGICAL SAME DAY ADMISSION,F,47,No
+1186,/shared/rsaas/enyij2/mimic/p16081822_s51312525_a289cc3d-35306923-bb637f43-e3b2489f-429d31d9.jpg,URGENT,M,68,No
+1187,/shared/rsaas/enyij2/mimic/p14136828_s57724999_92461fb6-1ee028fd-969a85cc-887e10cc-85f73d16.jpg,EU OBSERVATION,M,86,Yes
+1188,/shared/rsaas/enyij2/mimic/p17643187_s55850792_88694247-25d130ef-daac457c-7b0e21bd-2d59403e.jpg,EW EMER.,F,43,No
+1189,/shared/rsaas/enyij2/mimic/p15689523_s53514769_13126607-302bec00-e1d141ed-50367edf-abbf93c5.jpg,URGENT,M,66,Yes
+1190,/shared/rsaas/enyij2/mimic/p16909232_s57802509_6a152e3f-e63e8bd2-624736f4-dee31cd3-4288c53d.jpg,EW EMER.,F,82,Yes
+1191,/shared/rsaas/enyij2/mimic/p18100357_s57049794_d6e25567-59cb4bf7-fb29c8ec-d49e35f0-4945db5b.jpg,EW EMER.,M,46,No
+1192,/shared/rsaas/enyij2/mimic/p14538144_s53091995_b7c91f40-600c5971-0de8c45f-6978eedc-5fc398b2.jpg,DIRECT EMER.,F,56,Yes
+1193,/shared/rsaas/enyij2/mimic/p13640656_s50121527_b7a1bb41-0d7b787e-2fdfe93f-bc1e74bb-07638849.jpg,EW EMER.,M,69,Yes
+1194,/shared/rsaas/enyij2/mimic/p10226496_s54404562_a04649cf-85897d54-c80dd20a-7975920a-bafd2d9e.jpg,EW EMER.,M,73,Yes
+1195,/shared/rsaas/enyij2/mimic/p11766586_s57376897_898c019c-a62da2ce-486f2b18-17e3fdc0-43c1eecf.jpg,EU OBSERVATION,M,45,No
+1196,/shared/rsaas/enyij2/mimic/p10031816_s53085045_b67f5025-edc175ca-9ab04bdd-fa8b54e7-56cc2488.jpg,SURGICAL SAME DAY ADMISSION,M,54,Yes
+1197,/shared/rsaas/enyij2/mimic/p16257001_s57018616_ee3dc348-7bf32a7b-5d745145-c17a02aa-2368efd4.jpg,EW EMER.,M,56,No
+1198,/shared/rsaas/enyij2/mimic/p15180409_s56688624_833f9cbf-83d81634-73194d0d-72b8148f-218d5564.jpg,URGENT,F,73,No
+1199,/shared/rsaas/enyij2/mimic/p18295542_s51097140_fa067ae4-57003eb1-c821f8a8-c3dc677f-f63cf053.jpg,EW EMER.,F,74,No
+1200,/shared/rsaas/enyij2/mimic/p11842879_s51607418_261a4754-eeb35ac6-374b250a-b9b5709a-a8679cbc.jpg,EW EMER.,F,19,Yes
+1201,/shared/rsaas/enyij2/mimic/p10139461_s58184654_72adf4e8-23bbd42a-4dd1363c-5533245e-fb3eb4d5.jpg,SURGICAL SAME DAY ADMISSION,F,66,No
+1202,/shared/rsaas/enyij2/mimic/p14452443_s57387500_c422e20d-01d0c46e-5122b730-74079c2c-a2eb3111.jpg,EU OBSERVATION,F,50,No
+1203,/shared/rsaas/enyij2/mimic/p13994886_s52583096_54cdbdaf-06a5970a-8a11df37-1d4ab502-bb063412.jpg,EU OBSERVATION,F,47,No
+1204,/shared/rsaas/enyij2/mimic/p12175942_s55862375_7a3d260d-4ffd4288-74dd05e9-55395a14-ebad3b4c.jpg,EU OBSERVATION,F,57,No
+1205,/shared/rsaas/enyij2/mimic/p12397726_s55205363_56f17f91-6501473f-76f13d22-41e24db5-2844f719.jpg,EW EMER.,M,78,No
+1206,/shared/rsaas/enyij2/mimic/p18969510_s50187374_93d3fa80-df164da5-6eb7ef01-75d11ac9-f39bec83.jpg,EW EMER.,F,68,No
+1207,/shared/rsaas/enyij2/mimic/p16081822_s55496438_f5ce9238-3b06be14-289310fa-7016c062-1358ab74.jpg,URGENT,M,68,Yes
+1208,/shared/rsaas/enyij2/mimic/p13080805_s57043310_5881fe8b-db21df7e-d209d95b-b35365f7-7a95df37.jpg,EU OBSERVATION,F,56,No
+1209,/shared/rsaas/enyij2/mimic/p12826076_s52725357_fb656f12-50aac443-533a2215-b4e01d60-08352484.jpg,EW EMER.,F,62,Yes
+1210,/shared/rsaas/enyij2/mimic/p16077095_s51751570_725f40b9-269b75f2-1b2b18b7-ba01e4a8-9d00ac81.jpg,EU OBSERVATION,F,60,No
+1211,/shared/rsaas/enyij2/mimic/p11948471_s56644611_ed5553d2-a9705738-6a1b09b6-88a2a7d8-c39d5021.jpg,URGENT,M,84,Yes
+1212,/shared/rsaas/enyij2/mimic/p11918176_s54039551_d45a0682-44a867b5-b21a94db-e265dc34-c0de1544.jpg,DIRECT OBSERVATION,F,60,No
+1213,/shared/rsaas/enyij2/mimic/p15871582_s54152211_d2b508a4-9797781a-a1b59570-6bfbb3db-2633548a.jpg,EU OBSERVATION,F,81,Yes
+1214,/shared/rsaas/enyij2/mimic/p13737860_s52907625_617027b6-7790bda4-0e042352-dcc1d2f5-f84284a7.jpg,EW EMER.,M,62,No
+1215,/shared/rsaas/enyij2/mimic/p12445708_s50480967_df74f29a-53c025a1-302d90e0-c4435a2f-4b6771d2.jpg,EU OBSERVATION,F,45,Yes
+1216,/shared/rsaas/enyij2/mimic/p17914007_s56214335_15d6be5e-d4b30542-0beb71e6-b0b7d204-080131e0.jpg,DIRECT EMER.,M,82,Yes
+1217,/shared/rsaas/enyij2/mimic/p14984395_s50796095_3509bc7a-4db40635-77aea1fe-971eafb3-fdb6167a.jpg,DIRECT EMER.,F,77,Yes
+1218,/shared/rsaas/enyij2/mimic/p14517807_s54887358_126f263a-47c20c67-ede2399e-3849c94e-ef6c899e.jpg,EW EMER.,M,55,Yes
+1219,/shared/rsaas/enyij2/mimic/p17460061_s56496883_85b1b24a-a2ce489b-d7f7783b-11f8c3cd-f07abade.jpg,URGENT,F,32,Yes
+1220,/shared/rsaas/enyij2/mimic/p10747648_s59645294_2518f66e-49613412-6e8db56c-f0353678-9ad0fed9.jpg,EU OBSERVATION,M,59,No
+1221,/shared/rsaas/enyij2/mimic/p18625719_s53782118_8fedd8ea-b4a0c828-cc44c326-434527a9-382e312b.jpg,SURGICAL SAME DAY ADMISSION,F,63,No
+1222,/shared/rsaas/enyij2/mimic/p10896786_s56193669_aeabf468-06e713e7-d9d40aea-5dcb1220-921cb6bb.jpg,ELECTIVE,M,67,No
+1223,/shared/rsaas/enyij2/mimic/p14624686_s59901995_e86951c1-ffd4f057-574fd531-9c03e4c6-f5722aea.jpg,EW EMER.,M,63,No
+1224,/shared/rsaas/enyij2/mimic/p15621306_s51944123_afd4493b-aa8c47e4-cfd339ca-b7a4f8fe-f0f8cbb8.jpg,EW EMER.,M,73,No
+1225,/shared/rsaas/enyij2/mimic/p17182534_s59238057_14f595e5-1fcd7558-1c9aebcc-735bc382-b6b3a259.jpg,DIRECT OBSERVATION,M,77,Yes
+1226,/shared/rsaas/enyij2/mimic/p15617050_s55334079_f5703cda-b3012eb8-1453f93f-cba633d2-38759a71.jpg,SURGICAL SAME DAY ADMISSION,F,71,Yes
+1227,/shared/rsaas/enyij2/mimic/p11489167_s51930515_58ac077c-df4c2898-11c8368c-d63cd397-c8a48077.jpg,SURGICAL SAME DAY ADMISSION,F,55,Yes
+1228,/shared/rsaas/enyij2/mimic/p14591912_s54057542_f5724e8a-06f51085-e1560709-72589fbc-4bf3b8dc.jpg,EW EMER.,F,57,Yes
+1229,/shared/rsaas/enyij2/mimic/p17914007_s55470036_c6ec262f-5ff497b9-49d0201f-6085f979-046ea80a.jpg,DIRECT EMER.,M,82,Yes
+1230,/shared/rsaas/enyij2/mimic/p16882993_s56236062_6b6e012c-39513bc4-adfb92f6-0c490c46-9945f028.jpg,EU OBSERVATION,M,55,No
+1231,/shared/rsaas/enyij2/mimic/p13071437_s59080172_066fca45-0cc0bcdd-c01ecd46-f29dcaa6-534c287c.jpg,EW EMER.,M,48,Yes
+1232,/shared/rsaas/enyij2/mimic/p11267564_s55556457_4e8393d7-73ab54e7-31b94a0c-3fc2da2b-24a8417b.jpg,EW EMER.,M,43,Yes
+1233,/shared/rsaas/enyij2/mimic/p16616576_s52869885_f57b4765-25c41669-4dfdc232-77aefa44-5d1334bc.jpg,EU OBSERVATION,F,85,No
+1234,/shared/rsaas/enyij2/mimic/p11218241_s53579361_09fe61b2-18f46da8-7487678f-973bc56a-94c2eae1.jpg,EU OBSERVATION,F,44,No
+1235,/shared/rsaas/enyij2/mimic/p17281190_s59293659_26979e28-8e17a9f8-22b3ee06-931b0d13-1fe3393d.jpg,OBSERVATION ADMIT,M,72,Yes
+1236,/shared/rsaas/enyij2/mimic/p18933552_s54737571_75e6848c-3527fc9d-7e462682-ea2edb3a-dd940f93.jpg,EW EMER.,M,84,No
+1237,/shared/rsaas/enyij2/mimic/p11115447_s56091817_db4039d0-65dffbc5-2c6c7a15-61d5556e-d467ee18.jpg,EW EMER.,M,91,No
+1238,/shared/rsaas/enyij2/mimic/p19299595_s50803493_0af66846-c6505417-28294047-7cf69cc9-692e94e7.jpg,EU OBSERVATION,M,43,No
+1239,/shared/rsaas/enyij2/mimic/p14895079_s52588608_58e71969-68206cdf-eb827279-7e27de1c-63eb6885.jpg,DIRECT EMER.,F,57,Yes
+1240,/shared/rsaas/enyij2/mimic/p12584804_s56168283_b8e6bd45-46ef5a32-30585082-b9743b82-84979343.jpg,DIRECT OBSERVATION,M,80,Yes
+1241,/shared/rsaas/enyij2/mimic/p14542977_s55325994_5ef7d7ad-e17cce4f-e601ec00-2d23cbf7-a4e83f63.jpg,OBSERVATION ADMIT,M,60,Yes
+1242,/shared/rsaas/enyij2/mimic/p11105803_s51343522_d5464acf-277c2cd9-180fb6fb-a13c7e89-11a51ae4.jpg,EW EMER.,F,72,Yes
+1243,/shared/rsaas/enyij2/mimic/p16605694_s53983117_cbab036d-7c8d4ca8-df3ce06f-e380bf43-7cc8b2c5.jpg,EW EMER.,F,74,Yes
+1244,/shared/rsaas/enyij2/mimic/p14582290_s53732765_88b0ecd5-b1d52c11-89330ec2-9ae9c144-3cb94a2c.jpg,EW EMER.,F,79,No
+1245,/shared/rsaas/enyij2/mimic/p13730100_s51808414_e6c128c2-1024258c-bb6c28ec-78716579-e2ce1a5a.jpg,EU OBSERVATION,F,47,No
+1246,/shared/rsaas/enyij2/mimic/p11948471_s56438290_7aa9f990-f531bd0c-db8416ec-a90f5a48-f9d9b8ff.jpg,URGENT,M,84,Yes
+1247,/shared/rsaas/enyij2/mimic/p18563034_s55294897_4cd6a658-6d754170-224b0fd9-be23d1ed-2eeb1815.jpg,EW EMER.,M,47,No
+1248,/shared/rsaas/enyij2/mimic/p13027744_s53166641_17b64c16-ad25d888-6559880d-3d3def6b-d2ba560a.jpg,EU OBSERVATION,F,55,Yes
+1249,/shared/rsaas/enyij2/mimic/p14637100_s50867122_e8237d75-2d5506c7-1b55cd69-65d0b36b-a15e31cb.jpg,EW EMER.,F,63,Yes
+1250,/shared/rsaas/enyij2/mimic/p11345525_s50565680_68df78ba-6bd069e8-1254841d-819c0012-e48633ae.jpg,EW EMER.,F,44,Yes
+1251,/shared/rsaas/enyij2/mimic/p16893573_s56499488_486fb517-f519aa52-601d79b7-249d2d7b-df2898bd.jpg,EW EMER.,F,76,Yes
+1252,/shared/rsaas/enyij2/mimic/p13383008_s58995214_b2e2ce4b-0f5f57f1-12366019-9861cddb-fb346f16.jpg,EU OBSERVATION,M,58,No
+1253,/shared/rsaas/enyij2/mimic/p13358528_s56110125_b6cf9a66-268933ce-41a2bb36-cf967f75-a90ccf43.jpg,EU OBSERVATION,M,19,No
+1254,/shared/rsaas/enyij2/mimic/p10489424_s55845999_fc0d7459-8dedb114-c2d400f5-b25d48ec-beacc317.jpg,EW EMER.,M,79,No
+1255,/shared/rsaas/enyij2/mimic/p15689523_s56244747_d124167b-8184febe-f307f414-29b0ba78-f422d6f8.jpg,URGENT,M,66,Yes
+1256,/shared/rsaas/enyij2/mimic/p10978829_s53580008_bdcb6885-c94086dc-0f583ca9-512b3404-65afc0fc.jpg,OBSERVATION ADMIT,M,58,Yes
+1257,/shared/rsaas/enyij2/mimic/p18203081_s59779476_3fee447a-88ec4380-b05262e1-22a9a52a-5f4653b4.jpg,OBSERVATION ADMIT,M,52,No
+1258,/shared/rsaas/enyij2/mimic/p10308342_s57313436_13701d35-86a76bf3-682d34fa-2fed324f-23ff35a6.jpg,ELECTIVE,M,48,Yes
+1259,/shared/rsaas/enyij2/mimic/p10203383_s50093404_838d87ff-f4d92ebf-3c0d108a-a7ad1c26-8706cd43.jpg,EW EMER.,F,61,No
+1260,/shared/rsaas/enyij2/mimic/p12207593_s57520242_40f24d85-94293a52-b7e4961d-d2ad9561-864efe77.jpg,EW EMER.,M,43,No
+1261,/shared/rsaas/enyij2/mimic/p18478557_s52742392_a0d839ad-6fd28937-f33314b6-114a5500-9b0556ae.jpg,DIRECT OBSERVATION,F,64,No
+1262,/shared/rsaas/enyij2/mimic/p10293407_s51691993_6f8d9ec1-e45db300-0f318e23-88140a9e-ec0dfc60.jpg,EW EMER.,F,61,No
+1263,/shared/rsaas/enyij2/mimic/p16257001_s50652059_8d4a38ca-96d8cc03-ea3a92cd-a21eed33-0a8e4a9a.jpg,EW EMER.,M,56,No
+1264,/shared/rsaas/enyij2/mimic/p11334552_s59073751_ef12cbb6-69d9210b-f9d79542-a9bf837b-c067335f.jpg,EU OBSERVATION,M,50,No
+1265,/shared/rsaas/enyij2/mimic/p16930740_s58201062_53b6852b-2e105fa7-8e4f805f-cb4f1ea7-dc6b46b7.jpg,EW EMER.,M,62,No
+1266,/shared/rsaas/enyij2/mimic/p18069196_s55618892_0d2b64bc-e4d4b83c-d65a45ca-58ac6462-1474ed76.jpg,EW EMER.,F,63,No
+1267,/shared/rsaas/enyij2/mimic/p10924565_s50819653_9a1d1aad-081d4460-77bc5fac-8b28e0be-912c4998.jpg,EW EMER.,F,38,Yes
+1268,/shared/rsaas/enyij2/mimic/p15259244_s53532692_bb03b651-512952bc-0ea27cd3-c61b8255-0b80bbb5.jpg,EW EMER.,F,57,No
+1269,/shared/rsaas/enyij2/mimic/p13001519_s57296257_8768c1c7-2c2960d0-f241e89c-a57d5076-6fa7c5b4.jpg,EU OBSERVATION,M,48,No
+1270,/shared/rsaas/enyij2/mimic/p13832352_s57937130_9cbc1fad-bf581f1d-5a7ed3e4-b09dc785-7631a105.jpg,EW EMER.,F,79,Yes
+1271,/shared/rsaas/enyij2/mimic/p10107208_s50744673_73a4e0b7-5c71649b-7cc564e8-379ea67f-3d3c5aa0.jpg,DIRECT OBSERVATION,F,64,No
+1272,/shared/rsaas/enyij2/mimic/p12746444_s56050828_1bb79cdc-404bc091-abcc1df8-7899b811-82c2d32b.jpg,OBSERVATION ADMIT,M,57,Yes
+1273,/shared/rsaas/enyij2/mimic/p11453884_s54571120_c4f871a7-f978173d-8c071c3e-2b799ca7-4c826b30.jpg,SURGICAL SAME DAY ADMISSION,F,58,No
+1274,/shared/rsaas/enyij2/mimic/p11041866_s50994027_b4a807a3-5c78763f-ea02ed04-ad2ac8ab-d441d00a.jpg,EU OBSERVATION,M,83,No
+1275,/shared/rsaas/enyij2/mimic/p12780512_s52059922_11e33f9e-e8128923-aaad27e7-3945b0ef-d8d65bab.jpg,EU OBSERVATION,F,25,Yes
+1276,/shared/rsaas/enyij2/mimic/p11131316_s53314323_3e0a3aab-fde13264-32f16a84-e75b5610-cd1c3ca4.jpg,OBSERVATION ADMIT,F,76,No
+1277,/shared/rsaas/enyij2/mimic/p19246656_s53563538_14d3a2f9-78468c09-c1ca7e88-286b3388-c4b3216b.jpg,URGENT,F,36,No
+1278,/shared/rsaas/enyij2/mimic/p12249989_s56274561_a9f42a85-fec3b605-3d17d64b-950d3389-516764f8.jpg,EW EMER.,M,79,Yes
+1279,/shared/rsaas/enyij2/mimic/p12085128_s55471687_7a2d148c-0ff4344c-d34bb1fa-c4cc86bb-f8abd6c2.jpg,EW EMER.,M,55,No
+1280,/shared/rsaas/enyij2/mimic/p10610628_s59297457_98cb57c8-21320264-cfba2549-a4080383-7b8dce1f.jpg,EW EMER.,M,91,No
+1281,/shared/rsaas/enyij2/mimic/p15157947_s52504766_928db7c3-da21cb1c-b3189515-b0075bb3-479b2c56.jpg,DIRECT EMER.,M,74,Yes
+1282,/shared/rsaas/enyij2/mimic/p14303183_s59427369_42bb8e73-11e898f2-8f6ce28d-e1ee8224-72f968be.jpg,EU OBSERVATION,F,56,No
+1283,/shared/rsaas/enyij2/mimic/p17768098_s51479929_9a0410ed-56d40daf-f2cae1f0-80768452-e667a805.jpg,ELECTIVE,M,72,Yes
+1284,/shared/rsaas/enyij2/mimic/p10537484_s55936657_01f31b62-66e4a283-dfccc9cb-59d402ba-922588ee.jpg,EW EMER.,M,20,Yes
+1285,/shared/rsaas/enyij2/mimic/p14637100_s53757588_a3e3c95d-9268095c-181107ae-b150cab7-f32faa43.jpg,EW EMER.,F,63,Yes
+1286,/shared/rsaas/enyij2/mimic/p12637050_s59368801_38ec1527-78023762-d8b5b872-ecb3510a-127c6525.jpg,EU OBSERVATION,M,39,No
+1287,/shared/rsaas/enyij2/mimic/p12143925_s55642946_88a6562e-b72b6809-46840bdb-3a567403-45ea5349.jpg,EW EMER.,F,59,No
+1288,/shared/rsaas/enyij2/mimic/p17914007_s56493382_348b8188-6917d82d-c8c54f32-35f23396-540a4e81.jpg,DIRECT EMER.,M,82,Yes
+1289,/shared/rsaas/enyij2/mimic/p12669967_s59300638_f44910fb-74209c0d-88f3324b-cfe3d800-9aac2d7d.jpg,SURGICAL SAME DAY ADMISSION,F,70,No
+1290,/shared/rsaas/enyij2/mimic/p10089922_s58498202_3bf52eb5-bdeeb4f0-0ff42e15-cf833f1c-572f5802.jpg,OBSERVATION ADMIT,F,62,No
+1291,/shared/rsaas/enyij2/mimic/p10600683_s59664943_0de2d4b5-6f8f6c99-c3e265be-32de67c5-610e23a8.jpg,EW EMER.,F,68,No
+1292,/shared/rsaas/enyij2/mimic/p17080143_s53976579_f992479f-ffb43a01-8b79e996-4f66860e-dfc2e668.jpg,EW EMER.,F,61,Yes
+1293,/shared/rsaas/enyij2/mimic/p19486422_s57199996_75174e48-aff53d21-f95d913c-0e1b608e-55738846.jpg,EW EMER.,F,59,No
+1294,/shared/rsaas/enyij2/mimic/p11948471_s50498627_bb4ee264-c8c07b7c-51c3bcf7-cd482d52-dc998ed1.jpg,URGENT,M,84,No
+1295,/shared/rsaas/enyij2/mimic/p17556194_s54373335_afbddd46-4cc5aae4-81e58eb0-81554d76-f482e16b.jpg,DIRECT OBSERVATION,F,73,Yes
+1296,/shared/rsaas/enyij2/mimic/p12669967_s57444052_94bc03d0-de09a17d-123a6425-56345467-e11561a5.jpg,SURGICAL SAME DAY ADMISSION,F,70,Yes
+1297,/shared/rsaas/enyij2/mimic/p14765058_s52566263_d1dc6727-6c2f5a54-7453ed0b-8e8cd68c-d62887bd.jpg,EW EMER.,M,44,Yes
+1298,/shared/rsaas/enyij2/mimic/p15816738_s53100626_edd5210d-944c6162-842d9c15-7797c152-d3d37293.jpg,EW EMER.,F,53,Yes
+1299,/shared/rsaas/enyij2/mimic/p18828819_s53609993_61816272-e90e7823-a4bc4bc5-a995a719-15eb86a9.jpg,EW EMER.,M,42,No
+1300,/shared/rsaas/enyij2/mimic/p13535349_s50529223_e10435f1-2465bbb6-620cd5d3-86667283-58b6af36.jpg,EW EMER.,M,25,No
+1301,/shared/rsaas/enyij2/mimic/p16566006_s53471708_300ec86e-aba6cf41-e033381d-1564df6e-2f500d5b.jpg,EW EMER.,M,75,Yes
+1302,/shared/rsaas/enyij2/mimic/p15660925_s59416139_1aff9812-286f92d6-39b795d3-397c8972-1246c8d0.jpg,OBSERVATION ADMIT,F,46,Yes
+1303,/shared/rsaas/enyij2/mimic/p12441371_s53910895_8c1b56ac-e852d228-c69704f9-554925b4-d75f1cf6.jpg,EW EMER.,M,72,Yes
+1304,/shared/rsaas/enyij2/mimic/p16783577_s55218617_1f6cfac3-e1d942be-77b21b9d-5e4bad52-b4989dc0.jpg,SURGICAL SAME DAY ADMISSION,M,66,Yes
+1305,/shared/rsaas/enyij2/mimic/p17556194_s59274236_87d2a3c1-90872963-8db3f814-d6ad982f-6c21bc54.jpg,DIRECT OBSERVATION,F,73,Yes
+1306,/shared/rsaas/enyij2/mimic/p14190554_s50383716_1337f694-2683e3a1-61cec84d-e1c729c7-72578cb0.jpg,URGENT,F,55,Yes
+1307,/shared/rsaas/enyij2/mimic/p14191227_s53570254_49e7b7bd-74ac5f2e-a2254ad6-d93d1e64-ddb9f531.jpg,EU OBSERVATION,M,66,No
+1308,/shared/rsaas/enyij2/mimic/p11318785_s54580625_443ef739-3a63f325-057c65dd-f1feff90-2428216a.jpg,EU OBSERVATION,M,65,No
+1309,/shared/rsaas/enyij2/mimic/p16515878_s54837874_cf55e81b-b727ebbb-ada5110d-b6cd4f81-366395dd.jpg,OBSERVATION ADMIT,M,44,Yes
+1310,/shared/rsaas/enyij2/mimic/p17592541_s51282227_7f747c7e-e0665b5b-cb44443b-d84cffb5-954fa323.jpg,EU OBSERVATION,F,76,No
+1311,/shared/rsaas/enyij2/mimic/p14527409_s55911623_b67059af-39f923c0-2ba6f90b-d7b1589a-08890116.jpg,EW EMER.,F,34,No
+1312,/shared/rsaas/enyij2/mimic/p15326328_s54584331_85b94818-14cd7739-e320754e-0305febb-87c8e297.jpg,OBSERVATION ADMIT,F,55,Yes
+1313,/shared/rsaas/enyij2/mimic/p15329328_s58744014_8954887c-5c8c8889-27fa7674-d378aff5-e2186436.jpg,DIRECT EMER.,F,66,No
+1314,/shared/rsaas/enyij2/mimic/p10597833_s59074705_cc837377-2fff7813-9444215c-ec99c858-c2744f9d.jpg,EW EMER.,F,68,Yes
+1315,/shared/rsaas/enyij2/mimic/p10293407_s57020903_55023311-91ec1808-8a5bf620-a0875d85-b3764fee.jpg,EW EMER.,F,61,Yes
+1316,/shared/rsaas/enyij2/mimic/p11986030_s50715684_1ee89a5e-e576f11d-e8dba53e-6ef9ae86-2c8fc6b1.jpg,EU OBSERVATION,F,78,Yes
+1317,/shared/rsaas/enyij2/mimic/p15653759_s59654985_e4d6f5d5-2fbc156e-6e5a6a0f-f5f020d3-8edb65f6.jpg,EW EMER.,F,36,Yes
+1318,/shared/rsaas/enyij2/mimic/p10297774_s57803658_09db1ddd-015357ff-701bac8e-82b88f74-b8be90c6.jpg,OBSERVATION ADMIT,M,62,No
+1319,/shared/rsaas/enyij2/mimic/p17967970_s53227719_14636fc8-f4b0a189-eb5a5553-9b2926e5-202ca126.jpg,SURGICAL SAME DAY ADMISSION,F,78,Yes
+1320,/shared/rsaas/enyij2/mimic/p17438170_s57757145_684f59ca-b5317570-f4bd20df-f612fd6a-7b5abf77.jpg,EW EMER.,M,27,Yes
+1321,/shared/rsaas/enyij2/mimic/p17602334_s51839700_b4d05a79-a56ea053-02abfd18-ab384b4f-8deeffb0.jpg,OBSERVATION ADMIT,M,85,No
+1322,/shared/rsaas/enyij2/mimic/p14308389_s55186475_6cad5c04-526fe2c0-4ea97f5e-27bba883-6b1ff536.jpg,SURGICAL SAME DAY ADMISSION,F,45,Yes
+1323,/shared/rsaas/enyij2/mimic/p11076033_s57904630_bf062a34-ce210eb0-3dafa3f6-0e5dec11-e688d132.jpg,DIRECT EMER.,M,80,Yes
+1324,/shared/rsaas/enyij2/mimic/p11218241_s50419844_6bcb8fbd-72bbb355-8d365937-2611e00d-f032affa.jpg,EU OBSERVATION,F,44,No
+1325,/shared/rsaas/enyij2/mimic/p18304844_s58563456_f845ddaf-3a8fc47d-8094a794-a9c7a4f9-7df2d81b.jpg,EU OBSERVATION,M,34,No
+1326,/shared/rsaas/enyij2/mimic/p10517964_s50845838_a47cd50f-7fca52b6-2974a2d2-7d477c73-29706388.jpg,EW EMER.,M,60,Yes
+1327,/shared/rsaas/enyij2/mimic/p14517807_s56021367_a764b3b7-03b81bb3-e3278b28-1892a9ec-8c4c75df.jpg,EW EMER.,M,55,No
+1328,/shared/rsaas/enyij2/mimic/p10370676_s52354650_2df0f1de-c08dae7b-22e572f5-7a4d1fb3-975f0c18.jpg,EU OBSERVATION,F,75,No
+1329,/shared/rsaas/enyij2/mimic/p15259244_s50903359_382f361b-7412dee4-3a5c243f-b3c792e4-d7f75a6f.jpg,EW EMER.,F,57,Yes
+1330,/shared/rsaas/enyij2/mimic/p11047238_s52396508_da2d809c-8a352edc-c6e7d9fe-59497bc2-18e06057.jpg,EW EMER.,F,74,Yes
+1331,/shared/rsaas/enyij2/mimic/p14947701_s51762759_f8ba70a7-82255c6a-b071f537-7b5b170e-c2412cfb.jpg,EW EMER.,M,76,Yes
+1332,/shared/rsaas/enyij2/mimic/p17713469_s52700416_36017633-057d7574-3f2bd377-4e3ea3d6-0c505a29.jpg,EU OBSERVATION,M,42,No
+1333,/shared/rsaas/enyij2/mimic/p12921473_s50016419_464ea154-74cc7ce2-285ff12e-d98bb5cf-23f966d4.jpg,EW EMER.,M,59,Yes
+1334,/shared/rsaas/enyij2/mimic/p15311382_s59977808_e0a87afa-4aca18f4-fab7c4a2-ce9f8e97-2d35bb36.jpg,EW EMER.,M,31,Yes
+1335,/shared/rsaas/enyij2/mimic/p16039185_s54404181_10d22ec9-855902b1-6a7eab82-6ece29ea-ae220bdc.jpg,DIRECT OBSERVATION,F,80,No
+1336,/shared/rsaas/enyij2/mimic/p13506593_s52990283_d2bfa13b-64ce2457-352c205d-54f3918a-569608e9.jpg,EW EMER.,F,49,No
+1337,/shared/rsaas/enyij2/mimic/p14120635_s58696310_991f321b-c8c35307-488cb7fd-239cedb7-f07ee5ed.jpg,DIRECT EMER.,M,57,No
+1338,/shared/rsaas/enyij2/mimic/p15766903_s56113416_61b29206-156fd4d9-0ac8dfdd-e0ad2fcf-25a64a55.jpg,EW EMER.,M,75,Yes
+1339,/shared/rsaas/enyij2/mimic/p15880947_s59647215_e1a33754-41c54ae7-e660d45e-e444ab46-a8e4cdcb.jpg,DIRECT OBSERVATION,M,68,Yes
+1340,/shared/rsaas/enyij2/mimic/p17372176_s58978174_773bb17c-7cd8c645-d5a08b0f-aec2c5d3-5524948e.jpg,URGENT,M,24,No
+1341,/shared/rsaas/enyij2/mimic/p18867617_s55936046_cca53ee5-2ca78d03-e75cfbdb-b99a45e6-59ed5d55.jpg,EU OBSERVATION,F,63,No
+1342,/shared/rsaas/enyij2/mimic/p11208503_s55006614_149b1641-b79bc8cb-79aec30b-f93765df-8b269f24.jpg,OBSERVATION ADMIT,F,75,Yes
+1343,/shared/rsaas/enyij2/mimic/p17795701_s57445132_4d554c91-655b5e86-8e22235e-7bdf9573-334866be.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+1344,/shared/rsaas/enyij2/mimic/p17651038_s50181229_503cf42e-bae9737d-c8e71bc1-7ae41fd2-3bb03861.jpg,EW EMER.,F,23,No
+1345,/shared/rsaas/enyij2/mimic/p16908274_s59210167_64178f4a-362d5aac-93aa2d1b-c1d803a6-a1373c8e.jpg,EU OBSERVATION,F,47,No
+1346,/shared/rsaas/enyij2/mimic/p19610664_s50644393_e4ab0c05-d88caa81-4f444c9b-c0a25269-a2fb967e.jpg,EU OBSERVATION,F,52,No
+1347,/shared/rsaas/enyij2/mimic/p18716607_s54310475_4c3ca1b2-231aa3b1-c57b8da6-d549474b-e416729b.jpg,EU OBSERVATION,F,21,No
+1348,/shared/rsaas/enyij2/mimic/p18784631_s59344023_0a49a760-61cecc67-1fe18d58-3dab38e2-dc57df9f.jpg,EU OBSERVATION,F,42,No
+1349,/shared/rsaas/enyij2/mimic/p16882993_s57937562_1be5a0e4-3c03f5e5-785fc19b-7bd7de6f-6e4a6768.jpg,EU OBSERVATION,M,55,No
+1350,/shared/rsaas/enyij2/mimic/p14693507_s50182730_be5238dd-43f5f7d2-e0bf8298-7fa9cd6a-0b5f2a59.jpg,EW EMER.,M,78,No
+1351,/shared/rsaas/enyij2/mimic/p10627464_s50948243_1e78a286-90873cde-c3925fc3-d66a03c1-c7b5d64d.jpg,EW EMER.,F,56,No
+1352,/shared/rsaas/enyij2/mimic/p17768098_s56084692_b6e5ca5d-0ef6d440-e34fd802-bed473b2-ad7d41d5.jpg,ELECTIVE,M,72,Yes
+1353,/shared/rsaas/enyij2/mimic/p15853302_s50829414_6aaf8010-042f3b64-42deb010-40ae1d92-2330a279.jpg,EU OBSERVATION,M,64,No
+1354,/shared/rsaas/enyij2/mimic/p16762104_s51919586_b266f63f-59b3ef53-6248317e-0bd3095b-7c9e202e.jpg,EU OBSERVATION,F,70,Yes
+1355,/shared/rsaas/enyij2/mimic/p11570626_s58933371_f51190f6-97ab5e5a-be9ee753-ba67eda4-6feb07f0.jpg,EW EMER.,F,74,Yes
+1356,/shared/rsaas/enyij2/mimic/p14606578_s54812035_06f7af9f-849aee3a-f0f02573-c193442f-20c19daa.jpg,OBSERVATION ADMIT,F,39,No
+1357,/shared/rsaas/enyij2/mimic/p17768098_s58446931_400898c8-2f25e01a-2c4b930d-1f0c798e-e002d49e.jpg,ELECTIVE,M,72,Yes
+1358,/shared/rsaas/enyij2/mimic/p17299852_s52830194_603b8b3d-0b8a4790-7d015bd6-aa2096af-074a9225.jpg,EU OBSERVATION,M,64,Yes
+1359,/shared/rsaas/enyij2/mimic/p19318312_s52651275_61e37767-24e0c15e-269d89a6-112f637e-fc56f84f.jpg,EW EMER.,F,21,No
+1360,/shared/rsaas/enyij2/mimic/p13555521_s54262418_06999a9f-82712b18-7e996407-669de103-1de6765f.jpg,EU OBSERVATION,M,50,No
+1361,/shared/rsaas/enyij2/mimic/p16165828_s56667734_bed51a7e-0976476e-2dac281f-056c661d-92ad3b04.jpg,EW EMER.,M,54,Yes
+1362,/shared/rsaas/enyij2/mimic/p13129811_s54680135_86757058-cf4f822b-4a619127-2c4f68d3-61c97315.jpg,OBSERVATION ADMIT,M,84,Yes
+1363,/shared/rsaas/enyij2/mimic/p10297774_s53986029_25aff504-96bc78b7-1882c34e-cbea5dae-a1d0323b.jpg,OBSERVATION ADMIT,M,62,Yes
+1364,/shared/rsaas/enyij2/mimic/p12890797_s59453960_fc9bfb81-f16b072d-ee713c34-b1cd11c0-35ddb380.jpg,EW EMER.,F,80,No
+1365,/shared/rsaas/enyij2/mimic/p11476759_s54643369_0f9ae2d7-d1527986-8980464d-8b26b310-d289bb64.jpg,AMBULATORY OBSERVATION,F,74,No
+1366,/shared/rsaas/enyij2/mimic/p16336633_s50132249_ffa304ef-035a0d7f-27006eeb-ccad60e0-acc81bdd.jpg,EW EMER.,M,72,Yes
+1367,/shared/rsaas/enyij2/mimic/p10667797_s51360092_d128af9d-6df80d17-a4d1356b-5d9fd7b3-630427be.jpg,EW EMER.,F,26,Yes
+1368,/shared/rsaas/enyij2/mimic/p12745539_s55047813_4f29eab0-c1183974-41002322-b51a84ea-8ee7e572.jpg,EW EMER.,F,46,No
+1369,/shared/rsaas/enyij2/mimic/p13640656_s56062281_541e5c4d-f3fffa51-62a7cb9c-c7bdd49e-e9ae015d.jpg,EW EMER.,M,69,Yes
+1370,/shared/rsaas/enyij2/mimic/p16582727_s56350103_72a365b2-a0e2d310-4fe86e01-c4882307-ffaf8622.jpg,EW EMER.,M,74,Yes
+1371,/shared/rsaas/enyij2/mimic/p11272182_s51287881_4951f028-f1392ac4-f07436df-e001c4a2-b1c0a41e.jpg,EW EMER.,F,71,No
+1372,/shared/rsaas/enyij2/mimic/p15311382_s55084451_d6a59b60-604fc023-99a3c8e3-482fc31d-9b3a9718.jpg,EW EMER.,M,31,No
+1373,/shared/rsaas/enyij2/mimic/p17370807_s53182267_b56f31e2-f0256e64-2cd6fea0-e3a5c7c8-800c34d6.jpg,OBSERVATION ADMIT,M,51,Yes
+1374,/shared/rsaas/enyij2/mimic/p18607018_s52853509_adc2f947-b76328c8-dcd058e7-f23b7dac-17e8afe1.jpg,DIRECT OBSERVATION,M,67,No
+1375,/shared/rsaas/enyij2/mimic/p18971051_s52465162_0c088f46-a898f4d0-f2c3ebaf-d0ebdf2f-26b6a95e.jpg,EW EMER.,F,86,No
+1376,/shared/rsaas/enyij2/mimic/p11995308_s55726367_a51bb590-221250b6-b42af2ba-672fac62-bb73b102.jpg,EW EMER.,F,32,No
+1377,/shared/rsaas/enyij2/mimic/p12781657_s57589686_8bb68c34-6ea358ea-3fee130c-4aba0448-26f3d360.jpg,EW EMER.,F,80,Yes
+1378,/shared/rsaas/enyij2/mimic/p14544923_s56306960_90cd8012-fef227d5-24bfa9ab-fc102db4-a342c714.jpg,OBSERVATION ADMIT,M,72,No
+1379,/shared/rsaas/enyij2/mimic/p11548762_s51813008_d9ef124b-5b28538b-587fd6d6-9c16f8d8-5ad69c3e.jpg,OBSERVATION ADMIT,M,77,No
+1380,/shared/rsaas/enyij2/mimic/p13697731_s59257373_522519c7-6ffd9912-ed22f659-6db43d50-880aeb3d.jpg,EW EMER.,M,21,Yes
+1381,/shared/rsaas/enyij2/mimic/p11948471_s51187478_50d664b0-8697f57c-9bc62362-57596736-865a9da2.jpg,URGENT,M,84,Yes
+1382,/shared/rsaas/enyij2/mimic/p19695682_s56689220_b70f604a-4f442d35-bd3c51c8-626493cf-1212ee3c.jpg,EU OBSERVATION,F,48,No
+1383,/shared/rsaas/enyij2/mimic/p16505223_s59646703_e232f5ca-75957cb0-394d29fa-d0b1006a-1333e86c.jpg,EW EMER.,M,83,Yes
+1384,/shared/rsaas/enyij2/mimic/p13963115_s56659962_f891e642-c1aa04c7-2bcd3e36-c53c3710-4189f49f.jpg,EW EMER.,M,21,Yes
+1385,/shared/rsaas/enyij2/mimic/p10884708_s52047569_154b609f-f2a6c4a1-75bffc8e-7ece0f2f-075e15d4.jpg,EW EMER.,F,42,Yes
+1386,/shared/rsaas/enyij2/mimic/p18055813_s52587670_c7a9d7b8-25bf3622-af5e2722-e979fd27-2e24fe7f.jpg,URGENT,F,35,No
+1387,/shared/rsaas/enyij2/mimic/p11995308_s57606328_5128f659-b20cb22d-2bb50c21-2d1fa7e7-41f316dd.jpg,EW EMER.,F,32,Yes
+1388,/shared/rsaas/enyij2/mimic/p10773423_s56962420_29518f76-64472951-81fd5b33-ca9bece1-f44d669b.jpg,EU OBSERVATION,F,62,No
+1389,/shared/rsaas/enyij2/mimic/p11957148_s50531291_3dc24923-e168b651-cec6cd70-047c8631-5595c631.jpg,EU OBSERVATION,M,71,Yes
+1390,/shared/rsaas/enyij2/mimic/p13091743_s53691912_ff214150-944ef524-7c70b410-4debc769-8502e99f.jpg,URGENT,M,85,No
+1391,/shared/rsaas/enyij2/mimic/p10768639_s50695601_e87bee81-73528bb9-5fd28415-4238a356-3fb917af.jpg,URGENT,M,67,Yes
+1392,/shared/rsaas/enyij2/mimic/p14513082_s50121297_f3163dbf-65178235-9393479c-57a37dcf-c9bef0a4.jpg,DIRECT EMER.,M,26,No
+1393,/shared/rsaas/enyij2/mimic/p13771452_s52939963_2f9076dc-4edc5e25-b6f83f20-4795a458-34218fad.jpg,EW EMER.,M,57,Yes
+1394,/shared/rsaas/enyij2/mimic/p14637324_s52548659_33beff64-21d1a7c6-53e44ddb-ab995196-a7eb77b9.jpg,EW EMER.,F,58,Yes
+1395,/shared/rsaas/enyij2/mimic/p19318312_s51207446_4701ffb3-12cc0729-67cd7379-b0a33d95-a5c38477.jpg,EW EMER.,F,21,No
+1396,/shared/rsaas/enyij2/mimic/p12781657_s50118118_6f0ceb27-1067240f-35368017-121fcf9b-e43dc444.jpg,EW EMER.,F,80,Yes
+1397,/shared/rsaas/enyij2/mimic/p15499413_s56858565_7b8dca71-2826638d-dea59b04-8eca5603-ac2663fd.jpg,EW EMER.,M,45,No
+1398,/shared/rsaas/enyij2/mimic/p15413099_s58373351_50c05c5c-c749b867-b930a124-dafcafbd-2295a1ac.jpg,EU OBSERVATION,F,23,No
+1399,/shared/rsaas/enyij2/mimic/p16699989_s50322455_b7c7c6ac-a2ed179d-98c5554c-a0d74539-af19bb76.jpg,AMBULATORY OBSERVATION,M,54,No
+1400,/shared/rsaas/enyij2/mimic/p10667797_s53150035_72c5ae53-e40c98d7-e25b51bf-af43d927-12f0fe0e.jpg,EW EMER.,F,26,Yes
+1401,/shared/rsaas/enyij2/mimic/p17776750_s59136574_0f4cd54c-98a34d66-55a98672-5c80e779-ed962f8e.jpg,OBSERVATION ADMIT,F,26,No
+1402,/shared/rsaas/enyij2/mimic/p16251322_s59598174_f95548ce-1fbd1f0a-06e88564-50377c62-a53abf2d.jpg,OBSERVATION ADMIT,M,83,Yes
+1403,/shared/rsaas/enyij2/mimic/p13071437_s51772527_a5f79d87-0a45f366-94497b0f-7f1a6f0a-1378740c.jpg,EW EMER.,M,48,No
+1404,/shared/rsaas/enyij2/mimic/p19571148_s56178754_bf14ddc0-ccc7f28d-b674fb96-c90e14cd-f1faec07.jpg,EW EMER.,M,19,No
+1405,/shared/rsaas/enyij2/mimic/p17624772_s57800456_196499f7-e2e25822-6826b1b6-1062333a-465af097.jpg,EU OBSERVATION,F,51,Yes
+1406,/shared/rsaas/enyij2/mimic/p14796094_s50722071_25e3c3cd-d7a866ec-b8235615-37120b8f-8ae2adb3.jpg,EW EMER.,M,18,Yes
+1407,/shared/rsaas/enyij2/mimic/p16112569_s54808870_725a21f3-76f6ef60-666cc0f7-2f20e42b-e6241073.jpg,EU OBSERVATION,M,42,No
+1408,/shared/rsaas/enyij2/mimic/p10884708_s52047569_6cc5ab09-f764f900-bb27e6aa-3dc06d29-6a325c43.jpg,EW EMER.,F,42,Yes
+1409,/shared/rsaas/enyij2/mimic/p14422685_s58489943_d42467eb-179644a5-df847194-e3aac6a7-415a4aba.jpg,DIRECT OBSERVATION,M,52,No
+1410,/shared/rsaas/enyij2/mimic/p12133889_s50268223_98f56394-fe1440b0-14f9af7a-08680b6a-aa511ba4.jpg,SURGICAL SAME DAY ADMISSION,F,51,No
+1411,/shared/rsaas/enyij2/mimic/p15956700_s53677975_ff57be14-da3fbc62-46d69896-e8114079-fe6f23ac.jpg,EW EMER.,M,52,No
+1412,/shared/rsaas/enyij2/mimic/p13961572_s56889410_724f94ec-4b00f761-18677ffd-4e8dea06-d5f37141.jpg,EU OBSERVATION,F,54,No
+1413,/shared/rsaas/enyij2/mimic/p10938464_s56097213_d99f5567-002691fe-02d681e5-0a226d8e-5293b6a7.jpg,DIRECT EMER.,M,65,Yes
+1414,/shared/rsaas/enyij2/mimic/p17438670_s51737098_b11571fa-71669ace-4c04a273-6a6446b8-e5bb0d16.jpg,EU OBSERVATION,F,78,Yes
+1415,/shared/rsaas/enyij2/mimic/p15748313_s52840673_c8f55829-633b7431-83de7cba-d6cd4364-628ebd47.jpg,OBSERVATION ADMIT,F,59,Yes
+1416,/shared/rsaas/enyij2/mimic/p11318785_s54580625_af08bc9d-0885a1e4-7b50972e-e3ef3558-49ba72f3.jpg,EU OBSERVATION,M,65,No
+1417,/shared/rsaas/enyij2/mimic/p18784631_s50822744_51c712f9-227d17d3-b3d4b442-1b7d7f51-b36e4d78.jpg,EU OBSERVATION,F,42,No
+1418,/shared/rsaas/enyij2/mimic/p15871582_s54275311_3d432cd5-c123d528-76ec459e-0cc3dacb-bb5e8f0c.jpg,EU OBSERVATION,F,81,No
+1419,/shared/rsaas/enyij2/mimic/p18890273_s57408741_865e36eb-9af0c623-f7842885-430c4dfd-615ea03f.jpg,EW EMER.,F,72,No
+1420,/shared/rsaas/enyij2/mimic/p18799590_s53679185_dfce4bfe-27082ce3-5c50a206-9ae52cf5-8a811b47.jpg,EW EMER.,F,85,No
+1421,/shared/rsaas/enyij2/mimic/p14237047_s52458378_53ccbe90-55ce291c-bd6355de-607fc07d-1cd19f0f.jpg,EW EMER.,M,83,Yes
+1422,/shared/rsaas/enyij2/mimic/p10713800_s54135544_81c29ff5-b0e9685d-4b27c9e2-c929a5f6-188c91d7.jpg,DIRECT EMER.,F,25,No
+1423,/shared/rsaas/enyij2/mimic/p16931776_s55012310_5848bbc1-5d73e283-52396024-2b50fc40-375ada3d.jpg,EU OBSERVATION,M,51,Yes
+1424,/shared/rsaas/enyij2/mimic/p14637324_s57831502_3e056268-01c3414d-8c6f73d4-da3fce14-f69e8224.jpg,EW EMER.,F,58,Yes
+1425,/shared/rsaas/enyij2/mimic/p11948471_s50392506_840dbc4a-14617ca8-5bf77e50-d818ca98-72ab29a9.jpg,URGENT,M,84,Yes
+1426,/shared/rsaas/enyij2/mimic/p12261945_s56412080_95a82dce-df454440-6a7909bc-f8d60742-57396b90.jpg,ELECTIVE,F,77,Yes
+1427,/shared/rsaas/enyij2/mimic/p17470410_s55575323_7ce7aaa2-93c2ba36-f8a32c30-56775b1c-c9c79984.jpg,EU OBSERVATION,F,63,Yes
+1428,/shared/rsaas/enyij2/mimic/p14847272_s50307932_332d95b8-75feb120-4733a440-4f7052ce-55293eb2.jpg,EW EMER.,M,68,Yes
+1429,/shared/rsaas/enyij2/mimic/p15311382_s52025409_eda67219-3d5ca045-92fb6a48-df8579cd-4452792d.jpg,EW EMER.,M,31,No
+1430,/shared/rsaas/enyij2/mimic/p18631431_s52324991_869bc497-10f1c468-8d76c998-d04e1afb-0ef7490c.jpg,EW EMER.,M,51,No
+1431,/shared/rsaas/enyij2/mimic/p11495809_s55768751_577a011f-29ab1501-3710ec3a-ca49f96c-b10ca21e.jpg,URGENT,M,79,Yes
+1432,/shared/rsaas/enyij2/mimic/p13697731_s50164690_993c8132-17e3d755-49ef20a1-5d3b897d-f1bc51f2.jpg,EW EMER.,M,21,Yes
+1433,/shared/rsaas/enyij2/mimic/p13985594_s51346314_7b65029e-eab18710-d516b3de-e0d88769-6a6a9c7c.jpg,EU OBSERVATION,F,69,No
+1434,/shared/rsaas/enyij2/mimic/p15070162_s55589293_9be7a3f9-4b5dfc8c-3979a693-5eb36464-581093c5.jpg,OBSERVATION ADMIT,F,53,No
+1435,/shared/rsaas/enyij2/mimic/p10506015_s52385680_82b13a50-a56eab3b-0cd7ccc6-d8f3394b-61104e92.jpg,EW EMER.,M,25,No
+1436,/shared/rsaas/enyij2/mimic/p11948471_s58002549_947d6620-ed7093cc-f1c63c2a-96eb14ee-f42216a0.jpg,URGENT,M,84,Yes
+1437,/shared/rsaas/enyij2/mimic/p10336400_s57387168_6d91d4c7-bc8c36b0-49296fb5-cbd6fc46-71c2d5a6.jpg,AMBULATORY OBSERVATION,F,49,No
+1438,/shared/rsaas/enyij2/mimic/p19299595_s54032506_dc9d248e-1832a175-7af21316-aac09eda-c25959cf.jpg,EU OBSERVATION,M,43,No
+1439,/shared/rsaas/enyij2/mimic/p10226496_s50351058_a3086472-b526e056-18162402-b748f3c4-56da4ca1.jpg,EW EMER.,M,73,Yes
+1440,/shared/rsaas/enyij2/mimic/p11613280_s54133752_e3fd71c3-73b6d8be-2732bfb4-a1c36cba-ba1e9557.jpg,URGENT,F,36,No
+1441,/shared/rsaas/enyij2/mimic/p10469134_s56854033_bf32ff26-40fb3b44-c88bebec-d9f70327-f0b07f77.jpg,EU OBSERVATION,M,79,No
+1442,/shared/rsaas/enyij2/mimic/p19040450_s50569599_de743d0e-9e3a93bb-c6a21c2d-0353b7c9-a7766290.jpg,URGENT,F,46,No
+1443,/shared/rsaas/enyij2/mimic/p13310579_s55492063_ee5def36-5eb74e9b-d41894cb-8d87a599-256a31c7.jpg,EW EMER.,M,76,No
+1444,/shared/rsaas/enyij2/mimic/p11814469_s51335400_168f71e5-688ce9d1-9dce8db3-8f25349b-76889cba.jpg,SURGICAL SAME DAY ADMISSION,M,57,No
+1445,/shared/rsaas/enyij2/mimic/p18906643_s57135264_742a919c-4e4a6e34-f49de182-4a0dafcf-8b3c101b.jpg,EW EMER.,F,61,No
+1446,/shared/rsaas/enyij2/mimic/p14490385_s55935665_8df7bcb7-ab641b52-4ede69a2-7dc17f54-05dc6bf1.jpg,EU OBSERVATION,M,66,Yes
+1447,/shared/rsaas/enyij2/mimic/p17914007_s58690411_4ad86567-d38a2eb3-7cf6987d-307de250-5e1a3d23.jpg,DIRECT EMER.,M,82,Yes
+1448,/shared/rsaas/enyij2/mimic/p13001519_s52170465_7614d3b6-a15f7d11-a66983ed-dcb7a1a7-da344c22.jpg,EU OBSERVATION,M,48,No
+1449,/shared/rsaas/enyij2/mimic/p14439892_s57413117_c9d77606-0b1889cb-3c93ed5b-a267b89b-059b3d69.jpg,OBSERVATION ADMIT,M,52,No
+1450,/shared/rsaas/enyij2/mimic/p15311382_s52025409_3abb5984-c0750cd5-4049fd7b-dee5cf31-74d51a20.jpg,EW EMER.,M,31,No
+1451,/shared/rsaas/enyij2/mimic/p17182534_s54014440_22d647b3-f0d99a02-c9cf5de0-b6f0ed99-22e33612.jpg,DIRECT OBSERVATION,M,77,No
+1452,/shared/rsaas/enyij2/mimic/p16369888_s58768181_e91e4097-ab502be9-bb9f8074-339d4d70-88b0bc04.jpg,EW EMER.,F,66,No
+1453,/shared/rsaas/enyij2/mimic/p10948410_s56232729_65c0038d-58f8e368-9ccec9eb-97f1a276-82f28cd7.jpg,EU OBSERVATION,F,34,No
+1454,/shared/rsaas/enyij2/mimic/p11822137_s55791322_b6795503-0e05a21a-7c3d4cb1-8b815498-fa774e1b.jpg,EW EMER.,F,58,Yes
+1455,/shared/rsaas/enyij2/mimic/p12362160_s53114392_e8650b05-114a5039-d83c8e10-1bc0a4cf-6ca8f1a2.jpg,EW EMER.,M,49,Yes
+1456,/shared/rsaas/enyij2/mimic/p13026797_s57340902_5502ec48-81440ea2-58cc004b-51c11eb5-ea34ee60.jpg,EW EMER.,M,62,Yes
+1457,/shared/rsaas/enyij2/mimic/p19454978_s53537107_854781b3-f371e22e-df201d6f-78f736e1-07330978.jpg,EU OBSERVATION,F,80,No
+1458,/shared/rsaas/enyij2/mimic/p15653759_s59582471_1565d7ed-0f5e56d7-0d4cc18d-d5c15e5e-059c462e.jpg,EW EMER.,F,36,No
+1459,/shared/rsaas/enyij2/mimic/p15689523_s50191563_f6a73b1d-cc9a4203-4052fe23-1a321f52-3f4fcc89.jpg,URGENT,M,66,Yes
+1460,/shared/rsaas/enyij2/mimic/p10728720_s54792083_ce8d05b8-d78c72b9-b66e6d3d-bd6fb962-c3da61f7.jpg,URGENT,F,35,No
+1461,/shared/rsaas/enyij2/mimic/p17302021_s54886667_a7b2360a-51a1d662-06afece8-5d11b64b-088479bb.jpg,EW EMER.,F,45,No
+1462,/shared/rsaas/enyij2/mimic/p10432862_s50486224_1c4dd2bd-46fb5435-73cf9531-1bf7fa0e-2f69a97b.jpg,EW EMER.,M,51,Yes
+1463,/shared/rsaas/enyij2/mimic/p17795701_s51002475_a1880a74-02f3100d-d3163882-247915e5-6fd3dd4e.jpg,SURGICAL SAME DAY ADMISSION,M,45,Yes
+1464,/shared/rsaas/enyij2/mimic/p13697731_s52951166_a8c28880-6e6324c8-f3907714-e9830ce9-faeb1f67.jpg,EW EMER.,M,21,Yes
+1465,/shared/rsaas/enyij2/mimic/p15258666_s58363743_5752c9ee-0dd8eaf4-97473e6f-13baab17-7a9e428e.jpg,OBSERVATION ADMIT,M,80,No
+1466,/shared/rsaas/enyij2/mimic/p16701608_s50900363_95fd493f-b371c5ab-5d0918e9-5caf4614-ce8cb1eb.jpg,EW EMER.,F,91,Yes
+1467,/shared/rsaas/enyij2/mimic/p17556194_s51170010_cbd5fde4-4e076388-90c11101-d10d0fbf-e3e4c33b.jpg,DIRECT OBSERVATION,F,73,No
+1468,/shared/rsaas/enyij2/mimic/p14517807_s59594399_eac65c1d-a5aac631-79b75d63-51f8c02d-8f9f0dbd.jpg,EW EMER.,M,55,Yes
+1469,/shared/rsaas/enyij2/mimic/p13054457_s58473180_5a2a45f2-0533d2a6-8d38f808-e4103276-de152fd3.jpg,EW EMER.,M,73,Yes
+1470,/shared/rsaas/enyij2/mimic/p15989444_s51732923_5482b1ac-296fc78d-7111d208-775a4478-d3b87658.jpg,SURGICAL SAME DAY ADMISSION,M,55,No
+1471,/shared/rsaas/enyij2/mimic/p17708076_s52723692_d9f67dfb-78e2c207-76da933c-c73d87da-a44ebb3e.jpg,EW EMER.,F,73,No
+1472,/shared/rsaas/enyij2/mimic/p11166655_s58716397_1dbc6a9b-c50610f9-71101cf5-e20ebd34-3fd982ff.jpg,OBSERVATION ADMIT,M,66,No
+1473,/shared/rsaas/enyij2/mimic/p10988210_s54077810_9e5ddca4-d26388cc-d80dcfeb-86a89314-7806c4de.jpg,EW EMER.,M,72,No
+1474,/shared/rsaas/enyij2/mimic/p16355261_s52737440_f015f545-32ac2bc8-80898f7a-ef4dc851-0782952a.jpg,EU OBSERVATION,F,18,No
+1475,/shared/rsaas/enyij2/mimic/p19595171_s53397021_4d40b22f-f3244ced-bb3d4f48-7a2ceebe-7718beee.jpg,EU OBSERVATION,M,21,No
+1476,/shared/rsaas/enyij2/mimic/p14984395_s52231249_0717b930-c4a1e5e8-3901f118-b117d435-a1fa5e28.jpg,DIRECT EMER.,F,77,Yes
+1477,/shared/rsaas/enyij2/mimic/p13601656_s57882924_53e5893b-e3cac38b-341c5cd3-6f65380d-aeacfb42.jpg,EW EMER.,M,63,Yes
+1478,/shared/rsaas/enyij2/mimic/p13498162_s54810651_52abff0e-41e5adc5-10cb886a-3f8c8933-6d884d93.jpg,SURGICAL SAME DAY ADMISSION,M,58,No
+1479,/shared/rsaas/enyij2/mimic/p17964648_s56685087_84dff777-eb58692b-2223529d-585bd661-67d7d4da.jpg,EW EMER.,F,81,Yes
+1480,/shared/rsaas/enyij2/mimic/p16515878_s54837874_e68536b1-b69edd14-de3ee183-5534263d-6446aede.jpg,OBSERVATION ADMIT,M,44,Yes
+1481,/shared/rsaas/enyij2/mimic/p19238269_s56435231_952b1394-95a2842d-f4e724a8-4cf7f4c6-86274669.jpg,URGENT,F,19,No
+1482,/shared/rsaas/enyij2/mimic/p19777911_s55003746_7055c423-dbded9a9-ff56a53f-f0f73400-0c351c28.jpg,DIRECT EMER.,F,61,No
+1483,/shared/rsaas/enyij2/mimic/p10298228_s53475248_07781dcd-e82846d0-45dcd396-6ef1002b-7b237a33.jpg,OBSERVATION ADMIT,M,30,Yes
+1484,/shared/rsaas/enyij2/mimic/p10537484_s51390511_89ec1e6f-ae1769c5-c0e2f98e-e78905ba-1adae7c2.jpg,EW EMER.,M,20,Yes
+1485,/shared/rsaas/enyij2/mimic/p10884708_s51829281_19e5933b-7fef475a-bd613068-e239f062-3198ab05.jpg,EW EMER.,F,42,No
+1486,/shared/rsaas/enyij2/mimic/p13891700_s57646061_9db93342-c05c0d7c-9452488e-5cd7eb3c-f7a7a0a3.jpg,EW EMER.,M,50,Yes
+1487,/shared/rsaas/enyij2/mimic/p17080143_s56604538_0e1ece55-de2da40a-142f1573-3d55eb19-ba702973.jpg,EW EMER.,F,61,Yes
+1488,/shared/rsaas/enyij2/mimic/p14984395_s51269205_db7da01f-4a86cac3-1fc4797a-69f79820-302a26bd.jpg,DIRECT EMER.,F,77,Yes
+1489,/shared/rsaas/enyij2/mimic/p10116099_s55167428_8f653b72-a571db8e-3b026444-216975ac-d52ac7ad.jpg,EW EMER.,M,72,Yes
+1490,/shared/rsaas/enyij2/mimic/p10070614_s58864875_a3ea5aeb-1b2e2a8c-8b91e7ec-107689de-6e13e98d.jpg,AMBULATORY OBSERVATION,M,61,Yes
+1491,/shared/rsaas/enyij2/mimic/p18510534_s59633089_0e1fb792-9b34a74b-7df24328-492a9e52-40aea1db.jpg,OBSERVATION ADMIT,F,74,No
+1492,/shared/rsaas/enyij2/mimic/p18299362_s58104683_40afdbeb-e9bcdc56-3d29dad0-43eecc2b-99f65d82.jpg,DIRECT EMER.,M,70,No
+1493,/shared/rsaas/enyij2/mimic/p19050535_s57633031_6c15564a-50d9db99-ec02dd5e-90011778-f8c0b408.jpg,ELECTIVE,M,70,No
+1494,/shared/rsaas/enyij2/mimic/p19063497_s52901626_91b05cc4-421ed5c8-83164f43-b8be2082-52229bd6.jpg,EW EMER.,F,86,No
+1495,/shared/rsaas/enyij2/mimic/p13458905_s55629599_d7d3effb-4354e523-4731d5d0-f6282a3a-1c517730.jpg,URGENT,M,86,Yes
+1496,/shared/rsaas/enyij2/mimic/p17937834_s53103972_0243d553-53d694b6-67b76faf-02d9fb4d-2db7a49b.jpg,EW EMER.,M,34,Yes
+1497,/shared/rsaas/enyij2/mimic/p12175657_s57786807_56de7ae4-61d2a137-e757c66c-dfe6cccc-95e80f8d.jpg,OBSERVATION ADMIT,M,40,No
+1498,/shared/rsaas/enyij2/mimic/p14796094_s58317124_0fcd8757-305effe3-256cd2ab-92f8dbc3-a830b6b3.jpg,EW EMER.,M,18,Yes
+1499,/shared/rsaas/enyij2/mimic/p15425143_s56929064_aaba892a-7553a203-1bee41a6-a3bbe2b4-23dfb4d4.jpg,EU OBSERVATION,M,77,No
+1500,/shared/rsaas/enyij2/mimic/p10336400_s57387168_891fb0f0-258073fb-65a7ed60-42609080-99c1ac7f.jpg,AMBULATORY OBSERVATION,F,49,No
+1501,/shared/rsaas/enyij2/mimic/p17535738_s51877735_b643c5ac-1d9766b6-b61695e2-2a2f3e39-9de465b3.jpg,EU OBSERVATION,M,73,Yes
+1502,/shared/rsaas/enyij2/mimic/p10393792_s51272583_68c9dcb9-0cc477ca-d58ca6cd-4d86e66c-90ac1a88.jpg,EW EMER.,F,41,No
+1503,/shared/rsaas/enyij2/mimic/p15871582_s57311303_c4acf772-4b335800-2c14ae7d-97cd180c-32e7a377.jpg,EU OBSERVATION,F,81,No
+1504,/shared/rsaas/enyij2/mimic/p16446532_s56923771_f56e7833-d6742377-0c68f7ea-3fb57a8d-e6aeabf6.jpg,EW EMER.,M,64,Yes
+1505,/shared/rsaas/enyij2/mimic/p17400716_s53138124_ad174b95-77178a4f-5fa02ede-57cfb44f-c6b04938.jpg,EU OBSERVATION,F,77,Yes
+1506,/shared/rsaas/enyij2/mimic/p18038802_s54265103_2cfc2f5f-835e087d-0380d911-86005a05-fd2fcba9.jpg,URGENT,F,35,No
+1507,/shared/rsaas/enyij2/mimic/p19044279_s55084674_e60caeeb-48aa666c-a2c22a4c-cb9cdf98-ffc6a2d2.jpg,EU OBSERVATION,F,51,No
+1508,/shared/rsaas/enyij2/mimic/p11001738_s57570438_690b9c4e-819f4c91-77c282ab-8810dd60-abe2404b.jpg,OBSERVATION ADMIT,F,55,Yes
+1509,/shared/rsaas/enyij2/mimic/p13010793_s55312899_d32c3da1-72bd8d03-8e84291d-0680e884-5334ddd0.jpg,OBSERVATION ADMIT,M,70,Yes
+1510,/shared/rsaas/enyij2/mimic/p15198376_s51680539_c0abc1d6-c2322fb0-1e964d73-9159ad45-b7272b82.jpg,EU OBSERVATION,M,51,Yes
+1511,/shared/rsaas/enyij2/mimic/p15323374_s57499720_1b587f4a-9b32e6dc-b02f2050-1a4aeb07-a5176179.jpg,EW EMER.,F,45,Yes
+1512,/shared/rsaas/enyij2/mimic/p17556194_s55442092_31cb3734-177ca5b7-5cbd117e-7bdcaa3d-4886f83f.jpg,DIRECT OBSERVATION,F,73,No
+1513,/shared/rsaas/enyij2/mimic/p18547690_s50789715_c1ba967d-7d3bbb84-0cf5a875-a997a986-8ded5c07.jpg,EU OBSERVATION,M,44,No
+1514,/shared/rsaas/enyij2/mimic/p17894020_s57708637_7adfaf3f-43db5756-88c8f73f-4095fc03-9c493a3d.jpg,URGENT,F,78,Yes
+1515,/shared/rsaas/enyij2/mimic/p11768345_s54510841_6e21cbf3-dd805263-3d6643c1-acca66fe-7886d130.jpg,EU OBSERVATION,F,64,No
+1516,/shared/rsaas/enyij2/mimic/p12586066_s54119747_640738a6-6a25d994-fabdc39f-216eea46-40865b0a.jpg,EW EMER.,F,38,Yes
+1517,/shared/rsaas/enyij2/mimic/p14151932_s54985821_b3a3e904-41e382bd-a45e49ae-7ad1221e-be006f36.jpg,EW EMER.,M,81,Yes
+1518,/shared/rsaas/enyij2/mimic/p19600893_s50432144_c39b2135-6646a0cb-80cf6522-ce1f637e-e318c594.jpg,EU OBSERVATION,F,74,No
+1519,/shared/rsaas/enyij2/mimic/p12452180_s59980826_a632e983-0272a062-74f06eae-19ad5ed0-a55f2a95.jpg,OBSERVATION ADMIT,M,69,No
+1520,/shared/rsaas/enyij2/mimic/p13188070_s50843197_38eb4926-ebf7f215-b5781dd6-65e5f9b5-e78646cc.jpg,EU OBSERVATION,M,51,Yes
+1521,/shared/rsaas/enyij2/mimic/p13813219_s58027931_5b0d5bed-7b1ec418-08ef1c5e-3899e7d6-e2787284.jpg,EW EMER.,F,87,Yes
+1522,/shared/rsaas/enyij2/mimic/p15816738_s51241446_bd6022ab-8ebc9811-6f49965a-3e9a4d10-7bbd41af.jpg,EW EMER.,F,53,No
+1523,/shared/rsaas/enyij2/mimic/p19621765_s50588811_8b891db9-df843e2c-42a7d776-907ce41a-6d829f15.jpg,URGENT,M,76,No
+1524,/shared/rsaas/enyij2/mimic/p10074908_s53728997_7e2d78fc-4fde9bc6-366f0736-c7ed7ae1-fa1b70d5.jpg,SURGICAL SAME DAY ADMISSION,F,73,No
+1525,/shared/rsaas/enyij2/mimic/p17556194_s57339515_6a45ac57-b9bdf785-7ed09e8a-401407e0-05adea7b.jpg,DIRECT OBSERVATION,F,73,No
+1526,/shared/rsaas/enyij2/mimic/p11198012_s57087607_07c12ca8-cde0cbfa-c5ae9795-41083c40-fbc7b2bf.jpg,EW EMER.,M,49,Yes
+1527,/shared/rsaas/enyij2/mimic/p10640977_s53619328_49500c5f-b094404e-46b7a3a9-929ccc4a-19e4a08b.jpg,EW EMER.,F,76,Yes
+1528,/shared/rsaas/enyij2/mimic/p15906963_s53175140_dbf27e4b-81833738-f8d0166b-a25fcd39-76bbe168.jpg,EW EMER.,M,77,Yes
+1529,/shared/rsaas/enyij2/mimic/p10352302_s57050566_c07ad5e9-cbb529fd-5e27db4f-67732111-6cffa59a.jpg,EW EMER.,F,54,No
+1530,/shared/rsaas/enyij2/mimic/p13241244_s57585122_897960d0-aeca73ee-c662c201-eabaea1a-e20c8d24.jpg,SURGICAL SAME DAY ADMISSION,M,58,Yes
+1531,/shared/rsaas/enyij2/mimic/p15875150_s54219394_727eacf0-772fe7d8-a103a3c8-838bbda1-759578e1.jpg,DIRECT OBSERVATION,M,54,Yes
+1532,/shared/rsaas/enyij2/mimic/p10747648_s55452973_77edc826-87ee5b79-1e8b16f1-ed883414-6f60a39c.jpg,EU OBSERVATION,M,59,No
+1533,/shared/rsaas/enyij2/mimic/p17197822_s51219076_440679d3-2d6d1e79-7c594c7d-df90b62e-a6b1e6ba.jpg,EW EMER.,F,87,No
+1534,/shared/rsaas/enyij2/mimic/p11154475_s51979954_11df815f-ab53801d-3dd2afe9-f5864953-ba7aa432.jpg,EW EMER.,M,25,No
+1535,/shared/rsaas/enyij2/mimic/p17967970_s51938764_33ebe667-ce0bd946-2ffea234-097960f8-b012d754.jpg,SURGICAL SAME DAY ADMISSION,F,78,No
+1536,/shared/rsaas/enyij2/mimic/p12320125_s57997530_d368c383-400dcae4-8b9ba2df-7e30a1a0-8674a399.jpg,EU OBSERVATION,F,57,No
+1537,/shared/rsaas/enyij2/mimic/p11453884_s53318775_e6416f4d-a4b7be5e-e32367a2-58f1d9a0-94eaff2c.jpg,SURGICAL SAME DAY ADMISSION,F,58,No
+1538,/shared/rsaas/enyij2/mimic/p10962025_s55114189_5860f31a-f31dd07e-18c6cdef-6e5c05cb-ffd5a7f6.jpg,EU OBSERVATION,F,50,No
+1539,/shared/rsaas/enyij2/mimic/p13188070_s59624687_c8b2ff4f-b65cb5f7-c4aadc55-4a70dad2-5d29738e.jpg,EU OBSERVATION,M,51,Yes
+1540,/shared/rsaas/enyij2/mimic/p13234429_s53632606_fbc6941a-7c8dd1d9-98a6dd01-abf190fd-6463f46b.jpg,OBSERVATION ADMIT,F,64,Yes
+1541,/shared/rsaas/enyij2/mimic/p14151932_s50775678_19a7f5bb-9725c157-0cd5737d-4960bc7d-1b839900.jpg,EW EMER.,M,81,Yes
+1542,/shared/rsaas/enyij2/mimic/p16582727_s58155582_4870771e-aedfaee6-4dbe6a23-d657dcf2-c77aa151.jpg,EW EMER.,M,74,Yes
+1543,/shared/rsaas/enyij2/mimic/p14601198_s52312547_a712afc7-5169d973-3b247587-36f1613b-e5beb478.jpg,OBSERVATION ADMIT,F,25,No
+1544,/shared/rsaas/enyij2/mimic/p13646475_s59253888_e2ce7fd6-7d1d33a5-1d86917f-1c99a3fe-13371790.jpg,EW EMER.,F,48,Yes
+1545,/shared/rsaas/enyij2/mimic/p16334734_s57373067_6c068cef-98b214c4-40bcd9b4-fbb3cb14-218e0c0e.jpg,URGENT,F,77,Yes
+1546,/shared/rsaas/enyij2/mimic/p11948471_s51662137_f48bf424-a6368c9e-0b419285-931237ba-f4e8094f.jpg,URGENT,M,84,No
+1547,/shared/rsaas/enyij2/mimic/p16762104_s51919586_4d6628d3-3b8ca10f-ae6bdeee-46f0e516-9a6f9b1c.jpg,EU OBSERVATION,F,70,Yes
+1548,/shared/rsaas/enyij2/mimic/p14748360_s55435838_3a9a88ac-b5de22bb-44c263a2-bc8427db-2aeaca5d.jpg,EU OBSERVATION,F,78,No
+1549,/shared/rsaas/enyij2/mimic/p12856213_s56747761_c0f32da1-02e629ab-121fa825-88856983-920ac36f.jpg,OBSERVATION ADMIT,M,24,No
+1550,/shared/rsaas/enyij2/mimic/p12535940_s58086744_d520bfbd-72f5f062-a366e9d8-452be2f0-72241aea.jpg,EU OBSERVATION,F,76,Yes
+1551,/shared/rsaas/enyij2/mimic/p12370706_s59468562_92b7a622-ce98bb00-5e01809e-9e1f10d5-6af8f226.jpg,EW EMER.,F,70,Yes
+1552,/shared/rsaas/enyij2/mimic/p13581561_s53866476_a681fded-7de897d6-6163029e-53b498e3-4edd2145.jpg,EW EMER.,M,76,No
+1553,/shared/rsaas/enyij2/mimic/p19777911_s57760889_9534fb4d-2f2f1b5c-ff3e1a9d-0e2fa100-4e3a1c4b.jpg,DIRECT EMER.,F,61,No
+1554,/shared/rsaas/enyij2/mimic/p19164806_s53985146_63de42f5-12ceeb9e-fb9e4c85-aeaf0bc0-50fd120a.jpg,EU OBSERVATION,M,84,No
+1555,/shared/rsaas/enyij2/mimic/p16105600_s52683292_c7c7b3e0-536cb95f-c95586da-7f81c11a-26f7747c.jpg,EW EMER.,F,57,No
+1556,/shared/rsaas/enyij2/mimic/p14347948_s54478443_7949157e-aaa1c7a9-a313832d-1830d790-2cdade48.jpg,EW EMER.,F,62,Yes
+1557,/shared/rsaas/enyij2/mimic/p14895079_s53683636_43450fcb-df2d7c2e-a78f03c1-bdd0c98a-2bd05ffb.jpg,DIRECT EMER.,F,57,Yes
+1558,/shared/rsaas/enyij2/mimic/p10744371_s50122670_ca8c6e10-29d85813-be9ed9a4-9be4df4d-6937fc0e.jpg,EW EMER.,F,64,No
+1559,/shared/rsaas/enyij2/mimic/p14637100_s51046123_d738d28f-b2e9f8a5-d35306d5-60d17a8c-1bbd5881.jpg,EW EMER.,F,63,Yes
+1560,/shared/rsaas/enyij2/mimic/p11600310_s56092308_25ba7087-228a3dae-99ae0a05-15c52d8c-5d00b034.jpg,EW EMER.,F,64,No
+1561,/shared/rsaas/enyij2/mimic/p10266720_s50086558_5dd2e8f9-1fdda5d2-4d8daa1b-7880c533-aa71b6cf.jpg,EW EMER.,M,65,No
+1562,/shared/rsaas/enyij2/mimic/p12207593_s56369155_7f124ef7-a1714162-b7e9da18-5862d297-3fd8f3a9.jpg,EW EMER.,M,43,Yes
+1563,/shared/rsaas/enyij2/mimic/p15270439_s53645823_6b0a402e-8723b48a-a0f2c3d7-7296d6b0-a27e264c.jpg,EU OBSERVATION,M,46,No
+1564,/shared/rsaas/enyij2/mimic/p13115959_s58296422_c09c9cb4-68348d08-0e6cde45-ee4a912e-b5983589.jpg,OBSERVATION ADMIT,F,91,No
+1565,/shared/rsaas/enyij2/mimic/p14197240_s56322761_fea8f278-8d49944d-075db028-f53eb71f-085ed519.jpg,EW EMER.,M,78,No
+1566,/shared/rsaas/enyij2/mimic/p15259244_s58464159_93c7dad2-501ec9ee-b423b86d-71f2b828-1e3f0573.jpg,EW EMER.,F,57,Yes
+1567,/shared/rsaas/enyij2/mimic/p10995091_s58237245_d940ddd1-24a4d0cf-dedce5ae-93d234fd-46715160.jpg,EW EMER.,F,63,No
+1568,/shared/rsaas/enyij2/mimic/p14937006_s53378774_77e1f446-3f53c074-2987754e-02d84047-f672d42b.jpg,EW EMER.,M,81,No
+1569,/shared/rsaas/enyij2/mimic/p10679708_s56177570_508e0ef4-eb5f37d1-d8a9e62b-a25a6585-049f90c7.jpg,SURGICAL SAME DAY ADMISSION,F,74,Yes
+1570,/shared/rsaas/enyij2/mimic/p14121990_s53682399_51c7e27b-220018be-2dc1a7ae-38ce9dff-09118af5.jpg,EU OBSERVATION,F,63,Yes
+1571,/shared/rsaas/enyij2/mimic/p11981211_s58647509_58f8be5a-a359e660-8d7e3fed-c47583ff-cf0ebeb2.jpg,EW EMER.,F,81,No
+1572,/shared/rsaas/enyij2/mimic/p14989847_s53782643_0e5e9b11-af5be897-4ae327d5-f11a0d4a-68019906.jpg,EU OBSERVATION,F,73,No
+1573,/shared/rsaas/enyij2/mimic/p14984395_s57698336_cd270431-9ba15d23-069329e7-5acfb7c8-86dc0a00.jpg,DIRECT EMER.,F,77,Yes
+1574,/shared/rsaas/enyij2/mimic/p15800920_s55197779_45bc55ce-d46a4152-193b91e5-32c8a18a-3991c179.jpg,EW EMER.,M,63,Yes
+1575,/shared/rsaas/enyij2/mimic/p16566006_s59606288_f8b39bc0-6dc93b01-5edf9070-93482f67-21c182e4.jpg,EW EMER.,M,75,Yes
+1576,/shared/rsaas/enyij2/mimic/p17182534_s54840940_d2123262-86fe6903-3839176d-99e2aec2-a5a00fff.jpg,DIRECT OBSERVATION,M,77,No
+1577,/shared/rsaas/enyij2/mimic/p19551627_s57958195_f181ffeb-421d6074-dbb643c4-f214a2d2-30b8b5c5.jpg,URGENT,F,51,No
+1578,/shared/rsaas/enyij2/mimic/p15906963_s56202537_39b36005-f92d0a00-487e85b1-5b38985e-e2b674dd.jpg,EW EMER.,M,77,Yes
+1579,/shared/rsaas/enyij2/mimic/p17967970_s53413629_58a21dce-722d926d-916dfff2-90e32bbd-2bd70eb9.jpg,SURGICAL SAME DAY ADMISSION,F,78,Yes
+1580,/shared/rsaas/enyij2/mimic/p10336400_s55110118_8f43d1e4-570d938c-d3f728ea-8b9a23d7-c4d1250c.jpg,AMBULATORY OBSERVATION,F,49,No
+1581,/shared/rsaas/enyij2/mimic/p11253678_s56400800_47a8d60f-28d7d947-3d02830b-b0612638-1c4328c1.jpg,EU OBSERVATION,F,61,No
+1582,/shared/rsaas/enyij2/mimic/p11452424_s52004901_babb9aff-dd588029-79b75542-ed6528fa-92117e1d.jpg,EW EMER.,M,86,Yes
+1583,/shared/rsaas/enyij2/mimic/p11288709_s54666676_88b85b9b-6f0cca6f-020731de-6442f43d-8d512b19.jpg,EW EMER.,F,60,No
+1584,/shared/rsaas/enyij2/mimic/p10906758_s59899430_75cb7672-66b862f7-841a194b-6afc34aa-5c60a6eb.jpg,EU OBSERVATION,M,60,No
+1585,/shared/rsaas/enyij2/mimic/p18591903_s59491818_3b21b9d9-11e096cc-da02caf3-924c9699-9481191c.jpg,EW EMER.,F,69,No
+1586,/shared/rsaas/enyij2/mimic/p19045192_s54353558_3694d980-dfbab221-6c09fb9f-436a7848-8fc1c1f9.jpg,OBSERVATION ADMIT,F,83,No
+1587,/shared/rsaas/enyij2/mimic/p11038929_s57495837_61b43d18-ea87be13-0914942c-dbb04dd8-459b56eb.jpg,EW EMER.,M,69,Yes
+1588,/shared/rsaas/enyij2/mimic/p15906963_s54720256_a285a6fa-6a994b65-98eca33f-858a3b89-cba9bcdb.jpg,EW EMER.,M,77,Yes
+1589,/shared/rsaas/enyij2/mimic/p12745539_s54407442_cd04d427-b121d079-4eed726c-7debfe3b-351c7404.jpg,EW EMER.,F,46,No
+1590,/shared/rsaas/enyij2/mimic/p17493890_s59967914_46fb57df-25cb4435-76ba1795-cada70e5-bab2c6eb.jpg,EU OBSERVATION,M,31,No
+1591,/shared/rsaas/enyij2/mimic/p10943603_s54287521_a4631eb7-2b414d6c-4a221f6a-f4fd703c-e3d82f8f.jpg,EW EMER.,F,79,Yes
+1592,/shared/rsaas/enyij2/mimic/p17828566_s55886481_f37b2e46-d7fcaeb6-d097345d-64c51131-0b6b48a0.jpg,EW EMER.,M,66,No
+1593,/shared/rsaas/enyij2/mimic/p10293407_s52902010_243189ba-3e04a8f1-366cc3b2-a7e04f99-2a2dc9f0.jpg,EW EMER.,F,61,No
+1594,/shared/rsaas/enyij2/mimic/p19299595_s59271641_2be34933-91b448f2-6ed80cef-2e429dda-3bdaf494.jpg,EU OBSERVATION,M,43,No
+1595,/shared/rsaas/enyij2/mimic/p11009622_s58000523_3901e8bd-e18a4fcb-aa198649-114fc246-fe419e35.jpg,EW EMER.,F,74,Yes
+1596,/shared/rsaas/enyij2/mimic/p12088535_s54458308_2e0f7df1-c42e83a9-b45c2e4b-be1abce8-b74eae6f.jpg,EW EMER.,M,29,No
+1597,/shared/rsaas/enyij2/mimic/p10308342_s54859902_1eae464e-d069519c-817e27e6-a2aa789c-b6c521e0.jpg,ELECTIVE,M,48,Yes
+1598,/shared/rsaas/enyij2/mimic/p11009622_s50470210_622d43f3-7b99ffd4-ec4606ec-d2480a14-99b584fb.jpg,EW EMER.,F,74,Yes
+1599,/shared/rsaas/enyij2/mimic/p15286742_s57469596_ce339522-95d99c24-558191fe-9d361821-9365cb48.jpg,EW EMER.,M,50,No
