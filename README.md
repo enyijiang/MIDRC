@@ -1,5 +1,5 @@
 # FDA_healthcare
-Weakly-supervised Domain Adaptation in Federated learning for Healthcare
+Federated Domain Adaptation for Healthcare
 
 Some part of the code is adapted from the following repos:
 
