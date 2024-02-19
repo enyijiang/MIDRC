@@ -1,6 +1,4 @@
-# FDA_healthcare
-
-**Federated Domain Adaptation for Healthcare.**
+# MIDRC
 
 Cite the paper/repo:
 
