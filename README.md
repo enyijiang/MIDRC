@@ -13,9 +13,8 @@ Cite the paper/repo:
 }
 ```
 
-Some part of the code is adapted from the following repos:
+Parts of the code in this repo is based on:
 
 - https://github.com/nicchiou/domain_adapt_cxr
 
 - https://github.com/uiuc-federated-learning/ml-fault-injector
-
